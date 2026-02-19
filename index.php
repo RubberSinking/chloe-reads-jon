@@ -59,12 +59,12 @@
             margin-bottom: 6px;
         }
         .entry-title a {
-            color: #1a1a1a;
-            text-decoration: none;
+            color: #0066cc;
+            text-decoration: underline;
             font-size: 1.1em;
             font-weight: 600;
         }
-        .entry-title a:hover { color: #0066cc; }
+        .entry-title a:hover { color: #004499; }
         .date {
             color: #999;
             font-size: 0.8em;
