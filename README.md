@@ -4,14 +4,7 @@ Every day, an AI assistant named Chloe reads a post from [Jon Aquino's blog](htt
 
 The result is a growing collection of quizzes, games, visualizations, and tools — each one rooted in a real moment of curiosity from the blog.
 
-## Experiments
-
-| Date | Title | Inspired by |
-|------|-------|-------------|
-| 2026-02-19 | [HN Reading Persona Quiz](hn-persona-quiz.php) | [Hacker News favourite categories](https://jona.ca/2017/01/hacker-news-favourite-categories.html) (2017) |
-| 2026-02-18 | [FVP Task Manager](fvp-task-manager.php) | [New todo-list system: one-minute todo](https://www.jona.ca/2012/05/new-todo-list-system-one-minute-todo.html) (2012) |
-| 2026-02-17 | [4D Hypercube Explorer](hypercube-explorer.php) | [Dimensions video series](https://jona.ca/2008/08/dimensions-video-series.html) (2008) |
-| 2026-02-16 | [Saints Match Game](saints-match-game.php) | [The Saints Podcast](https://cooltoolsforcatholics.blogspot.com/2025/12/the-saints-podcast.html) (2025) |
+**[See all experiments](https://jonathanaquino.com/chloe-reads-jon/index.php)**
 
 ## How It Works
 
