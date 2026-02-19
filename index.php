@@ -115,7 +115,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="saints-match-game.php">Saints Match Game</a> <span class="date">Feb 16, 2026</span></div>
-            <div class="blurb">Match saints to their symbols and stories in this memory card game. Inspired by Jon and Nathan's bedtime ritual with <a href="https://cooltoolsforcatholics.blogspot.com/2025/12/the-saints-podcast.html">The Saints Podcast</a>.</div>
+            <div class="blurb">Match saints to their symbols and stories in this memory card game. Inspired by Jon and his son's bedtime ritual with <a href="https://cooltoolsforcatholics.blogspot.com/2025/12/the-saints-podcast.html">The Saints Podcast</a>.</div>
         </li>
     </ul>
     <footer>

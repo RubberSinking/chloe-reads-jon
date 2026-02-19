@@ -1,7 +1,7 @@
 <?php
 /**
  * Saints Match Game - Match the saint to their story!
- * Inspired by Jon & Nathan's love of The Saints Podcast
+ * Inspired by Jon & his son's love of The Saints Podcast
  */
 $saints = [
     [
