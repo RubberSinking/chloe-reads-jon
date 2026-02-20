@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="great-books-guesser.php">Great Books Guesser</a> <span class="date">2026-02-20</span></div>
+            <div class="blurb">Read the capsule description — can you name the Great Book? A 10-question quiz spanning Homer to Beckett. Inspired by Jon's <a href="https://www.jona.ca/2009/03/capsule-summaries-of-great-books-of.html">encyclopaedic 2009 guide to the Great Books of the Western World</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hn-persona-quiz.php">HN Reading Persona Quiz</a> <span class="date">Feb 19, 2026</span></div>
             <div class="blurb">Which Hacker News reader archetype are you? Inspired by Jon's <a href="https://jona.ca/2017/01/hacker-news-favourite-categories.html">2017 breakdown</a> of his own HN reading habits by category.</div>
         </li>
