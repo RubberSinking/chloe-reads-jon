@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="5bx-exercise-companion.php">5BX Exercise Companion</a> <span class="date">2026-02-21</span></div>
+            <div class="blurb">An interactive guide to the Royal Canadian Air Force's 15-minute daily fitness program, with timers, rep counters, and visual guides for all 6 levels. Inspired by Jon's <a href="http://www.jona.ca/2007/10/royal-canadian-air-force-5bx-daily-15.html">2007 discovery of the 5BX regimen</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="great-books-guesser.php">Great Books Guesser</a> <span class="date">2026-02-20</span></div>
             <div class="blurb">Read the capsule description — can you name the Great Book? A 10-question quiz spanning Homer to Beckett. Inspired by Jon's <a href="https://www.jona.ca/2009/03/capsule-summaries-of-great-books-of.html">encyclopaedic 2009 guide to the Great Books of the Western World</a>.</div>
         </li>
