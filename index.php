@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="history-date-guesser.php">History Date Guesser</a> <span class="date">2026-02-22</span></div>
+            <div class="blurb">Tap a 5,000-year timeline to guess when 10 key events happened — Egypt, Rome, the Crusades, the Moon landing, and more. Score points for closeness. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/06/world-history-on-index-card.html">World History on an Index Card</a> post, drawing from Richard Overy and Diane Moczar's key dates.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="5bx-exercise-companion.php">5BX Exercise Companion</a> <span class="date">2026-02-21</span></div>
             <div class="blurb">An interactive guide to the Royal Canadian Air Force's 15-minute daily fitness program, with timers, rep counters, and visual guides for all 6 levels. Inspired by Jon's <a href="http://www.jona.ca/2007/10/royal-canadian-air-force-5bx-daily-15.html">2007 discovery of the 5BX regimen</a>.</div>
         </li>
