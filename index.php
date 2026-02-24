@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-02-24</span></div>
+            <div class="blurb">A quiet, candlelit guide through all Ten Commandments for preparing your Confession — tap each commandment to see reflection questions, check what you want to bring, and see a clean summary at the bottom to take with you. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI for interactive confession prep</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="catechism-roulette.php">Catechism Roulette</a> <span class="date">2026-02-23</span></div>
             <div class="blurb">Spin through 60 handpicked paragraphs of the Catechism of the Catholic Church — one daily card chosen for you, plus random exploration, card-flip reveals, a favourites shelf, and a reading streak. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2007/08/rss-feed-for-catechism-of-catholic.html">RSS Feed for the Catechism</a> post, making the Church's great treasury more accessible one paragraph at a time.</div>
         </li>
