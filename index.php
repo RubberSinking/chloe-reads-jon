@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="comic-code-review.php">Comic Code Review Generator</a> <span class="date">2026-02-25</span></div>
+            <div class="blurb">Far Side-style one-panel comics for twenty classic code sins — TODO comments preserved in amber, Friday deploys, the God Object, callback hell, and more. Inspired by Jon's <a href="https://www.jona.ca/2026/02/comic-code-reviews-part-2.html">Comic Code Reviews Part 2</a> post about using single-panel comics to help reviewers understand a PR at a glance.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-02-24</span></div>
             <div class="blurb">A quiet, candlelit guide through all Ten Commandments for preparing your Confession — tap each commandment to see reflection questions, check what you want to bring, and see a clean summary at the bottom to take with you. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI for interactive confession prep</a>.</div>
         </li>
