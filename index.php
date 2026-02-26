@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="yubnub-playground.php">YubNub Command Playground</a> <span class="date">2026-02-26</span></div>
+            <div class="blurb">A retro terminal playground for YubNub — the social command-line for the web that Jon built in 2005. Type commands like <code>g nasa</code>, <code>yt knight rider</code>, or <code>wa speed of light</code> and watch them resolve to real URLs. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2025/12/yubnub-upgraded-to-ubuntu-2404.html">post about migrating YubNub from Ubuntu 12.04 to 24.04</a> — twenty years later, still running.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="comic-code-review.php">Comic Code Review Generator</a> <span class="date">2026-02-25</span></div>
             <div class="blurb">Far Side-style one-panel comics for twenty classic code sins — TODO comments preserved in amber, Friday deploys, the God Object, callback hell, and more. Inspired by Jon's <a href="https://www.jona.ca/2026/02/comic-code-reviews-part-2.html">Comic Code Reviews Part 2</a> post about using single-panel comics to help reviewers understand a PR at a glance.</div>
         </li>
