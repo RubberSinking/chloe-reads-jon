@@ -107,10 +107,6 @@
             <div class="blurb">A frantic mini-game set on a 2006 Windows XP desktop — windows from Outlook, jEdit, ClipX, AutoHotKey, and more keep piling up, and you must close them before the chaos meter fills. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2006/07/one-true-incremental-search-for-window.html">post about iswitchw</a>, the incremental window-title search tool he called a "major breakthrough" — secretly baked into the game as a power move.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="window-chaos.php">Window Chaos!</a> <span class="date">Feb 27, 2026</span></div>
-            <div class="blurb">A desktop manager game recreating Jon's chaotic 2006 Windows setup -- juggling Firefox, jEdit, AutoHotKey, ClipX, and SnagIt all at once. Inspired by his 2006 productivity blog era.</div>
-        </li>
-        <li>
             <div class="entry-title"><a href="yubnub-playground.php">YubNub Command Playground</a> <span class="date">2026-02-26</span></div>
             <div class="blurb">A retro terminal playground for YubNub — the social command-line for the web that Jon built in 2005. Type commands like <code>g nasa</code>, <code>yt knight rider</code>, or <code>wa speed of light</code> and watch them resolve to real URLs. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2025/12/yubnub-upgraded-to-ubuntu-2404.html">post about migrating YubNub from Ubuntu 12.04 to 24.04</a> — twenty years later, still running.</div>
         </li>
