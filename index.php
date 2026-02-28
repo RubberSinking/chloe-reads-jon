@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="hn-comment-bingo.php">Hacker News Comment Bingo</a> <span class="date">2026-02-28</span></div>
+            <div class="blurb">A 5&times;5 bingo card packed with classic HN comment archetypes &mdash; "Rewrite it in Rust," "This doesn't scale," "Bell Labs did this in the 70s." Open any HN thread and start clicking. Inspired by Jon's post about the <a href="https://www.jona.ca/2026/02/in-praise-of-hacker-news-highlights.html">Hacker News Highlights Podcast</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="window-chaos.php">Window Chaos!</a> <span class="date">2026-02-27</span></div>
             <div class="blurb">A frantic mini-game set on a 2006 Windows XP desktop — windows from Outlook, jEdit, ClipX, AutoHotKey, and more keep piling up, and you must close them before the chaos meter fills. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2006/07/one-true-incremental-search-for-window.html">post about iswitchw</a>, the incremental window-title search tool he called a "major breakthrough" — secretly baked into the game as a power move.</div>
         </li>
