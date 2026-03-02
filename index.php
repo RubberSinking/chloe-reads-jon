@@ -115,6 +115,10 @@
         </li>mdash; Lectio, Meditatio, Oratio, Contemplatio. Tap a word that catches your attention, write a prayer, sit in silence with a timer and a gentle bell. Twelve gospel passages rotate daily. Inspired by Jon        <!-- NEW_ENTRY -->#39;s <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">Douai-AI post</a> about hearing familiar scripture with fresh ears.</div>
         </li>
         <li>
+            <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">Mar 2, 2026</span></div>
+            <div class="blurb">A simple to-do list using Mark Forster's Autofocus system -- read through your list and work on whatever feels right. Inspired by Jon's long search for the perfect task management approach.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hn-comment-bingo.php">Hacker News Comment Bingo</a> <span class="date">2026-02-28</span></div>
             <div class="blurb">A 5&times;5 bingo card packed with classic HN comment archetypes &mdash; "Rewrite it in Rust," "This doesn't scale," "Bell Labs did this in the 70s." Open any HN thread and start clicking. Inspired by Jon's post about the <a href="https://www.jona.ca/2026/02/in-praise-of-hacker-news-highlights.html">Hacker News Highlights Podcast</a>.</div>
         </li>
