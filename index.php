@@ -112,23 +112,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="lectio-divina.php">Lectio Divina Companion</a> <span class="date">2026-03-01</span></div>
-            <div class="blurb">A four-step interactive guide to sacred reading         <!-- NEW_ENTRY -->
-        <li>
-            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
-            <div class="blurb">An interactive, section-by-section guide through the Ten Commandments, precepts of the Church, and works of mercy. Answer honestly, then get a personalized summary to bring to the confessional. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI to prepare for Confession</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">2026-03-02</span></div>
-            <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Scan, mark what stands out, then work. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
-        </li>mdash; Lectio, Meditatio, Oratio, Contemplatio. Tap a word that catches your attention, write a prayer, sit in silence with a timer and a gentle bell. Twelve gospel passages rotate daily. Inspired by Jon        <!-- NEW_ENTRY -->
-        <li>
-            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
-            <div class="blurb">An interactive, section-by-section guide through the Ten Commandments, precepts of the Church, and works of mercy. Answer honestly, then get a personalized summary to bring to the confessional. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI to prepare for Confession</a>.</div>
-        </li>#39;s <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">Douai-AI post</a> about hearing familiar scripture with fresh ears.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">Mar 2, 2026</span></div>
-            <div class="blurb">A simple to-do list using Mark Forster's Autofocus system -- read through your list and work on whatever feels right. Inspired by Jon's long search for the perfect task management approach.</div>
+            <div class="blurb">A four-step interactive guide to sacred reading &mdash; Lectio, Meditatio, Oratio, Contemplatio. Tap a word that catches your attention, write a prayer, sit in silence with a timer and a gentle bell. Twelve gospel passages rotate daily. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">Douai-AI post</a> about hearing familiar scripture with fresh ears.</div>
         </li>
         <li>
             <div class="entry-title"><a href="hn-comment-bingo.php">Hacker News Comment Bingo</a> <span class="date">2026-02-28</span></div>
@@ -145,10 +129,6 @@
         <li>
             <div class="entry-title"><a href="comic-code-review.php">Comic Code Review Generator</a> <span class="date">2026-02-25</span></div>
             <div class="blurb">Far Side-style one-panel comics for twenty classic code sins — TODO comments preserved in amber, Friday deploys, the God Object, callback hell, and more. Inspired by Jon's <a href="https://www.jona.ca/2026/02/comic-code-reviews-part-2.html">Comic Code Reviews Part 2</a> post about using single-panel comics to help reviewers understand a PR at a glance.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-02-24</span></div>
-            <div class="blurb">A quiet, candlelit guide through all Ten Commandments for preparing your Confession — tap each commandment to see reflection questions, check what you want to bring, and see a clean summary at the bottom to take with you. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI for interactive confession prep</a>.</div>
         </li>
         <li>
             <div class="entry-title"><a href="catechism-roulette.php">Catechism Roulette</a> <span class="date">2026-02-23</span></div>
