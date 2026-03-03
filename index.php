@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
+            <div class="blurb">An interactive, section-by-section guide through the Ten Commandments, precepts of the Church, and works of mercy. Answer honestly, then get a personalized summary to bring to the confessional. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI to prepare for Confession</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">2026-03-02</span></div>
             <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Scan, mark what stands out, then work. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
         </li>
@@ -110,9 +114,17 @@
             <div class="entry-title"><a href="lectio-divina.php">Lectio Divina Companion</a> <span class="date">2026-03-01</span></div>
             <div class="blurb">A four-step interactive guide to sacred reading         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
+            <div class="blurb">An interactive, section-by-section guide through the Ten Commandments, precepts of the Church, and works of mercy. Answer honestly, then get a personalized summary to bring to the confessional. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI to prepare for Confession</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">2026-03-02</span></div>
             <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Scan, mark what stands out, then work. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
-        </li>mdash; Lectio, Meditatio, Oratio, Contemplatio. Tap a word that catches your attention, write a prayer, sit in silence with a timer and a gentle bell. Twelve gospel passages rotate daily. Inspired by Jon        <!-- NEW_ENTRY -->#39;s <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">Douai-AI post</a> about hearing familiar scripture with fresh ears.</div>
+        </li>mdash; Lectio, Meditatio, Oratio, Contemplatio. Tap a word that catches your attention, write a prayer, sit in silence with a timer and a gentle bell. Twelve gospel passages rotate daily. Inspired by Jon        <!-- NEW_ENTRY -->
+        <li>
+            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
+            <div class="blurb">An interactive, section-by-section guide through the Ten Commandments, precepts of the Church, and works of mercy. Answer honestly, then get a personalized summary to bring to the confessional. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI to prepare for Confession</a>.</div>
+        </li>#39;s <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">Douai-AI post</a> about hearing familiar scripture with fresh ears.</div>
         </li>
         <li>
             <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">Mar 2, 2026</span></div>
