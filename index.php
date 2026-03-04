@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="one-second-everyday.php">1 Second Everyday</a> <span class="date">2026-03-04</span></div>
+            <div class="blurb">A colour-coded year-grid journal where you tap any day, pick a mood, and write one sentence about it. Watch your year fill up square by square. Saves to localStorage, works offline, and lets you flip through past years. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/favorite-apps-and-tech.html">favourite apps post</a> and his love of the 1 Second Everyday video-diary app.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
             <div class="blurb">An interactive, section-by-section guide through the Ten Commandments, precepts of the Church, and works of mercy. Answer honestly, then get a personalized summary to bring to the confessional. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI to prepare for Confession</a>.</div>
         </li>
