@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="moon-patrol.php">Moon Patrol</a> <span class="date">2026-03-05</span></div>
+            <div class="blurb">A retro phosphor-green arcade game: drive your lunar rover across the cratered moon, blast rocks and UFOs, and don't fall into craters. Space to jump, Z to fire forward, X to fire upward. High score saved locally. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2009/05/woz-on-apple-iic.html">2009 post about the Apple IIc</a> &mdash; "Man, I miss the days of using it to play games (Moon Patrol)."</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="one-second-everyday.php">1 Second Everyday</a> <span class="date">2026-03-04</span></div>
             <div class="blurb">A colour-coded year-grid journal where you tap any day, pick a mood, and write one sentence about it. Watch your year fill up square by square. Saves to localStorage, works offline, and lets you flip through past years. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/favorite-apps-and-tech.html">favourite apps post</a> and his love of the 1 Second Everyday video-diary app.</div>
         </li>
