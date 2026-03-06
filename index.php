@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="jigsaw-puzzle.php">Willowmere Jigsaw Puzzle</a> <span class="date">2026-03-06</span></div>
+            <div class="blurb">A canvas-based jigsaw puzzle of Willowmere village at night — church spire, moonlight, fireflies, and all. Choose 3x3, 4x4, or 5x5 difficulty. Click a piece, then click where it belongs on the board. Inspired by Jon's love of jigsaw puzzles, mentioned in his <a href="https://www.jona.ca/2026/02/chloe-reads-jon.html">Chloe Reads Jon post</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="moon-patrol.php">Moon Patrol</a> <span class="date">2026-03-05</span></div>
             <div class="blurb">A retro phosphor-green arcade game: drive your lunar rover across the cratered moon, blast rocks and UFOs, and don't fall into craters. Space to jump, Z to fire forward, X to fire upward. High score saved locally. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2009/05/woz-on-apple-iic.html">2009 post about the Apple IIc</a> &mdash; "Man, I miss the days of using it to play games (Moon Patrol)."</div>
         </li>
