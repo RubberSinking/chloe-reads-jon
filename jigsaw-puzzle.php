@@ -257,10 +257,11 @@ function initSizes() {
   pieceH = Math.floor(BH / ROWS);
 
   // Scatter area
-  const sRows = Math.ceil((COLS * ROWS) / COLS);
+  const sRows = ROWS;
   PW = BW;
   PH = sRows * (pieceH + 6) + 10;
-  scatterCanvas.width = PW; scatterCanvas.height = PH;
+  scatterCanvas.width = PW;
+  scatterCanvas.height = PH;
 
   // Offscreen for source image
   offscreen = document.createElement('canvas');
@@ -331,8 +332,15 @@ function drawBoard() {
 }
 
 function drawScatter() {
-  scatterCtx.clearRect(0, 0, PW, PH);
   const perRow = COLS;
+  // Calculate correct height BEFORE drawing (changing height clears canvas)
+  const unplaced = pieces.filter(p => !p.placed);
+  const maxRow = Math.ceil(unplaced.length / perRow);
+  const newH = Math.max(pieceH + 10, maxRow * (pieceH + 6) + 10);
+  if (scatterCanvas.height !== newH) {
+    scatterCanvas.height = newH;
+  }
+  scatterCtx.clearRect(0, 0, PW, scatterCanvas.height);
   pieces.forEach((p, i) => {
     if (p.placed) return;
     const sx = (i % perRow) * (pieceW + 4) + 2;
@@ -344,9 +352,6 @@ function drawScatter() {
       scatterCtx.strokeRect(sx - 1, sy - 1, pieceW + 2, pieceH + 2);
     }
   });
-  // Adjust height
-  const maxRow = Math.ceil(pieces.filter(p => !p.placed).length / COLS);
-  scatterCanvas.height = Math.max(pieceH + 10, maxRow * (pieceH + 6) + 10);
 }
 
 function drawPieceOnCtx(ctx, p, x, y, onBoard) {
