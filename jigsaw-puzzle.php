@@ -441,7 +441,6 @@ function toggleHint() {
     : 'display:none';
 }
 
-window.addEventListener('resize', () => { if (pieces.length) startGame(); });
 startGame();
 </script>
 </body>
