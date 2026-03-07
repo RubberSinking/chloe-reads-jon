@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="rose-and-thorn-journal.php">Rose &amp; Thorn Journal</a> <span class="date">2026-03-07</span></div>
+            <div class="blurb">A nightly family journal for Jon and Nathan — log a Rose (best moment), Thorn (hardest moment), and Bud (hope for tomorrow) for each of you. Browse the calendar to revisit past nights, and watch your streak grow. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2024/12/faith-meets-innovation-using-ai-for.html">AI Spiritual Director post</a>, which mentions the rose/thorn evening ritual he and Nathan share.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="jigsaw-puzzle.php">Willowmere Jigsaw Puzzle</a> <span class="date">2026-03-06</span></div>
             <div class="blurb">A canvas-based jigsaw puzzle of Willowmere village at night — church spire, moonlight, fireflies, and all. Choose 3x3, 4x4, or 5x5 difficulty. Click a piece, then click where it belongs on the board. Inspired by Jon's love of jigsaw puzzles, mentioned in his <a href="https://www.jona.ca/2026/02/chloe-reads-jon.html">Chloe Reads Jon post</a>.</div>
         </li>
