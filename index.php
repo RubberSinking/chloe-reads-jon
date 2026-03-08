@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="rosary-companion.php">Rosary Companion</a> <span class="date">2026-03-08</span></div>
+            <div class="blurb">A full interactive Rosary guide — bead by bead through all 20 mysteries, with original SVG art inspired by the masterworks Jon chose. Auto-selects today's mysteries (Joyful, Luminous, Sorrowful, or Glorious). Every prayer included, from the Apostles' Creed to the Hail Holy Queen. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/praying-rosary-with-great-works-of-art.html">Praying the Rosary with Great Works of Art</a> post, featuring Tiepolo, Giotto, Dürer, El Greco, Fra Angelico, Rembrandt, and Botticelli.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="rose-and-thorn-journal.php">Rose &amp; Thorn Journal</a> <span class="date">2026-03-07</span></div>
             <div class="blurb">A nightly family journal for Jon and Nathan — log a Rose (best moment), Thorn (hardest moment), and Bud (hope for tomorrow) for each of you. Browse the calendar to revisit past nights, and watch your streak grow. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2024/12/faith-meets-innovation-using-ai-for.html">AI Spiritual Director post</a>, which mentions the rose/thorn evening ritual he and Nathan share.</div>
         </li>
