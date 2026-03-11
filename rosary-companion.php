@@ -782,6 +782,8 @@ function buildSequence(mysteries) {
 let currentSet = '<?= $defaultSet ?>';
 let sequence = [];
 let pos = 0;
+let currentArtSrc = null;
+let currentArtCaption = '';
 
 // ══════════════════════════════════════════
 //  INIT
@@ -879,13 +881,18 @@ function render() {
   const panel = document.getElementById('art-panel');
   panel.className = `art-panel ${data.color}`;
   if (mystery && mystery.art) {
-    document.getElementById('art-scene').innerHTML = `<img src="${mystery.art}" alt="${mystery.title}" onclick="openLightbox('${mystery.art}','${mystery.artCredit.replace(/'/g,"\\'")}')" loading="lazy">`;
+    currentArtSrc = mystery.art;
+    currentArtCaption = mystery.artCredit;
+    document.getElementById('art-scene').innerHTML = `<img src="${mystery.art}" alt="${mystery.title}" loading="lazy">`;
     document.getElementById('art-title').textContent = mystery.artCredit;
     panel.style.cursor = 'zoom-in';
+    panel.onclick = () => openLightbox(currentArtSrc, currentArtCaption);
   } else {
+    currentArtSrc = null;
     document.getElementById('art-scene').innerHTML = getIntroArt(data.color);
     document.getElementById('art-title').textContent = '';
     panel.style.cursor = 'default';
+    panel.onclick = null;
   }
 
   // Mystery heading
