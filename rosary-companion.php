@@ -34,6 +34,7 @@ body {
   color: var(--text);
   min-height: 100vh;
   overflow-x: hidden;
+  max-width: 100vw;
 }
 
 /* ─── Stars background ─── */
@@ -258,6 +259,7 @@ body::before {
   gap: 6px;
   margin: 20px 0 16px;
   flex-wrap: wrap;
+  max-width: 100%;
 }
 
 .bead {
@@ -267,7 +269,12 @@ body::before {
   background: var(--panel);
   flex-shrink: 0;
   transition: all 0.3s;
-  cursor: default;
+  cursor: pointer;
+}
+
+.bead:hover {
+  border-color: rgba(201,168,76,0.7);
+  transform: scale(1.15);
 }
 
 .bead.large {
@@ -322,6 +329,8 @@ body::before {
   font-size: 1.05em;
   line-height: 1.7;
   color: var(--text);
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .prayer-text em {
@@ -1618,6 +1627,7 @@ function renderBeads(item) {
         b.className = 'bead large' + (i === 0 && item.type === 'hailHolyQueen' ? ' current' : '') +
                       (item.type === 'closing' && i === 1 ? ' current' : '') +
                       (item.type === 'closing' && i === 0 ? ' done' : '');
+        b.onclick = nextBead;
         row.appendChild(b);
       }
       return;
@@ -1634,6 +1644,7 @@ function renderBeads(item) {
       isDone = i < myIntroPos;
       isCurrent = i === myIntroPos;
       b.className = 'bead' + (!isHailMary ? ' large' : '') + (isDone ? ' done' : '') + (isCurrent ? ' current' : '');
+      b.onclick = nextBead;
       row.appendChild(b);
     });
     return;
@@ -1654,6 +1665,7 @@ function renderBeads(item) {
     const isCurrent = globalIdx === pos;
     const isLarge = di.type === 'announce' || di.type === 'ourFather' || di.type === 'gloryBe' || di.type === 'fatima';
     b.className = 'bead' + (isLarge ? ' large' : '') + (isDone ? ' done' : '') + (isCurrent ? ' current' : '');
+    b.onclick = nextBead;
     row.appendChild(b);
   });
 }
