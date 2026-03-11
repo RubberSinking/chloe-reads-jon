@@ -716,7 +716,7 @@ const MYSTERIES = {
     mysteries: [
       {
         title: 'The Baptism of Jesus',
-        meditation: 'Jesus is baptised by John in the River Jordan. The Holy Spirit descends as a dove, and the Father's voice is heard: "This is my beloved Son."',
+        meditation: 'Jesus is baptised by John in the River Jordan. The Holy Spirit descends as a dove, and the Father\'s voice is heard: "This is my beloved Son."',
         art: `<svg viewBox="0 0 200 180" xmlns="http://www.w3.org/2000/svg">
           <rect x="0" y="0" width="200" height="180" fill="#0a1a20"/>
           <!-- Sky -->
@@ -756,7 +756,7 @@ const MYSTERIES = {
       },
       {
         title: 'The Wedding at Cana',
-        meditation: 'At Mary's prompting, Jesus performs His first miracle at a wedding feast, turning water into wine — and His disciples believe in Him.',
+        meditation: 'At Mary\'s prompting, Jesus performs His first miracle at a wedding feast, turning water into wine — and His disciples believe in Him.',
         art: `<svg viewBox="0 0 200 180" xmlns="http://www.w3.org/2000/svg">
           <rect x="0" y="0" width="200" height="180" fill="#1a1520"/>
           <!-- Table cloth -->
@@ -1551,7 +1551,7 @@ function render() {
   } else if (item.phase === 'intro') {
     document.getElementById('mystery-num').textContent = 'Opening Prayers';
     document.getElementById('mystery-title').textContent = 'The Rosary Begins';
-    document.getElementById('mystery-med').textContent = 'Begin in faith, holding Our Lady's hand as she leads you to her Son.';
+    document.getElementById('mystery-med').textContent = 'Begin in faith, holding Our Lady\'s hand as she leads you to her Son.';
   } else {
     document.getElementById('mystery-num').textContent = 'Closing Prayers';
     document.getElementById('mystery-title').textContent = 'The Rosary Concludes';
