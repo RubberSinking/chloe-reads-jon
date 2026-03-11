@@ -179,34 +179,43 @@ body::before {
 .prayer-header {
   display: flex;
   align-items: center;
-  gap: 12px;
-  padding: 16px 20px;
+  gap: 8px;
+  padding: 10px 12px;
   background: rgba(15,12,26,0.8);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid rgba(201,168,76,0.2);
   position: sticky; top: 0; z-index: 10;
 }
 
-.back-btn {
+.nav-hdr-btn {
   background: none;
   border: 1px solid rgba(201,168,76,0.4);
   border-radius: 8px;
   color: var(--gold);
-  padding: 6px 12px;
+  padding: 8px 14px;
   cursor: pointer;
   font-family: Georgia, serif;
-  font-size: 0.85em;
+  font-size: 0.9em;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
+
+.nav-hdr-btn.primary {
+  background: linear-gradient(135deg, #8a6a1c, var(--gold));
+  border-color: transparent;
+  color: #fff;
+}
+
+.nav-hdr-btn:disabled { opacity: 0.3; cursor: default; }
 
 .header-mystery {
   flex: 1;
   text-align: center;
+  min-width: 0;
 }
 
-.header-set { font-size: 0.75em; color: var(--gold); letter-spacing: 1px; text-transform: uppercase; }
-.header-mystery-name { font-size: 1em; color: var(--text); }
-
-.header-progress { font-size: 0.8em; color: var(--muted); white-space: nowrap; }
+.header-set { font-size: 0.7em; color: var(--gold); letter-spacing: 1px; text-transform: uppercase; }
+.header-mystery-name { font-size: 0.85em; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 /* ─── Art panel ─── */
 .art-panel {
@@ -353,34 +362,7 @@ body::before {
   font-style: normal;
 }
 
-/* ─── Navigation ─── */
-.nav-row {
-  display: flex;
-  gap: 12px;
-  margin-bottom: 32px;
-}
 
-.nav-btn {
-  flex: 1;
-  padding: 14px;
-  border-radius: 12px;
-  border: 1px solid rgba(201,168,76,0.3);
-  background: var(--panel);
-  color: var(--text);
-  font-family: Georgia, serif;
-  font-size: 0.95em;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.nav-btn.primary {
-  background: linear-gradient(135deg, #8a6a1c, var(--gold));
-  border-color: transparent;
-  color: #fff;
-}
-
-.nav-btn:disabled { opacity: 0.3; cursor: default; }
-.nav-btn:not(:disabled):hover { opacity: 0.85; }
 
 /* ─── Completion screen ─── */
 #complete {
@@ -486,12 +468,12 @@ body::before {
 <!-- ══════════════ PRAYER ══════════════ -->
 <div id="prayer">
   <div class="prayer-header">
-    <button class="back-btn" onclick="goHome()">← Back</button>
+    <button class="nav-hdr-btn" id="hdr-prev-btn" onclick="prevBead()">← Back</button>
     <div class="header-mystery">
       <div class="header-set" id="hdr-set"></div>
       <div id="hdr-mystery"></div>
     </div>
-    <div class="header-progress" id="hdr-progress"></div>
+    <button class="nav-hdr-btn primary" id="hdr-next-btn" onclick="nextBead()">Next →</button>
   </div>
 
   <div class="art-panel" id="art-panel">
@@ -514,10 +496,7 @@ body::before {
       <div class="prayer-text" id="prayer-text"></div>
     </div>
 
-    <div class="nav-row">
-      <button class="nav-btn" id="prev-btn" onclick="prevBead()">← Previous</button>
-      <button class="nav-btn primary" id="next-btn" onclick="nextBead()">Next →</button>
-    </div>
+
   </div>
 </div>
 
@@ -1588,8 +1567,9 @@ function render() {
   document.getElementById('prayer-text').innerHTML = p.text;
 
   // Nav
-  document.getElementById('prev-btn').disabled = (pos === 0);
-  document.getElementById('next-btn').textContent = (pos === sequence.length - 1) ? 'Complete ✝' : 'Next →';
+  document.getElementById('hdr-prev-btn').disabled = (pos === 0);
+  document.getElementById('hdr-prev-btn').textContent = (pos === 0) ? '← Back' : '← Prev';
+  document.getElementById('hdr-next-btn').textContent = (pos === sequence.length - 1) ? 'Done ✝' : 'Next →';
 
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
