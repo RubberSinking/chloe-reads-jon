@@ -468,12 +468,12 @@ body::before {
 <!-- ══════════════ PRAYER ══════════════ -->
 <div id="prayer">
   <div class="prayer-header">
-    <button class="nav-hdr-btn" id="hdr-prev-btn" onclick="prevBead()">← Back</button>
+    <button class="nav-hdr-btn" id="hdr-prev-btn" onclick="prevSection()">← Back</button>
     <div class="header-mystery">
       <div class="header-set" id="hdr-set"></div>
       <div id="hdr-mystery"></div>
     </div>
-    <button class="nav-hdr-btn primary" id="hdr-next-btn" onclick="nextBead()">Next →</button>
+    <button class="nav-hdr-btn primary" id="hdr-next-btn" onclick="nextSection()">Next →</button>
   </div>
 
   <div class="art-panel" id="art-panel">
@@ -1526,6 +1526,37 @@ function prevBead() {
   if (pos > 0) { pos--; render(); }
 }
 
+function getSectionAnchors() {
+  const anchors = [0];
+  for (let i = 0; i < 5; i++) {
+    const idx = sequence.findIndex(s => s.mysteryIdx === i && s.phase === 'decade');
+    if (idx >= 0) anchors.push(idx);
+  }
+  const closingIdx = sequence.findIndex(s => s.phase === 'closing');
+  if (closingIdx >= 0) anchors.push(closingIdx);
+  return anchors;
+}
+
+function nextSection() {
+  const anchors = getSectionAnchors();
+  const next = anchors.find(a => a > pos);
+  if (next !== undefined) {
+    pos = next;
+    render();
+  } else {
+    showComplete();
+  }
+}
+
+function prevSection() {
+  const anchors = getSectionAnchors();
+  const prev = [...anchors].reverse().find(a => a < pos);
+  if (prev !== undefined) {
+    pos = prev;
+    render();
+  }
+}
+
 function render() {
   const item = sequence[pos];
   const data = MYSTERIES[currentSet];
@@ -1566,9 +1597,12 @@ function render() {
   document.getElementById('prayer-text').innerHTML = p.text;
 
   // Nav
-  document.getElementById('hdr-prev-btn').disabled = (pos === 0);
-  document.getElementById('hdr-prev-btn').textContent = (pos === 0) ? '← Back' : '← Prev';
-  document.getElementById('hdr-next-btn').textContent = (pos === sequence.length - 1) ? 'Done ✝' : 'Next →';
+  const anchors = getSectionAnchors();
+  const hasPrev = anchors.some(a => a < pos);
+  const hasNext = anchors.some(a => a > pos);
+  document.getElementById('hdr-prev-btn').disabled = !hasPrev;
+  document.getElementById('hdr-prev-btn').textContent = '← Back';
+  document.getElementById('hdr-next-btn').textContent = hasNext ? 'Next →' : 'Done ✝';
 
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
