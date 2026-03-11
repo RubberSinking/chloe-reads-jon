@@ -1534,7 +1534,6 @@ function render() {
   // Header
   document.getElementById('hdr-set').textContent = data.label;
   document.getElementById('hdr-mystery').textContent = mystery ? mystery.title : '—';
-  document.getElementById('hdr-progress').textContent = `${pos+1} / ${sequence.length}`;
 
   // Art panel
   const panel = document.getElementById('art-panel');
