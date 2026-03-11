@@ -17,6 +17,11 @@ $defaultSet = match($day) {
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+html {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
 :root {
   --gold: #c9a84c;
   --gold-light: #e8c97a;
@@ -34,7 +39,8 @@ body {
   color: var(--text);
   min-height: 100vh;
   overflow-x: hidden;
-  max-width: 100vw;
+  width: 100%;
+  max-width: 100%;
 }
 
 /* ─── Stars background ─── */
@@ -162,7 +168,7 @@ body::before {
 .art-credit a { color: var(--muted); }
 
 /* ─── PRAYER SCREEN ─── */
-#prayer { display: none; min-height: 100vh; flex-direction: column; position: relative; z-index: 1; }
+#prayer { display: none; min-height: 100vh; flex-direction: column; position: relative; z-index: 1; width: 100%; overflow-x: hidden; }
 
 .prayer-header {
   display: flex;
@@ -224,10 +230,13 @@ body::before {
   color: rgba(240,234,216,0.7);
   font-style: italic;
   text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 /* ─── SVG art pieces per mystery ─── */
-.art-scene svg { max-height: 180px; width: auto; }
+.art-scene svg { max-height: 180px; width: auto; max-width: 100%; }
 
 /* ─── Prayer content ─── */
 .prayer-content {
