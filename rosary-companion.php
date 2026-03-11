@@ -784,6 +784,7 @@ let sequence = [];
 let pos = 0;
 let currentArtSrc = null;
 let currentArtCaption = '';
+let lastRenderedMysteryIdx = -99;
 
 // ══════════════════════════════════════════
 //  INIT
@@ -877,22 +878,26 @@ function render() {
   document.getElementById('hdr-set').textContent = data.label;
   document.getElementById('hdr-mystery').textContent = mystery ? mystery.title : '—';
 
-  // Art panel
+  // Art panel — only re-render when mystery changes
   const panel = document.getElementById('art-panel');
-  panel.className = `art-panel ${data.color}`;
-  if (mystery && mystery.art) {
-    currentArtSrc = mystery.art;
-    currentArtCaption = mystery.artCredit;
-    document.getElementById('art-scene').innerHTML = `<img src="${mystery.art}" alt="${mystery.title}" loading="lazy">`;
-    document.getElementById('art-title').textContent = mystery.artCredit;
-    panel.style.cursor = 'zoom-in';
-    panel.onclick = () => openLightbox(currentArtSrc, currentArtCaption);
-  } else {
-    currentArtSrc = null;
-    document.getElementById('art-scene').innerHTML = getIntroArt(data.color);
-    document.getElementById('art-title').textContent = '';
-    panel.style.cursor = 'default';
-    panel.onclick = null;
+  const mysteryIdx = item.mysteryIdx;
+  if (mysteryIdx !== lastRenderedMysteryIdx) {
+    lastRenderedMysteryIdx = mysteryIdx;
+    panel.className = `art-panel ${data.color}`;
+    if (mystery && mystery.art) {
+      currentArtSrc = mystery.art;
+      currentArtCaption = mystery.artCredit;
+      document.getElementById('art-scene').innerHTML = `<img src="${mystery.art}" alt="${mystery.title}" loading="lazy">`;
+      document.getElementById('art-title').textContent = mystery.artCredit;
+      panel.style.cursor = 'zoom-in';
+      panel.onclick = () => openLightbox(currentArtSrc, currentArtCaption);
+    } else {
+      currentArtSrc = null;
+      document.getElementById('art-scene').innerHTML = getIntroArt(data.color);
+      document.getElementById('art-title').textContent = '';
+      panel.style.cursor = 'default';
+      panel.onclick = null;
+    }
   }
 
   // Mystery heading
