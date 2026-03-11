@@ -1554,6 +1554,8 @@ function prevSection() {
   if (prev !== undefined) {
     pos = prev;
     render();
+  } else {
+    goHome();
   }
 }
 
@@ -1598,9 +1600,8 @@ function render() {
 
   // Nav
   const anchors = getSectionAnchors();
-  const hasPrev = anchors.some(a => a < pos);
   const hasNext = anchors.some(a => a > pos);
-  document.getElementById('hdr-prev-btn').disabled = !hasPrev;
+  document.getElementById('hdr-prev-btn').disabled = false;
   document.getElementById('hdr-prev-btn').textContent = '← Back';
   document.getElementById('hdr-next-btn').textContent = hasNext ? 'Next →' : 'Done ✝';
 
