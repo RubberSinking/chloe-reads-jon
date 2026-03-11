@@ -39,6 +39,7 @@ body {
   color: var(--text);
   min-height: 100vh;
   overflow-x: hidden;
+  position: relative;
   width: 100%;
   max-width: 100%;
 }
@@ -63,9 +64,11 @@ body::before {
 /* ─── HOME SCREEN ─── */
 #home {
   max-width: 560px;
+  width: 100%;
   margin: 0 auto;
   padding: 40px 20px 60px;
   position: relative; z-index: 1;
+  overflow: hidden;
 }
 
 .site-title {
@@ -163,9 +166,12 @@ body::before {
   color: var(--muted);
   font-style: italic;
   line-height: 1.5;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  width: 100%;
 }
 
-.art-credit a { color: var(--muted); }
+.art-credit a { color: var(--muted); display: inline; word-break: break-word; }
 
 /* ─── PRAYER SCREEN ─── */
 #prayer { display: none; min-height: 100vh; flex-direction: column; position: relative; z-index: 1; width: 100%; overflow-x: hidden; }
@@ -473,10 +479,7 @@ body::before {
   <button class="start-btn" onclick="startRosary()">Begin the Rosary ✝</button>
 
   <p class="art-credit">
-    Mysteries accompanied by works of art chosen by Jon Aquino, inspired by his<br>
-    <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/praying-rosary-with-great-works-of-art.html" target="_blank">
-      "Praying the Rosary with Great Works of Art"
-    </a> — Tiepolo, Giotto, Dürer, El Greco,<br>Fra Angelico, Rembrandt, Botticelli, and more.
+    Mysteries accompanied by works of art chosen by Jon Aquino, inspired by his <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/praying-rosary-with-great-works-of-art.html" target="_blank">"Praying the Rosary with Great Works of Art"</a> — Tiepolo, Giotto, Dürer, El Greco, Fra Angelico, Rembrandt, Botticelli, and more.
   </p>
 </div>
 
