@@ -106,11 +106,13 @@ $totalIn = $totalMm / 25.4;
 // Watering recommendation
 // Month-based threshold: summer needs ~25mm/week; spring/fall ~15mm; winter skip
 // ──────────────────────────────────────────────
+// 1 inch/week = 25.4mm — standard lawn watering guideline
+// Spring/fall slightly less (cooler temps, less evaporation); summer full inch
 $monthThresholds = [
-    1 => null, 2 => null, 3 => 12,
-    4 => 15,   5 => 20,   6 => 25,
-    7 => 28,   8 => 28,   9 => 22,
-    10 => 15, 11 => null, 12 => null,
+    1 => null, 2 => null, 3 => 25,
+    4 => 25,   5 => 25,   6 => 25,
+    7 => 25,   8 => 25,   9 => 25,
+    10 => 25, 11 => null, 12 => null,
 ];
 $threshold = $monthThresholds[$thisMonth];
 
