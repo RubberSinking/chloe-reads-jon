@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="surrey-lawn-watering.php">Surrey Lawn Watering Assistant</a> <span class="date">2026-03-14</span></div>
+            <div class="blurb">Fetches live rainfall data from the Surrey Municipal Hall rain gauge and tells you whether to water your lawn this week — with a 7-day bar chart, a season-aware threshold, and an animated lawn scene. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/things-i-love-using-my-command-line-ai.html">post about his favourite AI prompts</a>, where he uses Amazon Q to curl the FlowWorks site and figure out if Surrey has had enough rain.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="morning-prayer-timer.php">10-Minute Morning Prayer Timer</a> <span class="date">2026-03-11</span></div>
             <div class="blurb">A guided, timed morning prayer — six sections, ten minutes, one gospel passage per day. Opening prayer, scripture, reflection questions, a responsorial psalm, intercessions, and a closing blessing. Auto-advances between sections with a countdown timer and a calming parchment design. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2025/03/ai-driven-morning-prayer.html">AI-Driven Morning Prayer post</a>, where he generates a minute-by-minute morning prayer schedule using ChatGPT.</div>
         </li>
