@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="bible-books-blitz.php">Bible Books Blitz</a> <span class="date">2026-03-15</span></div>
+            <div class="blurb">A 10-question quiz through all 73 books of the Catholic Bible — read the capsule description, pick the right book from four choices. Old Testament, New Testament, Old Testament deuterocanonicals, the works. Fun facts after every answer, keyboard shortcuts, and a scroll-and-parchment design. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/capsule-summaries-of-books-of-bible.html">Capsule Summaries of the Books of the Bible</a> post, which lists all 73 books with short descriptions and page counts — the perfect raw material for a quiz.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="surrey-lawn-watering.php">Surrey Lawn Watering Assistant</a> <span class="date">2026-03-14</span></div>
             <div class="blurb">Fetches live rainfall data from the Surrey Municipal Hall rain gauge and tells you whether to water your lawn this week — with a 7-day bar chart, a season-aware threshold, and an animated lawn scene. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/things-i-love-using-my-command-line-ai.html">post about his favourite AI prompts</a>, where he uses Amazon Q to curl the FlowWorks site and figure out if Surrey has had enough rain.</div>
         </li>
