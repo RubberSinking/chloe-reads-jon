@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="omarchy-screensaver.php">ASCII Terminal Lab</a> <span class="date">2026-03-16</span></div>
+            <div class="blurb">A retro terminal ASCII art studio — type text, choose a font style (Classic, Block, Dots, Slim) and a colour theme (Green, Cyan, Amber, Purple), then copy the output straight into your Omarchy screensaver config. Hit Screensaver Mode for a full-screen bouncing animation with matrix rain. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/12/customizing-omarchy-screensaver.html">post about customising the Omarchy screensaver</a> and his love of patorjk.com ASCII fonts.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="bible-books-blitz.php">Bible Books Blitz</a> <span class="date">2026-03-15</span></div>
             <div class="blurb">A 10-question quiz through all 73 books of the Catholic Bible — read the capsule description, pick the right book from four choices. Old Testament, New Testament, Old Testament deuterocanonicals, the works. Fun facts after every answer, keyboard shortcuts, and a scroll-and-parchment design. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/capsule-summaries-of-books-of-bible.html">Capsule Summaries of the Books of the Bible</a> post, which lists all 73 books with short descriptions and page counts — the perfect raw material for a quiz.</div>
         </li>
