@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="grit-scale-quiz.php">Grit Scale Quiz</a> <span class="date">2026-03-17</span></div>
+            <div class="blurb">Angela Duckworth's Short Grit Scale in a slick interactive quiz — 8 questions, 2 minutes, and you get your grit score with a personal breakdown. Burning-ember design, animated progress, quotes from Duckworth, Einstein, and Stephen King. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/03/my-superpower-grit.html">post about Grit as his superpower</a>, where he credits dogged determination — not talent — for everything he's accomplished.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="omarchy-screensaver.php">ASCII Terminal Lab</a> <span class="date">2026-03-16</span></div>
             <div class="blurb">A retro terminal ASCII art studio — type text, choose a font style (Classic, Block, Dots, Slim) and a colour theme (Green, Cyan, Amber, Purple), then copy the output straight into your Omarchy screensaver config. Hit Screensaver Mode for a full-screen bouncing animation with matrix rain. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/12/customizing-omarchy-screensaver.html">post about customising the Omarchy screensaver</a> and his love of patorjk.com ASCII fonts.</div>
         </li>
