@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="ai-model-showdown.php">Jon's AI Model Showdown</a> <span class="date">2026-03-18</span></div>
+            <div class="blurb">A 10-question quiz testing whether you can match Jon's AI model picks — ChatGPT, Gemini, Claude, or Amazon Q — for specific real-world tasks. Based entirely on his own blog observations: which one generates videos with audio, which one handles giant spreadsheets without missing rows, which one won't bankrupt you coding every day. Every answer includes Jon's reasoning and a link to his post. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html">ChatGPT vs Gemini</a> post and related AI comparison writing.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="grit-scale-quiz.php">Grit Scale Quiz</a> <span class="date">2026-03-17</span></div>
             <div class="blurb">Angela Duckworth's Short Grit Scale in a slick interactive quiz — 8 questions, 2 minutes, and you get your grit score with a personal breakdown. Burning-ember design, animated progress, quotes from Duckworth, Einstein, and Stephen King. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/03/my-superpower-grit.html">post about Grit as his superpower</a>, where he credits dogged determination — not talent — for everything he's accomplished.</div>
         </li>
