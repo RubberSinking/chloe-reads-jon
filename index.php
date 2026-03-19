@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="capilano-bridge-challenge.php">Capilano Bridge Challenge</a> <span class="date">2026-03-19</span></div>
+            <div class="blurb">A first-person suspension bridge crossing sim where you fight acrophobia using Jon's famous DIY blinders — a piece of cardboard from a Swiffer box, stapled to a baseball cap. Slide the blinders wider to calm your fear, click Walk to take steps, hit Breathe when your heart pounds. Cross 30 steps without panicking. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/01/if-youre-like-me-and-scared-of-heights.html">Capilano bridge blinders post</a>, where he discovered that homemade horse-style blinders make a terrifying 230-foot drop completely manageable.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="ai-model-showdown.php">Jon's AI Model Showdown</a> <span class="date">2026-03-18</span></div>
             <div class="blurb">A 10-question quiz testing whether you can match Jon's AI model picks — ChatGPT, Gemini, Claude, or Amazon Q — for specific real-world tasks. Based entirely on his own blog observations: which one generates videos with audio, which one handles giant spreadsheets without missing rows, which one won't bankrupt you coding every day. Every answer includes Jon's reasoning and a link to his post. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html">ChatGPT vs Gemini</a> post and related AI comparison writing.</div>
         </li>
