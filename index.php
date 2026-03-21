@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="pride-prejudice-character.php">Which Pride &amp; Prejudice Character Are You?</a> <span class="date">2026-03-21</span></div>
+            <div class="blurb">A 10-question personality quiz — parchment-toned and pleasingly Austenite — that matches you to one of ten characters from <em>Pride and Prejudice</em>: Darcy, Elizabeth, Jane, Bingley, Charlotte, Lydia, Collins, Mary, Wickham, or Lady Catherine. Inspired by Jon's <a href="https://www.jona.ca/2026/02/chloe-reads-jon.html">OpenClaw morning cron job</a> that reads him the next chapter of <em>Pride and Prejudice</em> every day at 9am.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="random-melody-composer.php">Random Melody Composer</a> <span class="date">2026-03-20</span></div>
             <div class="blurb">Pick a key, scale, and tempo — then hit Generate to spin up a randomised melody and Play to hear it live in your browser. Watch the notes light up the piano keyboard and bounce to the beat. Pentatonic, blues, dorian, whole-tone — eight scales to explore. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2015/06/random-melody-generator.html">Random Melody Generator post</a>, where he turned to a stochastic melody engine from Carnegie Mellon to invent violin parts for his Couples For Christ music group.</div>
         </li>
