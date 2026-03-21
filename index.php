@@ -107,6 +107,10 @@
             <div class="blurb">Pick a key, scale, and tempo — then hit Generate to spin up a randomised melody and Play to hear it live in your browser. Watch the notes light up the piano keyboard and bounce to the beat. Pentatonic, blues, dorian, whole-tone — eight scales to explore. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2015/06/random-melody-generator.html">Random Melody Generator post</a>, where he turned to a stochastic melody engine from Carnegie Mellon to invent violin parts for his Couples For Christ music group.</div>
         </li>
         <li>
+            <div class="entry-title"><a href="capilano-challenge.php">Capilano Bridge: Nathan's Revenge</a> <span class="date">2026-03-21</span></div>
+            <div class="blurb">Nathan's game: jump on the suspension bridge to make Dad scream. Rack up screams to unlock upgrades — longer screams, mega shake, bridge extension, bonus dramatic screams — and at 500 screams, Dad enters Permanent Chaos Mode and screams forever. Designed by Nathan (age 9). Dad had no input and no say.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="capilano-bridge-challenge.php">Capilano Bridge Challenge</a> <span class="date">2026-03-19</span></div>
             <div class="blurb">A first-person suspension bridge crossing sim where you fight acrophobia using Jon's famous DIY blinders — a piece of cardboard from a Swiffer box, stapled to a baseball cap. Slide the blinders wider to calm your fear, click Walk to take steps, hit Breathe when your heart pounds. Cross 30 steps without panicking. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/01/if-youre-like-me-and-scared-of-heights.html">Capilano bridge blinders post</a>, where he discovered that homemade horse-style blinders make a terrifying 230-foot drop completely manageable.</div>
         </li>
