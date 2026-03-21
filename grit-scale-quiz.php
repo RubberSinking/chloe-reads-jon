@@ -681,7 +681,7 @@ function showResults() {
     const scoreFixed = score.toFixed(2);
 
     document.getElementById('quiz').style.display = 'none';
-    document.getElementById('results').style.display = '';
+    document.getElementById('results').style.display = 'block';
 
     document.getElementById('result-score').textContent = scoreFixed;
 
