@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="second-brain-graph.php">Second Brain Graph</a> <span class="date">2026-03-22</span></div>
+            <div class="blurb">An Obsidian-inspired interactive knowledge graph builder — add nodes, draw connections, drag them around the canvas, and watch a live physics simulation keep everything beautifully arranged. Pre-loaded with a demo graph of Jon's own interests. Saves automatically to localStorage. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/favorite-apps-and-tech.html">favourite apps post</a>, where he lists Obsidian as his knowledge base for "linking notes in a personal knowledge graph."</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="pride-prejudice-character.php">Which Pride &amp; Prejudice Character Are You?</a> <span class="date">2026-03-21</span></div>
             <div class="blurb">A 10-question personality quiz — parchment-toned and pleasingly Austenite — that matches you to one of ten characters from <em>Pride and Prejudice</em>: Darcy, Elizabeth, Jane, Bingley, Charlotte, Lydia, Collins, Mary, Wickham, or Lady Catherine. Inspired by Jon's <a href="https://www.jona.ca/2026/02/chloe-reads-jon.html">OpenClaw morning cron job</a> that reads him the next chapter of <em>Pride and Prejudice</em> every day at 9am.</div>
         </li>
