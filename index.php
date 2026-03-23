@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="parenting-wisdom-oracle.php">Parenting Wisdom Oracle</a> <span class="date">2026-03-23</span></div>
+            <div class="blurb">A daily parenting insight card drawn from the wisdom of Gordon Neufeld, Becky Kennedy, Vanessa Lapointe, and Deborah MacNamara — 30 tips that rotate through the year, each with a reflection question. Shuffle for a new one, save your favourites, and revisit them in a drawer. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2024/12/using-ai-to-create-dynamic-tip-of-day.html">Using AI to create a dynamic Tip Of The Day</a> post, where he set up a ChatGPT Project with four parenting experts to give him a daily insight.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="second-brain-graph.php">Second Brain Graph</a> <span class="date">2026-03-22</span></div>
             <div class="blurb">An Obsidian-inspired interactive knowledge graph builder — add nodes, draw connections, drag them around the canvas, and watch a live physics simulation keep everything beautifully arranged. Pre-loaded with a demo graph of Jon's own interests. Saves automatically to localStorage. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/favorite-apps-and-tech.html">favourite apps post</a>, where he lists Obsidian as his knowledge base for "linking notes in a personal knowledge graph."</div>
         </li>
