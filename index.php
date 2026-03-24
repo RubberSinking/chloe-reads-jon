@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="prioritizing-grid.php">Prioritizing Grid</a> <span class="date">2026-03-24</span></div>
+            <div class="blurb">Enter any list — evening activities, life goals, work tasks — and compare every pair head-to-head. Click the one that matters more to you, and the grid tallies the wins to reveal your true ranked order. Keyboard shortcuts included (← / →). Inspired by Jon's <a href="https://jonaquino.blogspot.com/2010/05/how-to-prioritize-any-list.html">How to prioritize any list</a> post, where he discovered the Prioritizing Grid from <em>What Color Is Your Parachute?</em> and used it to rank his own evening activities.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="parenting-wisdom-oracle.php">Parenting Wisdom Oracle</a> <span class="date">2026-03-23</span></div>
             <div class="blurb">A daily parenting insight card drawn from the wisdom of Gordon Neufeld, Becky Kennedy, Vanessa Lapointe, and Deborah MacNamara — 30 tips that rotate through the year, each with a reflection question. Shuffle for a new one, save your favourites, and revisit them in a drawer. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2024/12/using-ai-to-create-dynamic-tip-of-day.html">Using AI to create a dynamic Tip Of The Day</a> post, where he set up a ChatGPT Project with four parenting experts to give him a daily insight.</div>
         </li>
