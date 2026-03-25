@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="sources-of-beauty.php">Sources of Beauty</a> <span class="date">2026-03-25</span></div>
+            <div class="blurb">Eight sources of beauty — landscapes, classical art, architecture, nature, music, poetry, a daily saint, and ordinary moments — each with a hand-crafted animation, a contemplative passage, and a reflection question. The day determines which card opens first; arrows, dots, and keyboard navigation let you visit all eight. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/03/sources-of-beauty.html">Sources of Beauty</a> post, where Claude suggested these eight wellsprings of daily beauty to him.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="prioritizing-grid.php">Prioritizing Grid</a> <span class="date">2026-03-24</span></div>
             <div class="blurb">Enter any list — evening activities, life goals, work tasks — and compare every pair head-to-head. Click the one that matters more to you, and the grid tallies the wins to reveal your true ranked order. Keyboard shortcuts included (← / →). Inspired by Jon's <a href="https://jonaquino.blogspot.com/2010/05/how-to-prioritize-any-list.html">How to prioritize any list</a> post, where he discovered the Prioritizing Grid from <em>What Color Is Your Parachute?</em> and used it to rank his own evening activities.</div>
         </li>
