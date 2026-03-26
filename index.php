@@ -104,11 +104,11 @@
         <!-- NEW_ENTRY -->
         <li>
             <div class="entry-title"><a href="tmux-playground.php">tmux Playground</a> <span class="date">2026-03-26</span></div>
-            <div class="blurb">A fully interactive browser-based tmux simulator — split panes vertically and horizontally, open new windows, zoom, kill panes, detach sessions, and run fake shell commands like <code>ls</code>, <code>git status</code>, and <code>cat ~/.tmux.conf</code>. Drag the dividers to resize. Hit <code>demo</code> to watch a dev workspace assemble itself. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/switching-to-lighter-aps.html">post about switching to Alacritty + tmux</a>, where he wrote: "At first I was a bit scared of tmux but now I kind of like it — it's fun to play around with and customize."</div>
+            <div class="blurb">A fully interactive browser-based tmux simulator — split panes vertically and horizontally, open new windows, zoom, kill panes, detach sessions, and run fake shell commands like <code>ls</code>, <code>git status</code>, and <code>cat ~/.tmux.conf</code>. Drag the dividers to resize. Hit <code>demo</code> to watch a dev workspace assemble itself. Inspired by Jon's <a href="https://jona.ca/2025/08/switching-to-lighter-aps.html">post about switching to Alacritty + tmux</a>, where he wrote: "At first I was a bit scared of tmux but now I kind of like it — it's fun to play around with and customize."</div>
         </li>
         <li>
             <div class="entry-title"><a href="sources-of-beauty.php">Sources of Beauty</a> <span class="date">2026-03-25</span></div>
-            <div class="blurb">Eight sources of beauty — landscapes, classical art, architecture, nature, music, poetry, a daily saint, and ordinary moments — each with a hand-crafted animation, a contemplative passage, and a reflection question. The day determines which card opens first; arrows, dots, and keyboard navigation let you visit all eight. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/03/sources-of-beauty.html">Sources of Beauty</a> post, where Claude suggested these eight wellsprings of daily beauty to him.</div>
+            <div class="blurb">Eight sources of beauty — landscapes, classical art, architecture, nature, music, poetry, a daily saint, and ordinary moments — each with a hand-crafted animation, a contemplative passage, and a reflection question. The day determines which card opens first; arrows, dots, and keyboard navigation let you visit all eight. Inspired by Jon's <a href="https://jona.ca/2026/03/sources-of-beauty.html">Sources of Beauty</a> post, where Claude suggested these eight wellsprings of daily beauty to him.</div>
         </li>
         <li>
             <div class="entry-title"><a href="prioritizing-grid.php">Prioritizing Grid</a> <span class="date">2026-03-24</span></div>
@@ -116,11 +116,11 @@
         </li>
         <li>
             <div class="entry-title"><a href="parenting-wisdom-oracle.php">Parenting Wisdom Oracle</a> <span class="date">2026-03-23</span></div>
-            <div class="blurb">A daily parenting insight card drawn from the wisdom of Gordon Neufeld, Becky Kennedy, Vanessa Lapointe, and Deborah MacNamara — 30 tips that rotate through the year, each with a reflection question. Shuffle for a new one, save your favourites, and revisit them in a drawer. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2024/12/using-ai-to-create-dynamic-tip-of-day.html">Using AI to create a dynamic Tip Of The Day</a> post, where he set up a ChatGPT Project with four parenting experts to give him a daily insight.</div>
+            <div class="blurb">A daily parenting insight card drawn from the wisdom of Gordon Neufeld, Becky Kennedy, Vanessa Lapointe, and Deborah MacNamara — 30 tips that rotate through the year, each with a reflection question. Shuffle for a new one, save your favourites, and revisit them in a drawer. Inspired by Jon's <a href="https://jona.ca/2024/12/using-ai-to-create-dynamic-tip-of-day.html">Using AI to create a dynamic Tip Of The Day</a> post, where he set up a ChatGPT Project with four parenting experts to give him a daily insight.</div>
         </li>
         <li>
             <div class="entry-title"><a href="second-brain-graph.php">Second Brain Graph</a> <span class="date">2026-03-22</span></div>
-            <div class="blurb">An Obsidian-inspired interactive knowledge graph builder — add nodes, draw connections, drag them around the canvas, and watch a live physics simulation keep everything beautifully arranged. Pre-loaded with a demo graph of Jon's own interests. Saves automatically to localStorage. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/favorite-apps-and-tech.html">favourite apps post</a>, where he lists Obsidian as his knowledge base for "linking notes in a personal knowledge graph."</div>
+            <div class="blurb">An Obsidian-inspired interactive knowledge graph builder — add nodes, draw connections, drag them around the canvas, and watch a live physics simulation keep everything beautifully arranged. Pre-loaded with a demo graph of Jon's own interests. Saves automatically to localStorage. Inspired by Jon's <a href="https://jona.ca/2025/08/favorite-apps-and-tech.html">favourite apps post</a>, where he lists Obsidian as his knowledge base for "linking notes in a personal knowledge graph."</div>
         </li>
         <li>
             <div class="entry-title"><a href="pride-prejudice-character.php">Which Pride &amp; Prejudice Character Are You?</a> <span class="date">2026-03-21</span></div>
@@ -128,7 +128,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="random-melody-composer.php">Random Melody Composer</a> <span class="date">2026-03-20</span></div>
-            <div class="blurb">Pick a key, scale, and tempo — then hit Generate to spin up a randomised melody and Play to hear it live in your browser. Watch the notes light up the piano keyboard and bounce to the beat. Pentatonic, blues, dorian, whole-tone — eight scales to explore. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2015/06/random-melody-generator.html">Random Melody Generator post</a>, where he turned to a stochastic melody engine from Carnegie Mellon to invent violin parts for his Couples For Christ music group.</div>
+            <div class="blurb">Pick a key, scale, and tempo — then hit Generate to spin up a randomised melody and Play to hear it live in your browser. Watch the notes light up the piano keyboard and bounce to the beat. Pentatonic, blues, dorian, whole-tone — eight scales to explore. Inspired by Jon's <a href="https://jona.ca/2015/06/random-melody-generator.html">Random Melody Generator post</a>, where he turned to a stochastic melody engine from Carnegie Mellon to invent violin parts for his Couples For Christ music group.</div>
         </li>
         <li>
             <div class="entry-title"><a href="capilano-challenge.php">Capilano Bridge: Nathan's Revenge</a> <span class="date">2026-03-21</span></div>
@@ -136,19 +136,19 @@
         </li>
         <li>
             <div class="entry-title"><a href="capilano-bridge-challenge.php">Capilano Bridge Challenge</a> <span class="date">2026-03-19</span></div>
-            <div class="blurb">A first-person suspension bridge crossing sim where you fight acrophobia using Jon's famous DIY blinders — a piece of cardboard from a Swiffer box, stapled to a baseball cap. Slide the blinders wider to calm your fear, click Walk to take steps, hit Breathe when your heart pounds. Cross 30 steps without panicking. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/01/if-youre-like-me-and-scared-of-heights.html">Capilano bridge blinders post</a>, where he discovered that homemade horse-style blinders make a terrifying 230-foot drop completely manageable.</div>
+            <div class="blurb">A first-person suspension bridge crossing sim where you fight acrophobia using Jon's famous DIY blinders — a piece of cardboard from a Swiffer box, stapled to a baseball cap. Slide the blinders wider to calm your fear, click Walk to take steps, hit Breathe when your heart pounds. Cross 30 steps without panicking. Inspired by Jon's <a href="https://jona.ca/2025/01/if-youre-like-me-and-scared-of-heights.html">Capilano bridge blinders post</a>, where he discovered that homemade horse-style blinders make a terrifying 230-foot drop completely manageable.</div>
         </li>
         <li>
             <div class="entry-title"><a href="ai-model-showdown.php">Jon's AI Model Showdown</a> <span class="date">2026-03-18</span></div>
-            <div class="blurb">A 10-question quiz testing whether you can match Jon's AI model picks — ChatGPT, Gemini, Claude, or Amazon Q — for specific real-world tasks. Based entirely on his own blog observations: which one generates videos with audio, which one handles giant spreadsheets without missing rows, which one won't bankrupt you coding every day. Every answer includes Jon's reasoning and a link to his post. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html">ChatGPT vs Gemini</a> post and related AI comparison writing.</div>
+            <div class="blurb">A 10-question quiz testing whether you can match Jon's AI model picks — ChatGPT, Gemini, Claude, or Amazon Q — for specific real-world tasks. Based entirely on his own blog observations: which one generates videos with audio, which one handles giant spreadsheets without missing rows, which one won't bankrupt you coding every day. Every answer includes Jon's reasoning and a link to his post. Inspired by Jon's <a href="https://jona.ca/2025/06/chatgpt-vs-gemini.html">ChatGPT vs Gemini</a> post and related AI comparison writing.</div>
         </li>
         <li>
             <div class="entry-title"><a href="grit-scale-quiz.php">Grit Scale Quiz</a> <span class="date">2026-03-17</span></div>
-            <div class="blurb">Angela Duckworth's Short Grit Scale in a slick interactive quiz — 8 questions, 2 minutes, and you get your grit score with a personal breakdown. Burning-ember design, animated progress, quotes from Duckworth, Einstein, and Stephen King. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/03/my-superpower-grit.html">post about Grit as his superpower</a>, where he credits dogged determination — not talent — for everything he's accomplished.</div>
+            <div class="blurb">Angela Duckworth's Short Grit Scale in a slick interactive quiz — 8 questions, 2 minutes, and you get your grit score with a personal breakdown. Burning-ember design, animated progress, quotes from Duckworth, Einstein, and Stephen King. Inspired by Jon's <a href="https://jona.ca/2025/03/my-superpower-grit.html">post about Grit as his superpower</a>, where he credits dogged determination — not talent — for everything he's accomplished.</div>
         </li>
         <li>
             <div class="entry-title"><a href="omarchy-screensaver.php">ASCII Terminal Lab</a> <span class="date">2026-03-16</span></div>
-            <div class="blurb">A retro terminal ASCII art studio — type text, choose a font style (Classic, Block, Dots, Slim) and a colour theme (Green, Cyan, Amber, Purple), then copy the output straight into your Omarchy screensaver config. Hit Screensaver Mode for a full-screen bouncing animation with matrix rain. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/12/customizing-omarchy-screensaver.html">post about customising the Omarchy screensaver</a> and his love of patorjk.com ASCII fonts.</div>
+            <div class="blurb">A retro terminal ASCII art studio — type text, choose a font style (Classic, Block, Dots, Slim) and a colour theme (Green, Cyan, Amber, Purple), then copy the output straight into your Omarchy screensaver config. Hit Screensaver Mode for a full-screen bouncing animation with matrix rain. Inspired by Jon's <a href="https://jona.ca/2025/12/customizing-omarchy-screensaver.html">post about customising the Omarchy screensaver</a> and his love of patorjk.com ASCII fonts.</div>
         </li>
         <li>
             <div class="entry-title"><a href="bible-books-blitz.php">Bible Books Blitz</a> <span class="date">2026-03-15</span></div>
@@ -156,7 +156,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="surrey-lawn-watering.php">Surrey Lawn Watering Assistant</a> <span class="date">2026-03-14</span></div>
-            <div class="blurb">Fetches live rainfall data from the Surrey Municipal Hall rain gauge and tells you whether to water your lawn this week — with a 7-day bar chart, a season-aware threshold, and an animated lawn scene. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/things-i-love-using-my-command-line-ai.html">post about his favourite AI prompts</a>, where he uses Amazon Q to curl the FlowWorks site and figure out if Surrey has had enough rain.</div>
+            <div class="blurb">Fetches live rainfall data from the Surrey Municipal Hall rain gauge and tells you whether to water your lawn this week — with a 7-day bar chart, a season-aware threshold, and an animated lawn scene. Inspired by Jon's <a href="https://jona.ca/2025/08/things-i-love-using-my-command-line-ai.html">post about his favourite AI prompts</a>, where he uses Amazon Q to curl the FlowWorks site and figure out if Surrey has had enough rain.</div>
         </li>
         <li>
             <div class="entry-title"><a href="morning-prayer-timer.php">10-Minute Morning Prayer Timer</a> <span class="date">2026-03-11</span></div>
@@ -180,7 +180,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="one-second-everyday.php">1 Second Everyday</a> <span class="date">2026-03-04</span></div>
-            <div class="blurb">A colour-coded year-grid journal where you tap any day, pick a mood, and write one sentence about it. Watch your year fill up square by square. Saves to localStorage, works offline, and lets you flip through past years. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/favorite-apps-and-tech.html">favourite apps post</a> and his love of the 1 Second Everyday video-diary app.</div>
+            <div class="blurb">A colour-coded year-grid journal where you tap any day, pick a mood, and write one sentence about it. Watch your year fill up square by square. Saves to localStorage, works offline, and lets you flip through past years. Inspired by Jon's <a href="https://jona.ca/2025/08/favorite-apps-and-tech.html">favourite apps post</a> and his love of the 1 Second Everyday video-diary app.</div>
         </li>
         <li>
             <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
@@ -188,7 +188,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">2026-03-02</span></div>
-            <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Scan, mark what stands out, then work. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
+            <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Scan, mark what stands out, then work. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jona.ca/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
         </li>
         <li>
             <div class="entry-title"><a href="lectio-divina.php">Lectio Divina Companion</a> <span class="date">2026-03-01</span></div>

@@ -408,7 +408,7 @@
     <!-- About -->
     <div class="about-panel">
         <strong>About this tool:</strong> Inspired by Jon's
-        <a href="https://jon-aquino-mental-garden.blogspot.com/2025/12/customizing-omarchy-screensaver.html" target="_blank">post about customizing the Omarchy screensaver</a>
+        <a href="https://jona.ca/2025/12/customizing-omarchy-screensaver.html" target="_blank">post about customizing the Omarchy screensaver</a>
         — he loves how you can tweak it just by editing a text file, and referenced
         <a href="https://patorjk.com/software/taag/" target="_blank">patorjk.com/software/taag</a>
         for generating ASCII fonts.

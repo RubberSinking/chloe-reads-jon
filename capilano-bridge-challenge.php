@@ -317,7 +317,7 @@
 
 <p class="attribution">
     Inspired by Jon's
-    <a href="https://jon-aquino-mental-garden.blogspot.com/2025/01/if-youre-like-me-and-scared-of-heights.html" target="_blank">Capilano bridge blinders post</a>
+    <a href="https://jona.ca/2025/01/if-youre-like-me-and-scared-of-heights.html" target="_blank">Capilano bridge blinders post</a>
     · back to <a href="index.php">Chloe Reads Jon</a>
 </p>
 

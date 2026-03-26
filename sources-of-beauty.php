@@ -381,7 +381,7 @@ header p {
 </div>
 
 <div class="attribution">
-    Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/03/sources-of-beauty.html" target="_blank">Sources of Beauty</a> post
+    Inspired by Jon's <a href="https://jona.ca/2026/03/sources-of-beauty.html" target="_blank">Sources of Beauty</a> post
     — Claude's suggestions for daily beauty, made interactive.
 </div>
 

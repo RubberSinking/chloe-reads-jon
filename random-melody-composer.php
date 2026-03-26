@@ -365,7 +365,7 @@
 </div>
 
 <div class="info">
-    Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2015/06/random-melody-generator.html" target="_blank">Random Melody Generator post</a> — Jon plays violin and was looking for a stochastic melody generator to inspire violin parts for Couples For Christ music.
+    Inspired by Jon's <a href="https://jona.ca/2015/06/random-melody-generator.html" target="_blank">Random Melody Generator post</a> — Jon plays violin and was looking for a stochastic melody generator to inspire violin parts for Couples For Christ music.
     <br>Uses the Web Audio API — no plugins needed.
 </div>
 

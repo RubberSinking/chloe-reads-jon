@@ -718,7 +718,7 @@ $tips_json = json_encode($tips);
 </div>
 
 <p class="attribution">
-    Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2024/12/using-ai-to-create-dynamic-tip-of-day.html" target="_blank">"Using AI to create a dynamic Tip Of The Day"</a> post
+    Inspired by Jon's <a href="https://jona.ca/2024/12/using-ai-to-create-dynamic-tip-of-day.html" target="_blank">"Using AI to create a dynamic Tip Of The Day"</a> post
 </p>
 
 <script>

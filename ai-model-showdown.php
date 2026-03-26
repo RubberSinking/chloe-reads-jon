@@ -496,7 +496,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 1,
         jonSays: "\"Better video generation (with audio)\" — Gemini has a clear edge here over ChatGPT for video generation with audio.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html",
+        blogUrl: "https://jona.ca/2025/06/chatgpt-vs-gemini.html",
         blogTitle: "ChatGPT vs Gemini"
     },
     {
@@ -504,7 +504,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 0,
         jonSays: "\"Better image generation than Gemini\" — and after the big March 2025 update, ChatGPT's image generation improved dramatically. Text in images is now legible where it used to be garbled.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/03/example-of-how-much-chatgpt-image.html",
+        blogUrl: "https://jona.ca/2025/03/example-of-how-much-chatgpt-image.html",
         blogTitle: "ChatGPT image generation improved"
     },
     {
@@ -512,7 +512,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 1,
         jonSays: "\"Handles large amounts of spreadsheet-type data pasted in — ChatGPT misses a lot.\" Jon actually switched from ChatGPT to Gemini precisely because of this failure.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/05/chatgpt-plus-vs-gemini-pro-claude-code.html",
+        blogUrl: "https://jona.ca/2025/05/chatgpt-plus-vs-gemini-pro-claude-code.html",
         blogTitle: "ChatGPT Plus vs Gemini Pro"
     },
     {
@@ -520,7 +520,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 2,
         jonSays: "\"Audio chat is more personable than Gemini, less stiff/businesslike/terse\" — Claude (and ChatGPT) beat Gemini here. Claude also lets you customize voice chat with instructions in a Claude Project.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html",
+        blogUrl: "https://jona.ca/2025/06/chatgpt-vs-gemini.html",
         blogTitle: "ChatGPT vs Gemini"
     },
     {
@@ -528,7 +528,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 1,
         jonSays: "\"Can add an event to Google Calendar via screenshot or picture\" — Gemini's deep integration with Google services makes this a natural fit.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html",
+        blogUrl: "https://jona.ca/2025/06/chatgpt-vs-gemini.html",
         blogTitle: "ChatGPT vs Gemini"
     },
     {
@@ -536,7 +536,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 1,
         jonSays: "\"The Gems feature is really good, especially one in which I asked it to be 'a Catholic spiritual director.' The advice was a lot meatier than when I tried the same in Claude.\"",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html",
+        blogUrl: "https://jona.ca/2025/06/chatgpt-vs-gemini.html",
         blogTitle: "ChatGPT vs Gemini"
     },
     {
@@ -544,7 +544,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude Code", "Amazon Q"],
         correct: 3,
         jonSays: "\"Amazon Q is capped at $20/month, while Claude Code will keep spending your money without limit — I was spending $5–$10/day.\" Amazon Q became Jon's daily driver for exactly this reason.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/05/chatgpt-plus-vs-gemini-pro-claude-code.html",
+        blogUrl: "https://jona.ca/2025/05/chatgpt-plus-vs-gemini-pro-claude-code.html",
         blogTitle: "ChatGPT Plus vs Gemini Pro, Claude Code vs Amazon Q"
     },
     {
@@ -552,7 +552,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude Code", "Amazon Q"],
         correct: 2,
         jonSays: "\"I like how Claude Code lets me do 'create a branch, commit, push, make a PR' and it takes care of everything, including coming up with good commit and PR descriptions.\" This was a big reason Jon loved Claude Code.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/03/liking-claude-code-better-than-cursor.html",
+        blogUrl: "https://jona.ca/2025/03/liking-claude-code-better-than-cursor.html",
         blogTitle: "Liking Claude Code better than Cursor"
     },
     {
@@ -560,7 +560,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 2,
         jonSays: "\"Integrations feature lets me query Atlassian Confluence\" — Claude's Integrations feature is what Jon specifically calls out for connecting to Confluence.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/06/chatgpt-vs-gemini.html",
+        blogUrl: "https://jona.ca/2025/06/chatgpt-vs-gemini.html",
         blogTitle: "ChatGPT vs Gemini"
     },
     {
@@ -568,7 +568,7 @@ const ALL_QUESTIONS = [
         options: ["ChatGPT", "Gemini", "Claude", "Amazon Q"],
         correct: 3,
         jonSays: "Jon used Amazon Q with this exact prompt: curl the FlowWorks site to figure out how much it rained in Surrey in the past week. Amazon Q handles the shell command and interprets the result seamlessly.",
-        blogUrl: "https://jon-aquino-mental-garden.blogspot.com/2025/08/things-i-love-using-my-command-line-ai.html",
+        blogUrl: "https://jona.ca/2025/08/things-i-love-using-my-command-line-ai.html",
         blogTitle: "Things I love using my command-line AI tool for"
     }
 ];
