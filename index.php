@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="tmux-playground.php">tmux Playground</a> <span class="date">2026-03-26</span></div>
+            <div class="blurb">A fully interactive browser-based tmux simulator — split panes vertically and horizontally, open new windows, zoom, kill panes, detach sessions, and run fake shell commands like <code>ls</code>, <code>git status</code>, and <code>cat ~/.tmux.conf</code>. Drag the dividers to resize. Hit <code>demo</code> to watch a dev workspace assemble itself. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2025/08/switching-to-lighter-aps.html">post about switching to Alacritty + tmux</a>, where he wrote: "At first I was a bit scared of tmux but now I kind of like it — it's fun to play around with and customize."</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="sources-of-beauty.php">Sources of Beauty</a> <span class="date">2026-03-25</span></div>
             <div class="blurb">Eight sources of beauty — landscapes, classical art, architecture, nature, music, poetry, a daily saint, and ordinary moments — each with a hand-crafted animation, a contemplative passage, and a reflection question. The day determines which card opens first; arrows, dots, and keyboard navigation let you visit all eight. Inspired by Jon's <a href="https://jon-aquino-mental-garden.blogspot.com/2026/03/sources-of-beauty.html">Sources of Beauty</a> post, where Claude suggested these eight wellsprings of daily beauty to him.</div>
         </li>
