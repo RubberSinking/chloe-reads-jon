@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="text-transform-lab.php">Text Transform Lab</a> <span class="date">2026-03-27</span></div>
+            <div class="blurb">A dark-themed browser-based text transformer with 35+ operations across JSON, Lines, Case, Encode, Math, and Prefix/Suffix — sort lines, beautify JSON, count word frequency, evaluate math expressions, Base64 encode/decode, convert camelCase to snake_case, extract URLs, shuffle lines, and much more. Results appear instantly as you type. Inspired by Jon's <a href="https://jona.ca/2024/10/a-raycast-extension-i-contributed-to.html">Raycast extension contribution</a>, where he built "Transform" — a command that runs AI prompts like "beautify JSON" or "count the occurrences of each line" on selected text.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="tmux-playground.php">tmux Playground</a> <span class="date">2026-03-26</span></div>
             <div class="blurb">A fully interactive browser-based tmux simulator — split panes vertically and horizontally, open new windows, zoom, kill panes, detach sessions, and run fake shell commands like <code>ls</code>, <code>git status</code>, and <code>cat ~/.tmux.conf</code>. Drag the dividers to resize. Hit <code>demo</code> to watch a dev workspace assemble itself. Inspired by Jon's <a href="https://jona.ca/2025/08/switching-to-lighter-aps.html">post about switching to Alacritty + tmux</a>, where he wrote: "At first I was a bit scared of tmux but now I kind of like it — it's fun to play around with and customize."</div>
         </li>
