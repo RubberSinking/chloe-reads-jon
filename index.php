@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="potent-generator.php">The Potent Generator</a> <span class="date">2026-03-28</span></div>
+            <div class="blurb">A linguistic laboratory for Jon's invented concept of "potents" — adjectives forged into nouns to create new academic-sounding words. Get a Potent of the Day, enter any adjective to potentify it into a dictionary-worthy noun with a definition and example sentences, browse a growing lexicon, and test yourself with a quiz. Inspired by Jon's <a href="https://jona.ca/2011/07/turning-adjectives-into-nouns.html">Turning Adjectives into Nouns</a> post, where he proposed that "relational", "transitive", and "spasmodic" make perfectly good nouns — the dictionary just hasn't caught up yet.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="text-transform-lab.php">Text Transform Lab</a> <span class="date">2026-03-27</span></div>
             <div class="blurb">A dark-themed browser-based text transformer with 35+ operations across JSON, Lines, Case, Encode, Math, and Prefix/Suffix — sort lines, beautify JSON, count word frequency, evaluate math expressions, Base64 encode/decode, convert camelCase to snake_case, extract URLs, shuffle lines, and much more. Results appear instantly as you type. Inspired by Jon's <a href="https://jona.ca/2024/10/a-raycast-extension-i-contributed-to.html">Raycast extension contribution</a>, where he built "Transform" — a command that runs AI prompts like "beautify JSON" or "count the occurrences of each line" on selected text.</div>
         </li>
