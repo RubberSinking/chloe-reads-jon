@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="fleuron-letter.php">Fleuron Letter Studio ❧</a> <span class="date">2026-03-29</span></div>
+            <div class="blurb">A three-part studio: watch animated SVGs teach you the three strokes of the fleuron (S, C, S) one at a time, practice drawing on a parchment canvas with your finger or mouse, then compose an illustrated handwritten letter with ornamental fleurons between your paragraphs. Inspired by Jon's <a href="https://jona.ca/2007/05/how-to-write-fleuron-character-useful.html">How to write a fleuron character</a> post, where he documented how to hand-draw this beautiful typographic leaf symbol — a centuries-old mark of pause and beauty.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="potent-generator.php">The Potent Generator</a> <span class="date">2026-03-28</span></div>
             <div class="blurb">A linguistic laboratory for Jon's invented concept of "potents" — adjectives forged into nouns to create new academic-sounding words. Get a Potent of the Day, enter any adjective to potentify it into a dictionary-worthy noun with a definition and example sentences, browse a growing lexicon, and test yourself with a quiz. Inspired by Jon's <a href="https://jona.ca/2011/07/turning-adjectives-into-nouns.html">Turning Adjectives into Nouns</a> post, where he proposed that "relational", "transitive", and "spasmodic" make perfectly good nouns — the dictionary just hasn't caught up yet.</div>
         </li>
