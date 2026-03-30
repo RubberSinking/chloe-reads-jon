@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="four-temperaments-quiz.php">Which Temperament Are You?</a> <span class="date">2026-03-30</span></div>
+            <div class="blurb">A 20-question quiz that identifies your primary and secondary temperament — Choleric, Sanguine, Melancholic, or Phlegmatic — with a full spiritual profile, score bars, patron saint, virtues to embrace, and pitfalls to watch. Jon is Melancholic-Phlegmatic; find out where you land. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/10/which-temperament-are-you.html">Which Temperament Are You?</a> post on Cool Tools for Catholics, pointing to <em>The Temperament God Gave You</em> by Art &amp; Laraine Bennett.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="fleuron-letter.php">Fleuron Letter Studio ❧</a> <span class="date">2026-03-29</span></div>
             <div class="blurb">A three-part studio: watch animated SVGs teach you the three strokes of the fleuron (S, C, S) one at a time, practice drawing on a parchment canvas with your finger or mouse, then compose an illustrated handwritten letter with ornamental fleurons between your paragraphs. Inspired by Jon's <a href="https://jona.ca/2007/05/how-to-write-fleuron-character-useful.html">How to write a fleuron character</a> post, where he documented how to hand-draw this beautiful typographic leaf symbol — a centuries-old mark of pause and beauty.</div>
         </li>
