@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="greydanus-movie-picker.php">Catholic Movie Night Picker</a> <span class="date">2026-04-01</span></div>
+            <div class="blurb">Answer four quick questions — who's watching, what vibe you're after, genre, and how much time you have — and get a personalised movie recommendation from the Greydanus canon, complete with animated poster art, quotes, and a "you might also enjoy" shelf. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2021/01/steven-greydanus-top-movie-picks.html">Steven Greydanus Top Movie Picks</a> post on Cool Tools for Catholics, spotlighting the leading Catholic film critic's best-rated films of all time.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="four-temperaments-quiz.php">Which Temperament Are You?</a> <span class="date">2026-03-30</span></div>
             <div class="blurb">A 20-question quiz that identifies your primary and secondary temperament — Choleric, Sanguine, Melancholic, or Phlegmatic — with a full spiritual profile, score bars, patron saint, virtues to embrace, and pitfalls to watch. Jon is Melancholic-Phlegmatic; find out where you land. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/10/which-temperament-are-you.html">Which Temperament Are You?</a> post on Cool Tools for Catholics, pointing to <em>The Temperament God Gave You</em> by Art &amp; Laraine Bennett.</div>
         </li>
