@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="time-machine-library.php">Time Machine Library</a> <span class="date">2026-04-03</span></div>
+            <div class="blurb">A glowing four-lane timeline that lets you scrub through history, music, poetry, and art together, plus a century-guessing challenge for quick rounds of time travel. Inspired by Jon's <a href="https://jona.ca/2009/06/4-books-that-function-as-time-machines.html">4 Books That Function as Time Machines</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="greydanus-movie-picker.php">Catholic Movie Night Picker</a> <span class="date">2026-04-01</span></div>
             <div class="blurb">Answer four quick questions — who's watching, what vibe you're after, genre, and how much time you have — and get a personalised movie recommendation from the Greydanus canon, complete with animated poster art, quotes, and a "you might also enjoy" shelf. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2021/01/steven-greydanus-top-movie-picks.html">Steven Greydanus Top Movie Picks</a> post on Cool Tools for Catholics, spotlighting the leading Catholic film critic's best-rated films of all time.</div>
         </li>
@@ -208,7 +212,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">2026-03-02</span></div>
-            <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Scan, mark what stands out, then work. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jona.ca/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
+            <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jona.ca/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
         </li>
         <li>
             <div class="entry-title"><a href="lectio-divina.php">Lectio Divina Companion</a> <span class="date">2026-03-01</span></div>
