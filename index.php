@@ -103,6 +103,11 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="browser-session-lab.php">Browser Session Lab</a> <span class="date">2026-04-04</span></div>
+            <div class="blurb">A playful hands-on simulator for cookies, browser profiles, and staying signed in as different users at once. Sign in as Alice here and Bob there, then watch which identities stick, vanish, or leak across your pretend browsers. Inspired by Jon's <a href="https://jona.ca/2005/12/using-ie-to-remain-signed-in-as.html">Using IE to remain signed in as different users</a>.</div>
+        </li>
+
+        <li>
             <div class="entry-title"><a href="love-languages-quiz.php">What's Your Love Language?</a> <span class="date">2026-04-03</span></div>
             <div class="blurb">A 15-scenario quiz based on Gary Chapman's <em>The 5 Love Languages</em> — choose what would make you feel most loved in each situation and discover your primary love language, with bar-chart results and a comparison to Jon's own ranking. Inspired by Jon's <a href="https://jona.ca/2012/03/5-love-languages.html">The 5 Love Languages</a> post, where he ranked his own: Words of Affirmation first, then Quality Time, Physical Touch, Acts of Service, and Receiving Gifts.</div>
         </li>
