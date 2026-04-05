@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="summa-argument-builder.php">Summa Argument Builder</a> <span class="date">2026-04-05</span></div>
+            <div class="blurb">Learn, quiz yourself on, and build your own Summa-style arguments using Aquinas's medieval disputatio format. Three tabs: a visual breakdown of the five-part article structure, a 10-question quiz identifying Objections vs. Sed Contra vs. Respondeo vs. Replies, and a builder where you construct your own formal arguments on fun modern topics like "Whether pineapple belongs on pizza." Parchment-toned and beautifully nerdy. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/01/aquinas-on-kindle.html">Aquinas on Kindle</a> post, where he curated Kindle editions of the Summa and Kreeft's <em>A Shorter Summa</em>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="browser-session-lab.php">Browser Session Lab</a> <span class="date">2026-04-04</span></div>
             <div class="blurb">A playful hands-on simulator for cookies, browser profiles, and staying signed in as different users at once. Sign in as Alice here and Bob there, then watch which identities stick, vanish, or leak across your pretend browsers. Inspired by Jon's <a href="https://jona.ca/2005/12/using-ie-to-remain-signed-in-as.html">Using IE to remain signed in as different users</a>.</div>
         </li>
