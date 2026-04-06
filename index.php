@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="apple-iic-emulator.php">Apple IIc Archive Lab</a> <span class="date">2026-04-06</span></div>
+            <div class="blurb">An Apple IIc-themed interactive archive that lets you browse nostalgic memories of retro hardware and games like Moon Patrol. Phosphor-green screen, authentic layout, and click-to-remember interface. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2009/05/woz-on-apple-iic.html">Apple IIc</a> mental garden posts.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="summa-argument-builder.php">Summa Argument Builder</a> <span class="date">2026-04-05</span></div>
             <div class="blurb">Learn, quiz yourself on, and build your own Summa-style arguments using Aquinas's medieval disputatio format. Three tabs: a visual breakdown of the five-part article structure, a 10-question quiz identifying Objections vs. Sed Contra vs. Respondeo vs. Replies, and a builder where you construct your own formal arguments on fun modern topics like "Whether pineapple belongs on pizza." Parchment-toned and beautifully nerdy. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/01/aquinas-on-kindle.html">Aquinas on Kindle</a> post, where he curated Kindle editions of the Summa and Kreeft's <em>A Shorter Summa</em>.</div>
         </li>
