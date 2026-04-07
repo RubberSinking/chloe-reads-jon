@@ -103,6 +103,10 @@
     <ul>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="saint-of-the-day.php">Saint of the Day Generator</a> <span class="date">2026-04-07</span></div>
+            <div class="blurb">A randomized card generator that reveals a saint of the day, their life quote, and a button to keep spinning through treasury. Inspired by Jon's deep love of Catholic resources and the saintly figures he reads about with his son.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="apple-iic-emulator.php">Apple IIc Archive Lab</a> <span class="date">2026-04-06</span></div>
             <div class="blurb">An Apple IIc-themed interactive archive that lets you browse nostalgic memories of retro hardware and games like Moon Patrol. Phosphor-green screen, authentic layout, and click-to-remember interface. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2009/05/woz-on-apple-iic.html">Apple IIc</a> mental garden posts.</div>
         </li>
@@ -170,10 +174,6 @@
         <li>
             <div class="entry-title"><a href="random-melody-composer.php">Random Melody Composer</a> <span class="date">2026-03-20</span></div>
             <div class="blurb">Pick a key, scale, and tempo — then hit Generate to spin up a randomised melody and Play to hear it live in your browser. Watch the notes light up the piano keyboard and bounce to the beat. Pentatonic, blues, dorian, whole-tone — eight scales to explore. Inspired by Jon's <a href="https://jona.ca/2015/06/random-melody-generator.html">Random Melody Generator post</a>, where he turned to a stochastic melody engine from Carnegie Mellon to invent violin parts for his Couples For Christ music group.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="capilano-challenge.php">Capilano Bridge: Nathan's Revenge</a> <span class="date">2026-03-21</span></div>
-            <div class="blurb">Nathan's game: jump on the suspension bridge to make Dad scream. Rack up screams to unlock upgrades — longer screams, mega shake, bridge extension, bonus dramatic screams — and at 500 screams, Dad enters Permanent Chaos Mode and screams forever. Designed by Nathan (age 9). Dad had no input and no say.</div>
         </li>
         <li>
             <div class="entry-title"><a href="capilano-bridge-challenge.php">Capilano Bridge Challenge</a> <span class="date">2026-03-19</span></div>
