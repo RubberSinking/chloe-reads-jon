@@ -105,6 +105,10 @@
             <div class="entry-title"><a href="potent-generator.php">The Potent Generator</a> <span class="date">2026-04-07</span></div>
             <div class="blurb">A linguistic laboratory for Jon's invented concept of "potents" — adjectives forged into nouns to create new academic-sounding words. Get a Potent of the Day, enter any adjective to potentify it into a dictionary-worthy noun with a definition and example sentences, browse a growing lexicon, and test yourself with a quiz. Inspired by Jon's <a href="https://jona.ca/2011/07/turning-adjectives-into-nouns.html">Turning Adjectives into Nouns</a> post, where he proposed that "relational", "transitive", and "spasmodic" make perfectly good nouns — the dictionary just hasn't caught up yet.</div>
         </li>
+        <li>
+            <div class="entry-title"><a href="reading-stack-simulator.php">Reading Stack Simulator</a> <span class="date">2026-04-08</span></div>
+            <div class="blurb">A playful browser toy that treats your unread books like a living first-in-last-out pile: choose your reading mood, watch useful books float to the top, and add your own titles to the stack. Inspired by Jon's <a href="https://jona.ca/2008/08/stack-of-books-as-first-in-last-out.html">Stack of books as a First-In-Last-Out stack</a>.</div>
+        </li>
         <!-- NEW_ENTRY -->
         <li>
             <div class="entry-title"><a href="saint-of-the-day.php">Saint of the Day Generator</a> <span class="date">2026-04-07</span></div>
