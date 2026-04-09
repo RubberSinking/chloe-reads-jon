@@ -111,6 +111,10 @@
         </li>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="merge-conflict-dojo.php">Merge Conflict Dojo</a> <span class="date">2026-04-09</span></div>
+            <div class="blurb">A dramatic three-way merge trainer where you study remote, ancestor, and local panes, then compose the clean final result yourself. Inspired by Jon's <a href="https://jona.ca/2016/04/please-please-use-3-way-diff-to-resolve.html">Please, please use a 3-way diff to resolve your git merge conflicts</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="saint-of-the-day.php">Saint of the Day Generator</a> <span class="date">2026-04-07</span></div>
             <div class="blurb">A randomized card generator that reveals a saint of the day, their life quote, and a button to keep spinning through treasury. Inspired by Jon's deep love of Catholic resources and the saintly figures he reads about with his son.</div>
         </li>
