@@ -111,6 +111,10 @@
         </li>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="word-vault-arcade.php">Word Vault Arcade</a> <span class="date">2026-04-10</span></div>
+            <div class="blurb">A glowing deck-switching word game where you crack vocabulary vaults across NVC needs, Catholic treasures, retro machines, and adventure gear. Inspired by Jon's <a href="https://jona.ca/2006/10/customizable-word-game-for-building.html">Customizable word game for building a domain-specific vocabulary</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="merge-conflict-dojo.php">Merge Conflict Dojo</a> <span class="date">2026-04-09</span></div>
             <div class="blurb">A dramatic three-way merge trainer where you study remote, ancestor, and local panes, then compose the clean final result yourself. Inspired by Jon's <a href="https://jona.ca/2016/04/please-please-use-3-way-diff-to-resolve.html">Please, please use a 3-way diff to resolve your git merge conflicts</a>.</div>
         </li>
