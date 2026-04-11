@@ -111,6 +111,10 @@
         </li>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="gridsearch-constellation.php">GridSearch Constellation</a> <span class="date">2026-04-11</span></div>
+            <div class="blurb">A midnight-sky combinatorics toy that turns Jon's interests into search-ready constellations, complete with spark scores, visual star maps, and copyable query trios. Inspired by Jon's <a href="https://jona.ca/2008/07/gridsearch-specialized-google-search.html">GridSearch - Specialized Google search for finding lists</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="word-vault-arcade.php">Word Vault Arcade</a> <span class="date">2026-04-10</span></div>
             <div class="blurb">A glowing deck-switching word game where you crack vocabulary vaults across NVC needs, Catholic treasures, retro machines, and adventure gear. Inspired by Jon's <a href="https://jona.ca/2006/10/customizable-word-game-for-building.html">Customizable word game for building a domain-specific vocabulary</a>.</div>
         </li>
