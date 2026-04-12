@@ -111,6 +111,10 @@
         </li>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="blindspot-mirror-lab.php">Blindspot Mirror Lab</a> <span class="date">2026-04-12</span></div>
+            <div class="blurb">A glossy top-down driving simulator where you swing the side mirrors between conventional and BGE settings, then watch cars appear, vanish, and reappear across the mirror zones. Inspired by Jon's <a href="https://jona.ca/2011/10/bge-method-for-eliminating-blindspots.html">BGE method for eliminating blindspots from vehicle mirrors</a> post.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="gridsearch-constellation.php">GridSearch Constellation</a> <span class="date">2026-04-11</span></div>
             <div class="blurb">A midnight-sky combinatorics toy that turns Jon's interests into search-ready constellations, complete with spark scores, visual star maps, and copyable query trios. Inspired by Jon's <a href="https://jona.ca/2008/07/gridsearch-specialized-google-search.html">GridSearch - Specialized Google search for finding lists</a>.</div>
         </li>
