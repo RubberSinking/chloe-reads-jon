@@ -111,6 +111,10 @@
         </li>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="mnemonic-atelier.php">Mnemonic Atelier</a> <span class="date">2026-04-13</span></div>
+            <div class="blurb">A lush study desk for turning dense passages into something memorable: pick key sentences, generate concrete example prompts, and pace yourself through a read-aloud cheat sheet. Inspired by Jon's <a href="https://jona.ca/2011/01/alternative-methods-of-learning-textual.html">Alternative methods of learning textual material</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="blindspot-mirror-lab.php">Blindspot Mirror Lab</a> <span class="date">2026-04-12</span></div>
             <div class="blurb">A glossy top-down driving simulator where you swing the side mirrors between conventional and BGE settings, then watch cars appear, vanish, and reappear across the mirror zones. Inspired by Jon's <a href="https://jona.ca/2011/10/bge-method-for-eliminating-blindspots.html">BGE method for eliminating blindspots from vehicle mirrors</a> post.</div>
         </li>
