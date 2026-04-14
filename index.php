@@ -111,6 +111,10 @@
         </li>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="strengths-crystal-quiz.php">Strengths Crystal Cave</a> <span class="date">2026-04-14</span></div>
+            <div class="blurb">Enter a dark crystal cave and rate 12 statements about your character to discover your top five StrengthsFinder gems — Harmony, Maximizer, Ideation, and nine others — each glowing in its own colour with a staggered reveal. Jon's own top three crystals are highlighted for comparison. Inspired by Jon's <a href="https://jona.ca/2008/08/strengthsfinder-personality-test-20.html">StrengthsFinder personality test</a> post, where he shared that Harmony, Consistency, and Maximizer were among his top five — and reflected that when you interact with him, "our conversation will be pleasant and productive."</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="prayer-deck.php">Prayer Deck</a> <span class="date">2026-04-14</span></div>
             <div class="blurb">A candlelit Monte Carlo prayer manager: add your intentions as cards, shuffle the deck, and pray the top four with full focus — no overwhelm, no skipping. Mark each one prayed, track your streak, and shuffle for a fresh hand. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/12/monte-carlo-prayer-request-management.html">Monte Carlo prayer-request management system</a> post, where he proposed using shuffled index cards so you can give your whole heart to just 3 or 4 intentions at a time.</div>
         </li>
