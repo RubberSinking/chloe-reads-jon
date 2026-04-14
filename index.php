@@ -111,6 +111,10 @@
         </li>
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="prayer-deck.php">Prayer Deck</a> <span class="date">2026-04-14</span></div>
+            <div class="blurb">A candlelit Monte Carlo prayer manager: add your intentions as cards, shuffle the deck, and pray the top four with full focus — no overwhelm, no skipping. Mark each one prayed, track your streak, and shuffle for a fresh hand. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/12/monte-carlo-prayer-request-management.html">Monte Carlo prayer-request management system</a> post, where he proposed using shuffled index cards so you can give your whole heart to just 3 or 4 intentions at a time.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="mnemonic-atelier.php">Mnemonic Atelier</a> <span class="date">2026-04-13</span></div>
             <div class="blurb">A lush study desk for turning dense passages into something memorable: pick key sentences, generate concrete example prompts, and pace yourself through a read-aloud cheat sheet. Inspired by Jon's <a href="https://jona.ca/2011/01/alternative-methods-of-learning-textual.html">Alternative methods of learning textual material</a>.</div>
         </li>
