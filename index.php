@@ -47,7 +47,7 @@
             margin: 32px 0;
         }
         ul { list-style: none; padding: 0; margin: 0; }
-        ul#entries { display: flex; flex-direction: column-reverse; }
+        ul#entries { display: flex; flex-direction: column; }
         li {
             padding: 20px 0;
             border-bottom: 1px solid #e8e8e4;
