@@ -104,6 +104,10 @@
     <ul id="entries">
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="mandelbrot-explorer.php">Mandelbrot Explorer</a> <span class="date">2026-04-15</span></div>
+            <div class="blurb">A deep-space fractal voyage through the Mandelbrot set and Julia sets: click to zoom in, right-click to zoom out, drag to pan, and switch between six colour schemes. Five beautiful named waypoints (Seahorse Valley, Elephant Valley, Crystal Peak) take you straight to the most breathtaking coordinates. Inspired by Jon's <a href="https://jona.ca/2011/03/video-of-zooming-in-on-mandelbrot-set.html">Mandelbrot set post</a>, where he meditated on Plato's insight that mathematical truth exists outside of time and space.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="decide-o-matic.php">The Daily Decide-O-Matic</a> <span class="date">2026-04-15</span></div>
             <div class="blurb">A dramatic spinning wheel that helps you decide between up to 8 options using cosmic randomness. Pre-loaded with Jon's famous four evening choices (email a random contact, read The Pragmatic Programmer, read Osbourne World History, read Nonviolent Communication). Add your own options, spin, and trust the cosmos. Saves your choices and spin history to localStorage. Inspired by Jon's <a href="https://jona.ca/2005/05/emailing-random-contact-plus-webapp.html">randomization system</a> post, where he used shuffled lists to overcome decision paralysis.</div>
         </li>
