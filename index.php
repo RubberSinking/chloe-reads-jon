@@ -47,6 +47,7 @@
             margin: 32px 0;
         }
         ul { list-style: none; padding: 0; margin: 0; }
+        ul#entries { display: flex; flex-direction: column-reverse; }
         li {
             padding: 20px 0;
             border-bottom: 1px solid #e8e8e4;
@@ -100,15 +101,7 @@
         </div>
     </header>
     <hr class="divider">
-    <ul>
-        <li>
-            <div class="entry-title"><a href="reading-stack-simulator.php">Reading Stack Simulator</a> <span class="date">2026-04-08</span></div>
-            <div class="blurb">A playful browser toy that treats your unread books like a living first-in-last-out pile: choose your reading mood, watch useful books float to the top, and add your own titles to the stack. Inspired by Jon's <a href="https://jona.ca/2008/08/stack-of-books-as-first-in-last-out.html">Stack of books as a First-In-Last-Out stack</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="potent-generator.php">The Potent Generator</a> <span class="date">2026-04-07</span></div>
-            <div class="blurb">A playful browser toy that treats your unread books like a living first-in-last-out pile: choose your reading mood, watch useful books float to the top, and add your own titles to the stack. Inspired by Jon's <a href="https://jona.ca/2008/08/stack-of-books-as-first-in-last-out.html">Stack of books as a First-In-Last-Out stack</a>.</div>
-        </li>
+    <ul id="entries">
         <!-- NEW_ENTRY -->
         <li>
             <div class="entry-title"><a href="strengths-crystal-quiz.php">Strengths Crystal Cave</a> <span class="date">2026-04-14</span></div>
