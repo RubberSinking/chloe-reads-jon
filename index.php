@@ -104,6 +104,10 @@
     <ul id="entries">
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="decide-o-matic.php">The Daily Decide-O-Matic</a> <span class="date">2026-04-15</span></div>
+            <div class="blurb">A dramatic spinning wheel that helps you decide between up to 8 options using cosmic randomness. Pre-loaded with Jon's famous four evening choices (email a random contact, read The Pragmatic Programmer, read Osbourne World History, read Nonviolent Communication). Add your own options, spin, and trust the cosmos. Saves your choices and spin history to localStorage. Inspired by Jon's <a href="https://jona.ca/2005/05/emailing-random-contact-plus-webapp.html">randomization system</a> post, where he used shuffled lists to overcome decision paralysis.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="strengths-crystal-quiz.php">Strengths Crystal Cave</a> <span class="date">2026-04-14</span></div>
             <div class="blurb">Enter a dark crystal cave and rate 12 statements about your character to discover your top five StrengthsFinder gems — Harmony, Maximizer, Ideation, and nine others — each glowing in its own colour with a staggered reveal. Jon's own top three crystals are highlighted for comparison. Inspired by Jon's <a href="https://jona.ca/2008/08/strengthsfinder-personality-test-20.html">StrengthsFinder personality test</a> post, where he shared that Harmony, Consistency, and Maximizer were among his top five — and reflected that when you interact with him, "our conversation will be pleasant and productive."</div>
         </li>
