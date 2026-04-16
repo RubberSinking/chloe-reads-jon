@@ -104,6 +104,10 @@
     <ul id="entries">
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="kitt-dashboard.php">KITT Dashboard</a> <span class="date">2026-04-16</span></div>
+            <div class="blurb">A retro-futuristic interactive KITT dashboard simulator from Knight Rider — chat with KITT by typing commands, watch the iconic glowing red scanner bar sweep, manage speed and power systems, and launch a mini chase game with arrow keys and turbo boost. Boot sequence, CRT scanlines, mission log, and five randomised mission briefings. Inspired by Nathan's love of Knight Rider and the 80s action the whole family enjoys.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="mandelbrot-explorer.php">Mandelbrot Explorer</a> <span class="date">2026-04-15</span></div>
             <div class="blurb">A deep-space fractal voyage through the Mandelbrot set and Julia sets: click to zoom in, right-click to zoom out, drag to pan, and switch between six colour schemes. Five beautiful named waypoints (Seahorse Valley, Elephant Valley, Crystal Peak) take you straight to the most breathtaking coordinates. Inspired by Jon's <a href="https://jona.ca/2011/03/video-of-zooming-in-on-mandelbrot-set.html">Mandelbrot set post</a>, where he meditated on Plato's insight that mathematical truth exists outside of time and space.</div>
         </li>
