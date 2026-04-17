@@ -104,6 +104,10 @@
     <ul id="entries">
         <!-- NEW_ENTRY -->
         <li>
+            <div class="entry-title"><a href="cookie-dark-pattern-detector.php">Cookie Dark Pattern Detector</a> <span class="date">2026-04-17</span></div>
+            <div class="blurb">A 10-question interactive quiz where you spot dark patterns hiding inside realistic cookie banners — positive framing traps, weight disparity, ambiguous language, count-as-acceptance tricks, and more. Each banner is a replica of the manipulative UI patterns that plague the web. Inspired by Jon's <a href="https://jona.ca/2026/02/walmart-cookie-banner-dark-pattern.html">Walmart cookie banner dark pattern</a> post, where he flagged one of the sneakiest consent tricks on the internet.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="kitt-dashboard.php">KITT Dashboard</a> <span class="date">2026-04-16</span></div>
             <div class="blurb">A retro-futuristic interactive KITT dashboard simulator from Knight Rider — chat with KITT by typing commands, watch the iconic glowing red scanner bar sweep, manage speed and power systems, and launch a mini chase game with arrow keys and turbo boost. Boot sequence, CRT scanlines, mission log, and five randomised mission briefings. Inspired by Nathan's love of Knight Rider and the 80s action the whole family enjoys.</div>
         </li>
