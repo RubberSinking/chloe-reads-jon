@@ -102,6 +102,10 @@
     </header>
     <hr class="divider">
     <ul id="entries">
+        <li>
+            <div class="entry-title"><a href="hogwarts-sorting-hat.php">The Sorting Hat</a> <span class="date">2026-04-18</span></div>
+            <div class="blurb">A parchment-and-candlelight interactive quiz that sorts you into one of the four Hogwarts houses — Gryffindor, Ravenclaw, Hufflepuff, or Slytherin — after seven questions. Watch the hat shake, hear the dramatic narration, then see your full house breakdown with score bars and the Sorting Hat's own rhyme. Inspired by Jon reading Harry Potter aloud to Nathan and Nathan's love of all things Hogwarts.</div>
+        </li>
         <!-- NEW_ENTRY -->
         <li>
             <div class="entry-title"><a href="cookie-dark-pattern-detector.php">Cookie Dark Pattern Detector</a> <span class="date">2026-04-17</span></div>
