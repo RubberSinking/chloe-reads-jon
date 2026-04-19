@@ -103,10 +103,14 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="true-colors-quiz.php">True Colors Quiz</a> <span class="date">2026-04-19</span></div>
+            <div class="blurb">A vibrant, game-show-style 12-question personality quiz that sorts you into Orange, Gold, Green, or Blue — Spontaneous, Responsible, Analytical, or Compassionate. Animated score bars, trait pills, a full colour profile, and a reminder that Jon himself is Orange. Inspired by Jon's <a href="https://jona.ca/2015/02/you-are-orange.html">"You are Orange"</a> post, where he shared his True Colors result: "People who are Orange are often spontaneous and flamboyant. They need a lot of variety and freedom."</div>
+        </li>
+        <!-- NEW_ENTRY -->
+        <li>
             <div class="entry-title"><a href="hogwarts-sorting-hat.php">The Sorting Hat</a> <span class="date">2026-04-18</span></div>
             <div class="blurb">A parchment-and-candlelight interactive quiz that sorts you into one of the four Hogwarts houses — Gryffindor, Ravenclaw, Hufflepuff, or Slytherin — after seven questions. Watch the hat shake, hear the dramatic narration, then see your full house breakdown with score bars and the Sorting Hat's own rhyme. Inspired by Jon reading Harry Potter aloud to Nathan and Nathan's love of all things Hogwarts.</div>
         </li>
-        <!-- NEW_ENTRY -->
         <li>
             <div class="entry-title"><a href="cookie-dark-pattern-detector.php">Cookie Dark Pattern Detector</a> <span class="date">2026-04-17</span></div>
             <div class="blurb">A 10-question interactive quiz where you spot dark patterns hiding inside realistic cookie banners — positive framing traps, weight disparity, ambiguous language, count-as-acceptance tricks, and more. Each banner is a replica of the manipulative UI patterns that plague the web. Inspired by Jon's <a href="https://jona.ca/2026/02/walmart-cookie-banner-dark-pattern.html">Walmart cookie banner dark pattern</a> post, where he flagged one of the sneakiest consent tricks on the internet.</div>
@@ -185,7 +189,7 @@
             <div class="blurb">A 20-question quiz that identifies your primary and secondary temperament — Choleric, Sanguine, Melancholic, or Phlegmatic — with a full spiritual profile, score bars, patron saint, virtues to embrace, and pitfalls to watch. Jon is Melancholic-Phlegmatic; find out where you land. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/10/which-temperament-are-you.html">Which Temperament Are You?</a> post on Cool Tools for Catholics, pointing to <em>The Temperament God Gave You</em> by Art &amp; Laraine Bennett.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="fleuron-letter.php">Fleuron Letter Studio ❧</a> <span class="date">2026-03-29</span></div>
+            <div class="entry-title"><a href="fleuron-letter.php">Fleuron Letter Studio</a> <span class="date">2026-03-29</span></div>
             <div class="blurb">A three-part studio: watch animated SVGs teach you the three strokes of the fleuron (S, C, S) one at a time, practice drawing on a parchment canvas with your finger or mouse, then compose an illustrated handwritten letter with ornamental fleurons between your paragraphs. Inspired by Jon's <a href="https://jona.ca/2007/05/how-to-write-fleuron-character-useful.html">How to write a fleuron character</a> post, where he documented how to hand-draw this beautiful typographic leaf symbol — a centuries-old mark of pause and beauty.</div>
         </li>
         <li>
