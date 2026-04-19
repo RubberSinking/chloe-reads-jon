@@ -103,10 +103,13 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="life-map.php">Life Map Explorer</a> <span class="date">2026-04-19</span></div>
+            <div class="blurb">An interactive illustrated world map where you drop coloured pins on meaningful places, add dates and notes, and build a personal geography of your life. Drag to pan, click any pin to read its story. Three demo pins mark Victoria, Rome, and Vancouver to get you started. Inspired by Jon's <a href="https://jona.ca/2006/10/constructing-personal-photo-history.html">"Constructing a personal photo history using Google Earth"</a> post, where he mapped the meaningful places of his life using Google Earth's breathtaking tilt-view.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="true-colors-quiz.php">True Colors Quiz</a> <span class="date">2026-04-19</span></div>
             <div class="blurb">A vibrant, game-show-style 12-question personality quiz that sorts you into Orange, Gold, Green, or Blue — Spontaneous, Responsible, Analytical, or Compassionate. Animated score bars, trait pills, a full colour profile, and a reminder that Jon himself is Orange. Inspired by Jon's <a href="https://jona.ca/2015/02/you-are-orange.html">"You are Orange"</a> post, where he shared his True Colors result: "People who are Orange are often spontaneous and flamboyant. They need a lot of variety and freedom."</div>
         </li>
-        <!-- NEW_ENTRY -->
         <li>
             <div class="entry-title"><a href="hogwarts-sorting-hat.php">The Sorting Hat</a> <span class="date">2026-04-18</span></div>
             <div class="blurb">A parchment-and-candlelight interactive quiz that sorts you into one of the four Hogwarts houses — Gryffindor, Ravenclaw, Hufflepuff, or Slytherin — after seven questions. Watch the hat shake, hear the dramatic narration, then see your full house breakdown with score bars and the Sorting Hat's own rhyme. Inspired by Jon reading Harry Potter aloud to Nathan and Nathan's love of all things Hogwarts.</div>
