@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="spot-the-hallucination.php">Spot the Hallucination</a> <span class="date">2026-04-20</span></div>
+            <div class="blurb">A 10-round game where an AI gives you answers — some accurate, some confidently wrong — and you have to decide: real or hallucination? Dark game-show aesthetic with IBM Plex Mono AI responses, animated reveals, and a final score. Includes the real story of an AI inventing an acronym that didn't exist. Inspired by Jon's <a href="https://jona.ca/2024/02/workaround-for-ai-hallucination-make.html">AI hallucination post</a>, where a corporate wiki AI confidently told him that BADF stood for "Bidder Advertiser Metadata Framework" — completely made up.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="life-map.php">Life Map Explorer</a> <span class="date">2026-04-19</span></div>
             <div class="blurb">An interactive illustrated world map where you drop coloured pins on meaningful places, add dates and notes, and build a personal geography of your life. Drag to pan, click any pin to read its story. Three demo pins mark Victoria, Rome, and Vancouver to get you started. Inspired by Jon's <a href="https://jona.ca/2006/10/constructing-personal-photo-history.html">"Constructing a personal photo history using Google Earth"</a> post, where he mapped the meaningful places of his life using Google Earth's breathtaking tilt-view.</div>
         </li>
