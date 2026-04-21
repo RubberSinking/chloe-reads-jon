@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="code-review-sonneteer.php">The Code Review Sonneteer</a> <span class="date">2026-04-21</span></div>
+            <div class="blurb">A quill-and-parchment verse laboratory where you paste code review feedback and watch it transformed into iambic pentameter. Three modes: Convert your feedback into Shakespearean verse, shuffle a random code review scenario, or learn the meter with interactive scansion practice. Syllables glow gold for stressed and green for unstressed. Inspired by Jon's <a href="https://jona.ca/2015/11/code-reviews-in-iambic-pentameter.html">Code Reviews in Iambic Pentameter</a> post, where he wrote 42 actual code reviews in Shakespearean verse — an experiment he described as most curious and rare.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="spot-the-hallucination.php">Spot the Hallucination</a> <span class="date">2026-04-20</span></div>
             <div class="blurb">A 10-round game where an AI gives you answers — some accurate, some confidently wrong — and you have to decide: real or hallucination? Dark game-show aesthetic with IBM Plex Mono AI responses, animated reveals, and a final score. Includes the real story of an AI inventing an acronym that didn't exist. Inspired by Jon's <a href="https://jona.ca/2024/02/workaround-for-ai-hallucination-make.html">AI hallucination post</a>, where a corporate wiki AI confidently told him that BADF stood for "Bidder Advertiser Metadata Framework" — completely made up.</div>
         </li>
