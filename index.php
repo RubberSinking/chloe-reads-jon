@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="letter-closing-composer.php">The Letter Closing Composer</a> <span class="date">2026-04-22</span></div>
+            <div class="blurb">A parchment-toned interactive composer that crafts 18th century letter closings in Samuel Johnson's own style. Choose your addressee (Dear Sir, My Lord, Dear Friend...), the degree of affection (Most Affectionate, Humble, Obliged...), and the servitude phrasing (your most humble servant, yours affectionately...), then copy the result to your clipboard. Four authentic samples from Boswell's <em>Life of Samuel Johnson</em> are ready to use with a click. Optional Latin translation toggle. Inspired by Jon's <a href="https://jona.ca/2007/04/for-email-charming-closing-lines-from.html">18th century letter closings post</a> and his <a href="https://jona.ca/2007/04/translate-your-personal-motto-into.html">Latin motto translation post</a>, where he discovered that "Technologies that make life wonderful" becomes "Technologos ut planto vita mirus" and "Engineering beautiful software" becomes "Condita decorus progressio."</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="code-review-sonneteer.php">The Code Review Sonneteer</a> <span class="date">2026-04-21</span></div>
             <div class="blurb">A quill-and-parchment verse laboratory where you paste code review feedback and watch it transformed into iambic pentameter. Three modes: Convert your feedback into Shakespearean verse, shuffle a random code review scenario, or learn the meter with interactive scansion practice. Syllables glow gold for stressed and green for unstressed. Inspired by Jon's <a href="https://jona.ca/2015/11/code-reviews-in-iambic-pentameter.html">Code Reviews in Iambic Pentameter</a> post, where he wrote 42 actual code reviews in Shakespearean verse — an experiment he described as most curious and rare.</div>
         </li>
