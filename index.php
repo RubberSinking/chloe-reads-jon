@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="mass-gesture-lab.php">Mass Gesture Lab</a> <span class="date">2026-04-23</span></div>
+            <div class="blurb">An interactive three-mode lab for learning the gestures and postures of the Catholic Mass: browse eleven gesture cards (Sign of the Cross, genuflection, bow, kneel, orans, and more), test yourself with a 10-question quiz, or walk through them one by one in Practice mode. Each gesture ties a physical action to its sacred moment in the liturgy. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/03/gestures-and-postures-of-congregation.html">Gestures and Postures of the Congregation at Mass</a> post on Cool Tools for Catholics, where he noted the gestures he wants to start doing better — like bowing at the name of Jesus in the Gloria and making the profound bow at the Creed.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="letter-closing-composer.php">The Letter Closing Composer</a> <span class="date">2026-04-22</span></div>
             <div class="blurb">A parchment-toned interactive composer that crafts 18th century letter closings in Samuel Johnson's own style. Choose your addressee (Dear Sir, My Lord, Dear Friend...), the degree of affection (Most Affectionate, Humble, Obliged...), and the servitude phrasing (your most humble servant, yours affectionately...), then copy the result to your clipboard. Four authentic samples from Boswell's <em>Life of Samuel Johnson</em> are ready to use with a click. Optional Latin translation toggle. Inspired by Jon's <a href="https://jona.ca/2007/04/for-email-charming-closing-lines-from.html">18th century letter closings post</a> and his <a href="https://jona.ca/2007/04/translate-your-personal-motto-into.html">Latin motto translation post</a>, where he discovered that "Technologies that make life wonderful" becomes "Technologos ut planto vita mirus" and "Engineering beautiful software" becomes "Condita decorus progressio."</div>
         </li>
