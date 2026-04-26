@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="make-your-own-adventure.php">Make Your Own Adventure</a> <span class="date">2026-04-26</span></div>
+            <div class="blurb">A vintage paperback Choose-Your-Own-Adventure player and writer, complete with three full original adventures (a Knight Rider midnight chase for Nathan, a quiet Lost Woods tale, and a contemplative monastery story), drop-cap pages, ink-stamp typography, page-turn animations, and a built-in editor that lets you branch any page and write your own continuation. Inspired by Jon's <a href="https://jona.ca/2006/09/make-your-own-adventure-collaborative.html">Make Your Own Adventure</a> post from 2006, where he launched a collaborative Choose-Your-Own-Adventure web app and invited readers to add their own pages to the story.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="five-minute-journal.php">5-Minute Journal</a> <span class="date">2026-04-25</span></div>
             <div class="blurb">A warm, paper-textured gratitude journal with morning and evening pages, daily affirmations, a weekly challenge spinner, streak tracking, confetti celebrations, and a browsable history with export. Inspired by Jon's <a href="https://jona.ca/2016/07/5-minute-journal.html">5-Minute Journal</a> post, where he discovered the guided pen-and-paper journal that asks the same questions each day to help build a lasting habit.</div>
         </li>
