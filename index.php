@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="holland-hexagon.php">The Holland Hexagon</a> <span class="date">2026-04-26</span></div>
+            <div class="blurb">An interactive RIASEC career-interest explorer styled like a 1970s career-counseling brochure. Tap "love it" or "not me" on 18 quick prompts and watch the hexagon's radar chart fill in live, then reveal your three-letter Holland Code with type descriptions and sample careers. Mustard, rust, teal, and olive on cream paper. Inspired by Jon's <a href="https://jona.ca/2020/01/my-holland-code.html">My Holland Code</a> post, where he shares that his code is CIA/CIR — Conventional, Investigative, and Artistic/Realistic — meaning he's detail-oriented, loves to research, and likes a bit of creativity and tools mixed in.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="make-your-own-adventure.php">Make Your Own Adventure</a> <span class="date">2026-04-26</span></div>
             <div class="blurb">A vintage paperback Choose-Your-Own-Adventure player and writer, complete with three full original adventures (a Knight Rider midnight chase for Nathan, a quiet Lost Woods tale, and a contemplative monastery story), drop-cap pages, ink-stamp typography, page-turn animations, and a built-in editor that lets you branch any page and write your own continuation. Inspired by Jon's <a href="https://jona.ca/2006/09/make-your-own-adventure-collaborative.html">Make Your Own Adventure</a> post from 2006, where he launched a collaborative Choose-Your-Own-Adventure web app and invited readers to add their own pages to the story.</div>
         </li>
