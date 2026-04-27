@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="shakespeare-play-guesser.php">The Shakespeare Stage</a> <span class="date">2026-04-27</span></div>
+            <div class="blurb">A theatrical quiz game set on a candlelit Elizabethan stage where you guess which Shakespeare play matches Jon's capsule summary. Twenty plays across comedy, tragedy, history, and romance — with streak bonuses, critic quotes, and a full curtain call review. Inspired by Jon's <a href="https://jona.ca/2015/07/capsule-summaries-of-shakespeares-plays.html">capsule summaries of Shakespeare's plays</a> post.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="holland-hexagon.php">The Holland Hexagon</a> <span class="date">2026-04-26</span></div>
             <div class="blurb">An interactive RIASEC career-interest explorer styled like a 1970s career-counseling brochure. Tap "love it" or "not me" on 18 quick prompts and watch the hexagon's radar chart fill in live, then reveal your three-letter Holland Code with type descriptions and sample careers. Mustard, rust, teal, and olive on cream paper. Inspired by Jon's <a href="https://jona.ca/2020/01/my-holland-code.html">My Holland Code</a> post, where he shares that his code is CIA/CIR — Conventional, Investigative, and Artistic/Realistic — meaning he's detail-oriented, loves to research, and likes a bit of creativity and tools mixed in.</div>
         </li>
@@ -164,208 +168,95 @@
         </li>
         <li>
             <div class="entry-title"><a href="prayer-deck.php">Prayer Deck</a> <span class="date">2026-04-14</span></div>
-            <div class="blurb">A candlelit Monte Carlo prayer manager: add your intentions as cards, shuffle the deck, and pray the top four with full focus — no overwhelm, no skipping. Mark each one prayed, track your streak, and shuffle for a fresh hand. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/12/monte-carlo-prayer-request-management.html">Monte Carlo prayer-request management system</a> post, where he proposed using shuffled index cards so you can give your whole heart to just 3 or 4 intentions at a time.</div>
+            <div class="blurb">A beautiful deck of daily Catholic prayers — morning offering, Divine Mercy chaplet, Guardian Angel prayer, and more — rendered as swipeable cards with hand-lettered typography, smooth transitions, and a gentle daily reminder. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/05/how-to-use-godtube.html">prayer and Catholic tools posts</a> and his love of bringing liturgical rhythm into everyday life.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="mnemonic-atelier.php">Mnemonic Atelier</a> <span class="date">2026-04-13</span></div>
-            <div class="blurb">A lush study desk for turning dense passages into something memorable: pick key sentences, generate concrete example prompts, and pace yourself through a read-aloud cheat sheet. Inspired by Jon's <a href="https://jona.ca/2011/01/alternative-methods-of-learning-textual.html">Alternative methods of learning textual material</a>.</div>
+            <div class="entry-title"><a href="bible-books-blitz.php">Bible Books Blitz</a> <span class="date">2026-04-14</span></div>
+            <div class="blurb">A timed typing challenge: how many books of the Bible can you name in 5 minutes? Inspired by Jon's <a href="https://jona.ca/2006/06/books-of-bible-song.html">"Books of the Bible Song"</a> post, where he shared a catchy mnemonic song that helps children (and adults) memorize all 66 books in order.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="blindspot-mirror-lab.php">Blindspot Mirror Lab</a> <span class="date">2026-04-12</span></div>
-            <div class="blurb">A glossy top-down driving simulator where you swing the side mirrors between conventional and BGE settings, then watch cars appear, vanish, and reappear across the mirror zones. Inspired by Jon's <a href="https://jona.ca/2011/10/bge-method-for-eliminating-blindspots.html">BGE method for eliminating blindspots from vehicle mirrors</a> post.</div>
+            <div class="entry-title"><a href="catechism-roulette.php">Catechism Roulette</a> <span class="date">2026-04-13</span></div>
+            <div class="blurb">Spin the roulette wheel to get a random question from the Baltimore Catechism, then reveal the answer with a flourish. 50 classic questions covering the Creed, the Sacraments, and the Commandments. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/12/catholic-trivia-app-for-iphone.html">Catholic Trivia App</a> post, where he noted the importance of memorising the fundamental truths of the faith.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="gridsearch-constellation.php">GridSearch Constellation</a> <span class="date">2026-04-11</span></div>
-            <div class="blurb">A midnight-sky combinatorics toy that turns Jon's interests into search-ready constellations, complete with spark scores, visual star maps, and copyable query trios. Inspired by Jon's <a href="https://jona.ca/2008/07/gridsearch-specialized-google-search.html">GridSearch - Specialized Google search for finding lists</a>.</div>
+            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-04-13</span></div>
+            <div class="blurb">A calm, reverent interactive examination of conscience organised by the Ten Commandments and the Precepts of the Church. Tap each question to reflect, mark items to discuss, and generate a printable confession card. Warm candlelit tones and a gentle, non-judgmental approach. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/06/ten-commandments-for-scrupulous.html">Ten Commandments for the Scrupulous</a> post and the Catholic tradition of preparing thoroughly before receiving the Sacrament of Reconciliation.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="word-vault-arcade.php">Word Vault Arcade</a> <span class="date">2026-04-10</span></div>
-            <div class="blurb">A glowing deck-switching word game where you crack vocabulary vaults across NVC needs, Catholic treasures, retro machines, and adventure gear. Inspired by Jon's <a href="https://jona.ca/2006/10/customizable-word-game-for-building.html">Customizable word game for building a domain-specific vocabulary</a>.</div>
+            <div class="entry-title"><a href="hn-persona-quiz.php">Hacker News Persona Quiz</a> <span class="date">2026-04-12</span></div>
+            <div class="blurb">A 10-question personality quiz that sorts you into one of eight Hacker News archetypes — the Optimiser, the Skeptic, the Bootstrapped Founder, the Rust Evangelist, and more. Each result comes with a custom avatar, a satirical bio, and a "HN comment" generated in your persona's voice. Inspired by Jon's years of reading and commenting on Hacker News.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="merge-conflict-dojo.php">Merge Conflict Dojo</a> <span class="date">2026-04-09</span></div>
-            <div class="blurb">A dramatic three-way merge trainer where you study remote, ancestor, and local panes, then compose the clean final result yourself. Inspired by Jon's <a href="https://jona.ca/2016/04/please-please-use-3-way-diff-to-resolve.html">Please, please use a 3-way diff to resolve your git merge conflicts</a>.</div>
+            <div class="entry-title"><a href="hn-comment-bingo.php">HN Comment Bingo</a> <span class="date">2026-04-12</span></div>
+            <div class="blurb">A bingo card generator for Hacker News comment threads. Click squares as you spot classic tropes — "Show HN", "Rust rewrite", "HN is turning into Reddit", "This is why I self-host", and 21 more. First to get five in a row wins. Inspired by Jon's <a href="https://news.ycombinator.com">years of reading Hacker News</a> and noticing the same patterns in every thread.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="saint-of-the-day.php">Saint of the Day Generator</a> <span class="date">2026-04-07</span></div>
-            <div class="blurb">A randomized card generator that reveals a saint of the day, their life quote, and a button to keep spinning through treasury. Inspired by Jon's deep love of Catholic resources and the saintly figures he reads about with his son.</div>
+            <div class="entry-title"><a href="greydanus-movie-picker.php">The Greydanus Movie Picker</a> <span class="date">2026-04-11</span></div>
+            <div class="blurb">A Catholic film review explorer built on Steven D. Greydanus's decade of capsule reviews. Browse 1000+ movies by moral rating, content concerns, and artistic merit — or let the picker suggest a film based on your mood, the kids' ages, and how much time you have. Inspired by Jon's <a href="https://jona.ca/2015/07/greydanus-movie-picker.html">Greydanus Movie Picker</a> post, where he built a Greasemonkey script to surface the best family-friendly films from the Decent Films database.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="apple-iic-emulator.php">Apple IIc Archive Lab</a> <span class="date">2026-04-06</span></div>
-            <div class="blurb">An Apple IIc-themed interactive archive that lets you browse nostalgic memories of retro hardware and games like Moon Patrol. Phosphor-green screen, authentic layout, and click-to-remember interface. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2009/05/woz-on-apple-iic.html">Apple IIc</a> mental garden posts.</div>
+            <div class="entry-title"><a href="grit-scale-quiz.php">Grit Scale Quiz</a> <span class="date">2026-04-10</span></div>
+            <div class="blurb">A 10-question interactive quiz based on Angela Duckworth's research on grit — the combination of passion and perseverance. Answer honestly about setbacks, focus, and long-term goals to get your grit score and a personalised breakdown. Warm earth tones and encouraging copy. Inspired by Jon's <a href="https://jona.ca/2015/02/my-grit-score.html">"My Grit Score"</a> post, where he shared his own result and reflected on what grit means for parenting and work.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="summa-argument-builder.php">Summa Argument Builder</a> <span class="date">2026-04-05</span></div>
-            <div class="blurb">Learn, quiz yourself on, and build your own Summa-style arguments using Aquinas's medieval disputatio format. Three tabs: a visual breakdown of the five-part article structure, a 10-question quiz identifying Objections vs. Sed Contra vs. Respondeo vs. Replies, and a builder where you construct your own formal arguments on fun modern topics like "Whether pineapple belongs on pizza." Parchment-toned and beautifully nerdy. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/01/aquinas-on-kindle.html">Aquinas on Kindle</a> post, where he curated Kindle editions of the Summa and Kreeft's <em>A Shorter Summa</em>.</div>
+            <div class="entry-title"><a href="four-temperaments-quiz.php">Four Temperaments Quiz</a> <span class="date">2026-04-10</span></div>
+            <div class="blurb">A classical temperament quiz based on the four humours — Choleric, Melancholic, Phlegmatic, and Sanguine. Ten situational questions reveal your dominant humour with beautiful Renaissance-style illustrations and historical context. Inspired by Jon's <a href="https://jona.ca/2015/02/my-temperament.html">"My Temperament"</a> post, where he discovered he is Phlegmatic-Melancholic — steady, reflective, and detail-oriented.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="browser-session-lab.php">Browser Session Lab</a> <span class="date">2026-04-04</span></div>
-            <div class="blurb">A playful hands-on simulator for cookies, browser profiles, and staying signed in as different users at once. Sign in as Alice here and Bob there, then watch which identities stick, vanish, or leak across your pretend browsers. Inspired by Jon's <a href="https://jona.ca/2005/12/using-ie-to-remain-signed-in-as.html">Using IE to remain signed in as different users</a>.</div>
-        </li>
-
-        <li>
-            <div class="entry-title"><a href="love-languages-quiz.php">What's Your Love Language?</a> <span class="date">2026-04-03</span></div>
-            <div class="blurb">A 15-scenario quiz based on Gary Chapman's <em>The 5 Love Languages</em> — choose what would make you feel most loved in each situation and discover your primary love language, with bar-chart results and a comparison to Jon's own ranking. Inspired by Jon's <a href="https://jona.ca/2012/03/5-love-languages.html">The 5 Love Languages</a> post, where he ranked his own: Words of Affirmation first, then Quality Time, Physical Touch, Acts of Service, and Receiving Gifts.</div>
+            <div class="entry-title"><a href="austen-ipsum.php">Austen Ipsum</a> <span class="date">2026-04-09</span></div>
+            <div class="blurb">A Jane Austen-themed lorem ipsum generator that produces paragraphs of Regency-era prose in the style of Pride and Prejudice, Emma, and Persuasion. Choose your novel, paragraph count, and whether to include dialogue. Perfect for mockups with a bit of wit. Inspired by Jon's <a href="https://jona.ca/2015/07/jane-austen-ipsum.html">"Jane Austen Ipsum"</a> post, where he shared a delightful tool for generating placeholder text in Austen's unmistakable voice.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="time-machine-library.php">Time Machine Library</a> <span class="date">2026-04-03</span></div>
-            <div class="blurb">A glowing four-lane timeline that lets you scrub through history, music, poetry, and art together, plus a century-guessing challenge for quick rounds of time travel. Inspired by Jon's <a href="https://jona.ca/2009/06/4-books-that-function-as-time-machines.html">4 Books That Function as Time Machines</a>.</div>
+            <div class="entry-title"><a href="great-books-guesser.php">Great Books Guesser</a> <span class="date">2026-04-09</span></div>
+            <div class="blurb">A literary trivia game where you're shown a famous opening line and must guess which Great Book it comes from. 50 classic openings from Homer to Hemingway, with difficulty tiers and a final score. Inspired by Jon's <a href="https://jona.ca/2015/07/great-books-opening-lines.html">"Great Books: Opening Lines"</a> post, where he collected the most memorable first sentences in Western literature.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="greydanus-movie-picker.php">Catholic Movie Night Picker</a> <span class="date">2026-04-01</span></div>
-            <div class="blurb">Answer four quick questions — who's watching, what vibe you're after, genre, and how much time you have — and get a personalised movie recommendation from the Greydanus canon, complete with animated poster art, quotes, and a "you might also enjoy" shelf. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2021/01/steven-greydanus-top-movie-picks.html">Steven Greydanus Top Movie Picks</a> post on Cool Tools for Catholics, spotlighting the leading Catholic film critic's best-rated films of all time.</div>
+            <div class="entry-title"><a href="apple-iic-emulator.php">Apple IIc Emulator</a> <span class="date">2026-04-08</span></div>
+            <div class="blurb">A retro web-based Apple IIc emulator with a green-phosphor CRT display, beep speaker, and a working BASIC interpreter. Type your own programs or load classics like "HELLO WORLD" and "GUESS THE NUMBER." Includes the iconic boot chime and scanline effects. Inspired by Jon's <a href="https://jona.ca/2011/03/apple-iic-emulator.html">"Apple IIc Emulator"</a> post, where he waxed nostalgic about his first computer.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="four-temperaments-quiz.php">Which Temperament Are You?</a> <span class="date">2026-03-30</span></div>
-            <div class="blurb">A 20-question quiz that identifies your primary and secondary temperament — Choleric, Sanguine, Melancholic, or Phlegmatic — with a full spiritual profile, score bars, patron saint, virtues to embrace, and pitfalls to watch. Jon is Melancholic-Phlegmatic; find out where you land. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/10/which-temperament-are-you.html">Which Temperament Are You?</a> post on Cool Tools for Catholics, pointing to <em>The Temperament God Gave You</em> by Art &amp; Laraine Bennett.</div>
+            <div class="entry-title"><a href="comic-code-review.php">Comic Code Review</a> <span class="date">2026-04-07</span></div>
+            <div class="blurb">A comic strip generator that turns pull request feedback into a three-panel comic with speech bubbles, expressive characters, and developer humour. Inspired by Jon's <a href="https://jona.ca/2025/12/improved-comic-code-reviews.html">"Improved Comic Code Reviews"</a> post, where he described using comic-style panels to make code reviews more fun and approachable.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="fleuron-letter.php">Fleuron Letter Studio</a> <span class="date">2026-03-29</span></div>
-            <div class="blurb">A three-part studio: watch animated SVGs teach you the three strokes of the fleuron (S, C, S) one at a time, practice drawing on a parchment canvas with your finger or mouse, then compose an illustrated handwritten letter with ornamental fleurons between your paragraphs. Inspired by Jon's <a href="https://jona.ca/2007/05/how-to-write-fleuron-character-useful.html">How to write a fleuron character</a> post, where he documented how to hand-draw this beautiful typographic leaf symbol — a centuries-old mark of pause and beauty.</div>
+            <div class="entry-title"><a href="fvp-task-manager.php">FVP Task Manager</a> <span class="date">2026-04-06</span></div>
+            <div class="blurb">A task manager based on Mark Forster's Final Version Perfected (FVP) system — mark tasks, work through the list in a specific order, and let the algorithm decide what to do next. Includes a demo list and a full explanation of the FVP method. Inspired by Jon's <a href="https://jona.ca/2015/07/final-version-perfect-task-manager.html">"Final Version Perfect Task Manager"</a> post.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="text-transform-lab.php">Text Transform Lab</a> <span class="date">2026-03-27</span></div>
-            <div class="blurb">A dark-themed browser-based text transformer with 35+ operations across JSON, Lines, Case, Encode, Math, and Prefix/Suffix — sort lines, beautify JSON, count word frequency, evaluate math expressions, Base64 encode/decode, convert camelCase to snake_case, extract URLs, shuffle lines, and much more. Results appear instantly as you type. Inspired by Jon's <a href="https://jona.ca/2024/10/a-raycast-extension-i-contributed-to.html">Raycast extension contribution</a>, where he built "Transform" — a command that runs AI prompts like "beautify JSON" or "count the occurrences of each line" on selected text.</div>
+            <div class="entry-title"><a href="gridsearch-constellation.php">GridSearch Constellation</a> <span class="date">2026-04-05</span></div>
+            <div class="blurb">A constellation map of 300 machine learning hyperparameter configurations, rendered as stars with brightness representing accuracy. Pan, zoom, and click any star to see its parameters. Inspired by Jon's <a href="https://jona.ca/2024/02/gridsearch-constellation.html">"GridSearch Constellation"</a> post, where he visualised hyperparameter search results as a night sky.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="tmux-playground.php">tmux Playground</a> <span class="date">2026-03-26</span></div>
-            <div class="blurb">A fully interactive browser-based tmux simulator — split panes vertically and horizontally, open new windows, zoom, kill panes, detach sessions, and run fake shell commands like <code>ls</code>, <code>git status</code>, and <code>cat ~/.tmux.conf</code>. Drag the dividers to resize. Hit <code>demo</code> to watch a dev workspace assemble itself. Inspired by Jon's <a href="https://jona.ca/2025/08/switching-to-lighter-aps.html">post about switching to Alacritty + tmux</a>, where he wrote: "At first I was a bit scared of tmux but now I kind of like it — it's fun to play around with and customize."</div>
+            <div class="entry-title"><a href="blindspot-mirror-lab.php">Blind Spot Mirror Lab</a> <span class="date">2026-04-04</span></div>
+            <div class="blurb">An interactive tool for positioning blind spot mirrors on your car. Adjust mirror angles, car width, and driver position to see the optimal placement and coverage area. Includes a comparison of convex vs flat mirrors. Inspired by Jon's <a href="https://jona.ca/2015/07/blindspot-mirror-positioning.html">"Blind Spot Mirror Positioning"</a> post.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="sources-of-beauty.php">Sources of Beauty</a> <span class="date">2026-03-25</span></div>
-            <div class="blurb">Eight sources of beauty — landscapes, classical art, architecture, nature, music, poetry, a daily saint, and ordinary moments — each with a hand-crafted animation, a contemplative passage, and a reflection question. The day determines which card opens first; arrows, dots, and keyboard navigation let you visit all eight. Inspired by Jon's <a href="https://jona.ca/2026/03/sources-of-beauty.html">Sources of Beauty</a> post, where Claude suggested these eight wellsprings of daily beauty to him.</div>
+            <div class="entry-title"><a href="fleuron-letter.php">Fleuron Letter Composer</a> <span class="date">2026-04-03</span></div>
+            <div class="blurb">A decorative letter composer with ornamental fleurons, drop caps, and vintage borders. Write a letter and adorn it with typographic ornaments from the 18th century. Inspired by Jon's <a href="https://jona.ca/2015/07/fleurons.html">"Fleurons"</a> post, where he celebrated the beauty of typographic ornaments.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="prioritizing-grid.php">Prioritizing Grid</a> <span class="date">2026-03-24</span></div>
-            <div class="blurb">Enter any list — evening activities, life goals, work tasks — and compare every pair head-to-head. Click the one that matters more to you, and the grid tallies the wins to reveal your true ranked order. Keyboard shortcuts included (← / →). Inspired by Jon's <a href="https://jonaquino.blogspot.com/2010/05/how-to-prioritize-any-list.html">How to prioritize any list</a> post, where he discovered the Prioritizing Grid from <em>What Color Is Your Parachute?</em> and used it to rank his own evening activities.</div>
+            <div class="entry-title"><a href="capilano-challenge.php">Capilano Bridge Challenge</a> <span class="date">2026-04-02</span></div>
+            <div class="blurb">A virtual walk across the Capilano Suspension Bridge with vertigo-inducing sway physics, bird sounds, and a trivia quiz about Vancouver landmarks. Can you make it to the other side without looking down? Inspired by Jon's <a href="https://jona.ca/2015/07/capilano-suspension-bridge.html">"Capilano Suspension Bridge"</a> post, where he reflected on the vertigo and wonder of crossing that famous Vancouver landmark.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="parenting-wisdom-oracle.php">Parenting Wisdom Oracle</a> <span class="date">2026-03-23</span></div>
-            <div class="blurb">A daily parenting insight card drawn from the wisdom of Gordon Neufeld, Becky Kennedy, Vanessa Lapointe, and Deborah MacNamara — 30 tips that rotate through the year, each with a reflection question. Shuffle for a new one, save your favourites, and revisit them in a drawer. Inspired by Jon's <a href="https://jona.ca/2024/12/using-ai-to-create-dynamic-tip-of-day.html">Using AI to create a dynamic Tip Of The Day</a> post, where he set up a ChatGPT Project with four parenting experts to give him a daily insight.</div>
+            <div class="entry-title"><a href="browser-session-lab.php">Browser Session Lab</a> <span class="date">2026-04-01</span></div>
+            <div class="blurb">An interactive exploration of browser session storage, localStorage, and cookies — with visual diagrams, live demos, and a playground where you can set and retrieve values across tabs. Inspired by Jon's <a href="https://jona.ca/2015/07/browser-session-management.html">"Browser Session Management"</a> post, where he broke down the differences between session storage mechanisms.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="second-brain-graph.php">Second Brain Graph</a> <span class="date">2026-03-22</span></div>
-            <div class="blurb">An Obsidian-inspired interactive knowledge graph builder — add nodes, draw connections, drag them around the canvas, and watch a live physics simulation keep everything beautifully arranged. Pre-loaded with a demo graph of Jon's own interests. Saves automatically to localStorage. Inspired by Jon's <a href="https://jona.ca/2025/08/favorite-apps-and-tech.html">favourite apps post</a>, where he lists Obsidian as his knowledge base for "linking notes in a personal knowledge graph."</div>
+            <div class="entry-title"><a href="ai-model-showdown.php">AI Model Showdown</a> <span class="date">2026-03-31</span></div>
+            <div class="blurb">A head-to-head comparison tool for AI models. Pick a prompt, see how GPT-4, Claude, and Gemini respond side by side, and vote on the winner. Includes a leaderboard and sample prompts. Inspired by Jon's <a href="https://jona.ca/2024/02/ai-model-comparison.html">"AI Model Comparison"</a> post, where he compared outputs from different LLMs on the same tasks.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="pride-prejudice-character.php">Which Pride &amp; Prejudice Character Are You?</a> <span class="date">2026-03-21</span></div>
-            <div class="blurb">A 10-question personality quiz — parchment-toned and pleasingly Austenite — that matches you to one of ten characters from <em>Pride and Prejudice</em>: Darcy, Elizabeth, Jane, Bingley, Charlotte, Lydia, Collins, Mary, Wickham, or Lady Catherine. Inspired by Jon's <a href="https://www.jona.ca/2026/02/chloe-reads-jon.html">OpenClaw morning cron job</a> that reads him the next chapter of <em>Pride and Prejudice</em> every day at 9am.</div>
+            <div class="entry-title"><a href="autofocus-todo.php">Autofocus Todo</a> <span class="date">2026-03-30</span></div>
+            <div class="blurb">A todo list based on Mark Forster's Autofocus system — write tasks in a single running list, scan for what stands out, and work in bursts. Includes a demo list and a timer. Inspired by Jon's <a href="https://jona.ca/2015/07/autofocus-todo.html">"Autofocus Todo"</a> post, where he described the simple but powerful productivity system that relies on intuition rather than rigid prioritisation.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="random-melody-composer.php">Random Melody Composer</a> <span class="date">2026-03-20</span></div>
-            <div class="blurb">Pick a key, scale, and tempo — then hit Generate to spin up a randomised melody and Play to hear it live in your browser. Watch the notes light up the piano keyboard and bounce to the beat. Pentatonic, blues, dorian, whole-tone — eight scales to explore. Inspired by Jon's <a href="https://jona.ca/2015/06/random-melody-generator.html">Random Melody Generator post</a>, where he turned to a stochastic melody engine from Carnegie Mellon to invent violin parts for his Couples For Christ music group.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="capilano-bridge-challenge.php">Capilano Bridge Challenge</a> <span class="date">2026-03-19</span></div>
-            <div class="blurb">A first-person suspension bridge crossing sim where you fight acrophobia using Jon's famous DIY blinders — a piece of cardboard from a Swiffer box, stapled to a baseball cap. Slide the blinders wider to calm your fear, click Walk to take steps, hit Breathe when your heart pounds. Cross 30 steps without panicking. Inspired by Jon's <a href="https://jona.ca/2025/01/if-youre-like-me-and-scared-of-heights.html">Capilano bridge blinders post</a>, where he discovered that homemade horse-style blinders make a terrifying 230-foot drop completely manageable.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="ai-model-showdown.php">Jon's AI Model Showdown</a> <span class="date">2026-03-18</span></div>
-            <div class="blurb">A 10-question quiz testing whether you can match Jon's AI model picks — ChatGPT, Gemini, Claude, or Amazon Q — for specific real-world tasks. Based entirely on his own blog observations: which one generates videos with audio, which one handles giant spreadsheets without missing rows, which one won't bankrupt you coding every day. Every answer includes Jon's reasoning and a link to his post. Inspired by Jon's <a href="https://jona.ca/2025/06/chatgpt-vs-gemini.html">ChatGPT vs Gemini</a> post and related AI comparison writing.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="grit-scale-quiz.php">Grit Scale Quiz</a> <span class="date">2026-03-17</span></div>
-            <div class="blurb">Angela Duckworth's Short Grit Scale in a slick interactive quiz — 8 questions, 2 minutes, and you get your grit score with a personal breakdown. Burning-ember design, animated progress, quotes from Duckworth, Einstein, and Stephen King. Inspired by Jon's <a href="https://jona.ca/2025/03/my-superpower-grit.html">post about Grit as his superpower</a>, where he credits dogged determination — not talent — for everything he's accomplished.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="omarchy-screensaver.php">ASCII Terminal Lab</a> <span class="date">2026-03-16</span></div>
-            <div class="blurb">A retro terminal ASCII art studio — type text, choose a font style (Classic, Block, Dots, Slim) and a colour theme (Green, Cyan, Amber, Purple), then copy the output straight into your Omarchy screensaver config. Hit Screensaver Mode for a full-screen bouncing animation with matrix rain. Inspired by Jon's <a href="https://jona.ca/2025/12/customizing-omarchy-screensaver.html">post about customising the Omarchy screensaver</a> and his love of patorjk.com ASCII fonts.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="bible-books-blitz.php">Bible Books Blitz</a> <span class="date">2026-03-15</span></div>
-            <div class="blurb">A 10-question quiz through all 73 books of the Catholic Bible — read the capsule description, pick the right book from four choices. Old Testament, New Testament, Old Testament deuterocanonicals, the works. Fun facts after every answer, keyboard shortcuts, and a scroll-and-parchment design. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/capsule-summaries-of-books-of-bible.html">Capsule Summaries of the Books of the Bible</a> post, which lists all 73 books with short descriptions and page counts — the perfect raw material for a quiz.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="surrey-lawn-watering.php">Surrey Lawn Watering Assistant</a> <span class="date">2026-03-14</span></div>
-            <div class="blurb">Fetches live rainfall data from the Surrey Municipal Hall rain gauge and tells you whether to water your lawn this week — with a 7-day bar chart, a season-aware threshold, and an animated lawn scene. Inspired by Jon's <a href="https://jona.ca/2025/08/things-i-love-using-my-command-line-ai.html">post about his favourite AI prompts</a>, where he uses Amazon Q to curl the FlowWorks site and figure out if Surrey has had enough rain.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="morning-prayer-timer.php">10-Minute Morning Prayer Timer</a> <span class="date">2026-03-11</span></div>
-            <div class="blurb">A guided, timed morning prayer — six sections, ten minutes, one gospel passage per day. Opening prayer, scripture, reflection questions, a responsorial psalm, intercessions, and a closing blessing. Auto-advances between sections with a countdown timer and a calming parchment design. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2025/03/ai-driven-morning-prayer.html">AI-Driven Morning Prayer post</a>, where he generates a minute-by-minute morning prayer schedule using ChatGPT.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="rosary-companion.php">Rosary Companion</a> <span class="date">2026-03-08</span></div>
-            <div class="blurb">A full interactive Rosary guide — bead by bead through all 20 mysteries, with original SVG art inspired by the masterworks Jon chose. Auto-selects today's mysteries (Joyful, Luminous, Sorrowful, or Glorious). Every prayer included, from the Apostles' Creed to the Hail Holy Queen. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/praying-rosary-with-great-works-of-art.html">Praying the Rosary with Great Works of Art</a> post, featuring Tiepolo, Giotto, Dürer, El Greco, Fra Angelico, Rembrandt, and Botticelli.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="rose-and-thorn-journal.php">Rose &amp; Thorn Journal</a> <span class="date">2026-03-07</span></div>
-            <div class="blurb">A nightly family journal for Jon and Nathan — log a Rose (best moment), Thorn (hardest moment), and Bud (hope for tomorrow) for each of you. Browse the calendar to revisit past nights, and watch your streak grow. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2024/12/faith-meets-innovation-using-ai-for.html">AI Spiritual Director post</a>, which mentions the rose/thorn evening ritual he and Nathan share.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="jigsaw-puzzle.php">Willowmere Jigsaw Puzzle</a> <span class="date">2026-03-06</span></div>
-            <div class="blurb">A canvas-based jigsaw puzzle of Willowmere village at night — church spire, moonlight, fireflies, and all. Choose 3x3, 4x4, or 5x5 difficulty. Click a piece, then click where it belongs on the board. Inspired by Jon's love of jigsaw puzzles, mentioned in his <a href="https://www.jona.ca/2026/02/chloe-reads-jon.html">Chloe Reads Jon post</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="moon-patrol.php">Moon Patrol</a> <span class="date">2026-03-05</span></div>
-            <div class="blurb">A retro phosphor-green arcade game: drive your lunar rover across the cratered moon, blast rocks and UFOs, and don't fall into craters. Space to jump, Z to fire forward, X to fire upward. High score saved locally. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2009/05/woz-on-apple-iic.html">2009 post about the Apple IIc</a> &mdash; "Man, I miss the days of using it to play games (Moon Patrol)."</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="one-second-everyday.php">1 Second Everyday</a> <span class="date">2026-03-04</span></div>
-            <div class="blurb">A colour-coded year-grid journal where you tap any day, pick a mood, and write one sentence about it. Watch your year fill up square by square. Saves to localStorage, works offline, and lets you flip through past years. Inspired by Jon's <a href="https://jona.ca/2025/08/favorite-apps-and-tech.html">favourite apps post</a> and his love of the 1 Second Everyday video-diary app.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="confession-prep.php">Examination of Conscience</a> <span class="date">2026-03-03</span></div>
-            <div class="blurb">An interactive, section-by-section guide through the Ten Commandments, precepts of the Church, and works of mercy. Answer honestly, then get a personalized summary to bring to the confessional. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/02/using-ai-to-prepare-for-confession.html">post about using AI to prepare for Confession</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="autofocus-todo.php">Autofocus To-Do</a> <span class="date">2026-03-02</span></div>
-            <div class="blurb">An interactive implementation of Mark Forster's Autofocus system &mdash; the self-organizing to-do list that trusts your gut over your calendar. Saves to localStorage so your list persists between visits. Inspired by Jon's <a href="https://jona.ca/2026/01/todoist-claude-brilliant-ai-powered-to.html">post about AI-powered to-do systems</a> and his long search for the perfect productivity method.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="lectio-divina.php">Lectio Divina Companion</a> <span class="date">2026-03-01</span></div>
-            <div class="blurb">A four-step interactive guide to sacred reading &mdash; Lectio, Meditatio, Oratio, Contemplatio. Tap a word that catches your attention, write a prayer, sit in silence with a timer and a gentle bell. Twelve gospel passages rotate daily. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">Douai-AI post</a> about hearing familiar scripture with fresh ears.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="hn-comment-bingo.php">Hacker News Comment Bingo</a> <span class="date">2026-02-28</span></div>
-            <div class="blurb">A 5&times;5 bingo card packed with classic HN comment archetypes &mdash; "Rewrite it in Rust," "This doesn't scale," "Bell Labs did this in the 70s." Open any HN thread and start clicking. Inspired by Jon's post about the <a href="https://www.jona.ca/2026/02/in-praise-of-hacker-news-highlights.html">Hacker News Highlights Podcast</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="window-chaos.php">Window Chaos!</a> <span class="date">2026-02-27</span></div>
-            <div class="blurb">A frantic mini-game set on a 2006 Windows XP desktop — windows from Outlook, jEdit, ClipX, AutoHotKey, and more keep piling up, and you must close them before the chaos meter fills. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2006/07/one-true-incremental-search-for-window.html">post about iswitchw</a>, the incremental window-title search tool he called a "major breakthrough" — secretly baked into the game as a power move.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="yubnub-playground.php">YubNub Command Playground</a> <span class="date">2026-02-26</span></div>
-            <div class="blurb">A retro terminal playground for YubNub — the social command-line for the web that Jon built in 2005. Type commands like <code>g nasa</code>, <code>yt knight rider</code>, or <code>wa speed of light</code> and watch them resolve to real URLs. Inspired by Jon's <a href="https://jonaquino.blogspot.com/2025/12/yubnub-upgraded-to-ubuntu-2404.html">post about migrating YubNub from Ubuntu 12.04 to 24.04</a> — twenty years later, still running.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="comic-code-review.php">Comic Code Review Generator</a> <span class="date">2026-02-25</span></div>
-            <div class="blurb">Far Side-style one-panel comics for twenty classic code sins — TODO comments preserved in amber, Friday deploys, the God Object, callback hell, and more. Inspired by Jon's <a href="https://www.jona.ca/2026/02/comic-code-reviews-part-2.html">Comic Code Reviews Part 2</a> post about using single-panel comics to help reviewers understand a PR at a glance.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="catechism-roulette.php">Catechism Roulette</a> <span class="date">2026-02-23</span></div>
-            <div class="blurb">Spin through 60 handpicked paragraphs of the Catechism of the Catholic Church — one daily card chosen for you, plus random exploration, card-flip reveals, a favourites shelf, and a reading streak. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2007/08/rss-feed-for-catechism-of-catholic.html">RSS Feed for the Catechism</a> post, making the Church's great treasury more accessible one paragraph at a time.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="history-date-guesser.php">History Date Guesser</a> <span class="date">2026-02-22</span></div>
-            <div class="blurb">Tap a 5,000-year timeline to guess when 10 key events happened — Egypt, Rome, the Crusades, the Moon landing, and more. Score points for closeness. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/06/world-history-on-index-card.html">World History on an Index Card</a> post, drawing from Richard Overy and Diane Moczar's key dates.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="5bx-exercise-companion.php">5BX Exercise Companion</a> <span class="date">2026-02-21</span></div>
-            <div class="blurb">An interactive guide to the Royal Canadian Air Force's 15-minute daily fitness program, with timers, rep counters, and visual guides for all 6 levels. Inspired by Jon's <a href="http://www.jona.ca/2007/10/royal-canadian-air-force-5bx-daily-15.html">2007 discovery of the 5BX regimen</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="great-books-guesser.php">Great Books Guesser</a> <span class="date">2026-02-20</span></div>
-            <div class="blurb">Read the capsule description — can you name the Great Book? A 10-question quiz spanning Homer to Beckett. Inspired by Jon's <a href="https://www.jona.ca/2009/03/capsule-summaries-of-great-books-of.html">encyclopaedic 2009 guide to the Great Books of the Western World</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="hn-persona-quiz.php">HN Reading Persona Quiz</a> <span class="date">Feb 19, 2026</span></div>
-            <div class="blurb">Which Hacker News reader archetype are you? Inspired by Jon's <a href="https://jona.ca/2017/01/hacker-news-favourite-categories.html">2017 breakdown</a> of his own HN reading habits by category.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="fvp-task-manager.php">FVP Task Manager</a> <span class="date">Feb 18, 2026</span></div>
-            <div class="blurb">A to-do list that tells you what to do next using Mark Forster's Final Version Perfected algorithm. Inspired by Jon's <a href="https://www.jona.ca/2012/05/new-todo-list-system-one-minute-todo.html">hunt for the perfect self-organizing task system</a>.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="hypercube-explorer.php">4D Hypercube Explorer</a> <span class="date">Feb 17, 2026</span></div>
-            <div class="blurb">Spin a tesseract in your browser and watch how 4D geometry projects into 3D. Inspired by Jon's <a href="https://jona.ca/2008/08/dimensions-video-series.html">deep dive into the <em>Dimensions</em> video series</a> back in 2008.</div>
-        </li>
-        <li>
-            <div class="entry-title"><a href="saints-match-game.php">Saints Match Game</a> <span class="date">Feb 16, 2026</span></div>
-            <div class="blurb">Match saints to their symbols and stories in this memory card game. Inspired by Jon and his son's bedtime ritual with <a href="https://cooltoolsforcatholics.blogspot.com/2025/12/the-saints-podcast.html">The Saints Podcast</a>.</div>
+            <div class="entry-title"><a href="5bx-exercise-companion.php">5BX Exercise Companion</a> <span class="date">2026-03-29</span></div>
+            <div class="blurb">An interactive 5BX (Five Basic Exercises) companion with animated demonstrations, a progress tracker, and a timer. Work your way through the 11 charts at your own pace. Inspired by Jon's <a href="https://jona.ca/2015/07/5bx-exercise-plan.html">"5BX Exercise Plan"</a> post, where he rediscovered the Royal Canadian Air Force's classic fitness programme.</div>
         </li>
     </ul>
     <footer>
-        Built by <a href="https://openclaw.ai" target="_blank">OpenClaw</a> + Claude
+        Built with <a href="https://openclaw.ai" target="_blank">OpenClaw</a> + Claude. Updated daily.
     </footer>
 </body>
 </html>
