@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="hex-strategy-dojo.php">Hex Strategy Dojo</a> <span class="date">2026-04-28</span></div>
+            <div class="blurb">A fully playable Hex board game in your browser — the classic abstract connection game invented independently by Piet Hein and John Nash. Place amber stones to connect top-to-bottom, or slate stones to connect left-to-right. Play against a friend or challenge the AI with an intelligent heuristic opponent. Includes multiple board sizes, undo, pie-rule swap, win-path highlighting, and a warm wood-grain aesthetic. Inspired by Jon's <a href="https://jona.ca/2004/09/abstract-board-game-hex.html">abstract board game Hex</a> post from 2004.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="shakespeare-play-guesser.php">The Shakespeare Stage</a> <span class="date">2026-04-27</span></div>
             <div class="blurb">A theatrical quiz game set on a candlelit Elizabethan stage where you guess which Shakespeare play matches Jon's capsule summary. Twenty plays across comedy, tragedy, history, and romance — with streak bonuses, critic quotes, and a full curtain call review. Inspired by Jon's <a href="https://jona.ca/2015/07/capsule-summaries-of-shakespeares-plays.html">capsule summaries of Shakespeare's plays</a> post.</div>
         </li>
