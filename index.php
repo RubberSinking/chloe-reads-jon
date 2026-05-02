@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="chopin-detective.php">Chopin Detective</a> <span class="date">2026-05-02</span></div>
+            <div class="blurb">A midnight concert hall trivia game where you identify twelve Chopin masterpieces from progressively revealing clues. Score more points by guessing sooner, build streak bonuses, and discover fascinating stories behind each piece — from the Revolutionary Etude written after Warsaw fell to the Nocturne that Chopin asked be played at his funeral. Dark navy-and-gold concert hall aesthetic with floating gold dust, a piano keyboard strip, and Playfair Display typography. Inspired by Jon's <a href="https://jona.ca/2010/02/favorite-author-poet-composer-austen.html">"Favorite author, poet, composer: Austen, Eliot, Chopin"</a> post, where he shared that Chopin was his favourite composer — a cassette tape he listened to over and over growing up.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hex-strategy-dojo.php">Hex Strategy Dojo</a> <span class="date">2026-04-28</span></div>
             <div class="blurb">A fully playable Hex board game in your browser — the classic abstract connection game invented independently by Piet Hein and John Nash. Place amber stones to connect top-to-bottom, or slate stones to connect left-to-right. Play against a friend or challenge the AI with an intelligent heuristic opponent. Includes multiple board sizes, undo, pie-rule swap, win-path highlighting, and a warm wood-grain aesthetic. Inspired by Jon's <a href="https://jona.ca/2004/09/abstract-board-game-hex.html">abstract board game Hex</a> post from 2004.</div>
         </li>
