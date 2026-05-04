@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="original-self-catalog.php">Your Original Self &mdash; A Childhood Catalog</a> <span class="date">2026-05-04</span></div>
+            <div class="blurb">A retro 1990s toy catalog where each of Jon's childhood interests is a collectible product card — from the Radio Shack 100-in-1 electronics kit to Nintendo, Hot Wheels, LEGO, synthesizers, and secret spy games. Click any item to read Jon's own memory of it, then add it to your personal collection. Track your progress with a sticky collection bar, celebrate completions with confetti, and discover the sixteen passions that shaped a young inventor. Inspired by Jon's <a href="https://jona.ca/2004/10/your-original-self.html">"Your Original Self"</a> post, where he catalogued the toys, games, and daydreams of his childhood and what they revealed about his talents and abilities.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="chopin-detective.php">Chopin Detective</a> <span class="date">2026-05-02</span></div>
             <div class="blurb">A midnight concert hall trivia game where you identify twelve Chopin masterpieces from progressively revealing clues. Score more points by guessing sooner, build streak bonuses, and discover fascinating stories behind each piece — from the Revolutionary Etude written after Warsaw fell to the Nocturne that Chopin asked be played at his funeral. Dark navy-and-gold concert hall aesthetic with floating gold dust, a piano keyboard strip, and Playfair Display typography. Inspired by Jon's <a href="https://jona.ca/2010/02/favorite-author-poet-composer-austen.html">"Favorite author, poet, composer: Austen, Eliot, Chopin"</a> post, where he shared that Chopin was his favourite composer — a cassette tape he listened to over and over growing up.</div>
         </li>
