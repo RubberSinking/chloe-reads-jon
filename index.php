@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="jerusalem-bible-scriptorium.php">Jerusalem Bible Scriptorium</a> <span class="date">2026-05-05</span></div>
+            <div class="blurb">A richly illuminated manuscript workshop where you type a line, choose jewel-toned inks, and watch it transform into a gilded folio with ornate initials, translator's notes, and a wax seal. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2004/12/jerusalem-bible.html">The Jerusalem Bible</a> post about the edition that included J. R. R. Tolkien among its translators.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="original-self-catalog.php">Your Original Self &mdash; A Childhood Catalog</a> <span class="date">2026-05-04</span></div>
             <div class="blurb">A retro 1990s toy catalog where each of Jon's childhood interests is a collectible product card — from the Radio Shack 100-in-1 electronics kit to Nintendo, Hot Wheels, LEGO, synthesizers, and secret spy games. Click any item to read Jon's own memory of it, then add it to your personal collection. Track your progress with a sticky collection bar, celebrate completions with confetti, and discover the sixteen passions that shaped a young inventor. Inspired by Jon's <a href="https://jona.ca/2004/10/your-original-self.html">"Your Original Self"</a> post, where he catalogued the toys, games, and daydreams of his childhood and what they revealed about his talents and abilities.</div>
         </li>
