@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="chess-brilliancy-theater.php">Chess Brilliancy Theater</a> <span class="date">2026-05-07</span></div>
+            <div class="blurb">A velvet-curtain replay room for Bobby Fischer's Game of the Century where you step through the attack, feel the drama rise, and test whether you would have spotted the famous queen sacrifice. Inspired by Jon's <a href="https://jona.ca/2011/01/on-chess.html">On Chess</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="memory-diet-studio.php">Memory Diet Studio</a> <span class="date">2026-05-06</span></div>
             <div class="blurb">A glossy interactive desk tuner where you assemble a five-app setup, watch its RAM footprint and focus scores change live, and see whether your stack becomes a featherweight monk or a glorious RAM goblin. Inspired by Jon's <a href="https://jona.ca/2025/08/switching-to-lighter-aps.html">Switching to lighter apps (and cool things about the Orion browser)</a>.</div>
         </li>
