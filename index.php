@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="soy-sauce-rescue-lab.php">Soy Sauce Rescue Lab</a> <span class="date">2026-05-08</span></div>
+            <div class="blurb">A lacquer-dark kitchen puzzle where you rebalance two saucers of soy sauce and vinegar, experiment with pours and top-ups, and watch Mila's elegant three-move fix animate itself. Inspired by Jon's <a href="https://jona.ca/2013/04/so-this-is-something-that-happened-to.html">Soy Sauce Puzzle</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="chess-brilliancy-theater.php">Chess Brilliancy Theater</a> <span class="date">2026-05-07</span></div>
             <div class="blurb">A velvet-curtain replay room for Bobby Fischer's Game of the Century where you step through the attack, feel the drama rise, and test whether you would have spotted the famous queen sacrifice. Inspired by Jon's <a href="https://jona.ca/2011/01/on-chess.html">On Chess</a>.</div>
         </li>
