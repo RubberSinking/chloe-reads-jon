@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="webapp-blueprint-arcade.php">Web App Blueprint Arcade</a> <span class="date">2026-05-10</span></div>
+            <div class="blurb">A midnight blueprint table where you pick an audience, choose a core loop, bolt on three features, and watch a charming little product pitch assemble itself with live scope meters and an animated architecture map. Inspired by Jon's <a href="https://jona.ca/2004/10/building-web-application-snookca.html">Building a Web Application - snook.ca</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="ergonomic-cockpit.php">Ergonomic Cockpit</a> <span class="date">2026-05-09</span></div>
             <div class="blurb">A moody blueprint-style desk lab where you tune table height, chair height, monitor position, keyboard tilt, and quirky gear choices while a live comfort score judges your setup with suspicious enthusiasm. Inspired by Jon's <a href="https://jona.ca/2007/12/current-ergonomic-setup.html">Current Ergonomic Setup</a>.</div>
         </li>
