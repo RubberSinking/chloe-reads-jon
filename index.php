@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="friendly-rivalry-arcade.php">Friendly Rivalry Arcade</a> <span class="date">2026-05-11</span></div>
+            <div class="blurb">A neon score cabinet where you log match results, track the changing margin, and try to beat your previous score difference instead of getting dramatic about winning. Inspired by Jon's <a href="https://jona.ca/2005/09/lifehack-taking-sting-out-of.html">Lifehack: Taking the sting out of competitive games played with friends</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="webapp-blueprint-arcade.php">Web App Blueprint Arcade</a> <span class="date">2026-05-10</span></div>
             <div class="blurb">A midnight blueprint table where you pick an audience, choose a core loop, bolt on three features, and watch a charming little product pitch assemble itself with live scope meters and an animated architecture map. Inspired by Jon's <a href="https://jona.ca/2004/10/building-web-application-snookca.html">Building a Web Application - snook.ca</a>.</div>
         </li>
