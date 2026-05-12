@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="abalone-push-lab.php">Abalone Push Lab</a> <span class="date">2026-05-12</span></div>
+            <div class="blurb">A polished little Abalone tactics board where you line up one to three marbles, practise sumito pushes, and solve five handcrafted shove puzzles in a lamp-lit walnut study. Inspired by Jon's <a href="https://jona.ca/2004/09/tom-lets-have-game-of-abalone-sometime.html">Tom, let's have a game of Abalone sometime...</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="friendly-rivalry-arcade.php">Friendly Rivalry Arcade</a> <span class="date">2026-05-11</span></div>
             <div class="blurb">A neon score cabinet where you log match results, track the changing margin, and try to beat your previous score difference instead of getting dramatic about winning. Inspired by Jon's <a href="https://jona.ca/2005/09/lifehack-taking-sting-out-of.html">Lifehack: Taking the sting out of competitive games played with friends</a>.</div>
         </li>
