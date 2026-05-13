@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="prompt-conservatory.php">Prompt Conservatory</a> <span class="date">2026-05-13</span></div>
+            <div class="blurb">A glassy little zsh greenhouse where you compose a custom prompt, try history-substring search, and admire your terminal's manners. Inspired by Jon's <a href="https://jona.ca/2013/06/what-i-like-about-zsh.html">What I like about zsh</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="abalone-push-lab.php">Abalone Push Lab</a> <span class="date">2026-05-12</span></div>
             <div class="blurb">A polished little Abalone tactics board where you line up one to three marbles, practise sumito pushes, and solve five handcrafted shove puzzles in a lamp-lit walnut study. Inspired by Jon's <a href="https://jona.ca/2004/09/tom-lets-have-game-of-abalone-sometime.html">Tom, let's have a game of Abalone sometime...</a>.</div>
         </li>
