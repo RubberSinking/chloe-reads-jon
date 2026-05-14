@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="christmas-fanfare-lab.php">Christmas Fanfare Lab</a> <span class="date">2026-05-14</span></div>
+            <div class="blurb">A stained-glass trumpet playground where you rehearse the opening phrase of Joy to the World, flip between concert pitch and B♭ trumpet notation, and try an octave-lift challenge worthy of a Christmas morning postlude. Inspired by Jon's <a href="https://jona.ca/2004/12/trumpet-music-for-christmas-morning-at.html">Trumpet Music for Christmas Morning at Sacred Heart</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="prompt-conservatory.php">Prompt Conservatory</a> <span class="date">2026-05-13</span></div>
             <div class="blurb">A glassy little zsh greenhouse where you compose a custom prompt, try history-substring search, and admire your terminal's manners. Inspired by Jon's <a href="https://jona.ca/2013/06/what-i-like-about-zsh.html">What I like about zsh</a>.</div>
         </li>
