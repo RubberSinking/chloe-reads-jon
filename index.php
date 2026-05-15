@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="bible-year-pilgrimage.php">Bible Year Pilgrimage</a> <span class="date">2026-05-15</span></div>
+            <div class="blurb">An illuminated year-map for Scripture where you slide through all 365 days, hop between major story stations, and collect thoughtful prompts for listening with more wonder. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2022/01/bible-in-year-podcast-with-fr-mike.html">Bible In A Year Podcast with Fr. Mike Schmidt</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="christmas-fanfare-lab.php">Christmas Fanfare Lab</a> <span class="date">2026-05-14</span></div>
             <div class="blurb">A stained-glass trumpet playground where you rehearse the opening phrase of Joy to the World, flip between concert pitch and B♭ trumpet notation, and try an octave-lift challenge worthy of a Christmas morning postlude. Inspired by Jon's <a href="https://jona.ca/2004/12/trumpet-music-for-christmas-morning-at.html">Trumpet Music for Christmas Morning at Sacred Heart</a>.</div>
         </li>
