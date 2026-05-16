@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="address-bar-cinema.php">Address Bar Cinema</a> <span class="date">2026-05-16</span></div>
+            <div class="blurb">A velvety mini keynote studio where you turn one-line ideas into polished slides, flip through a filmstrip, and generate a cheeky pseudo-command for sharing the deck. Inspired by Jon's <a href="https://jona.ca/2008/02/quickslide-create-slides-from-your.html">QuickSlide: Create slides from your browser's address bar</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="bible-year-pilgrimage.php">Bible Year Pilgrimage</a> <span class="date">2026-05-15</span></div>
             <div class="blurb">An illuminated year-map for Scripture where you slide through all 365 days, hop between major story stations, and collect thoughtful prompts for listening with more wonder. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2022/01/bible-in-year-podcast-with-fr-mike.html">Bible In A Year Podcast with Fr. Mike Schmidt</a>.</div>
         </li>
