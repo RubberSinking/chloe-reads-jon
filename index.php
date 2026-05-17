@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="brick-bargain-radar.php">Brick Bargain Radar</a> <span class="date">2026-05-17</span></div>
+            <div class="blurb">A playful brick-value lab where you sweep a price-vs-piece-count chart, flip on Nathan Mode, and settle toy-budget debates with graphs, filters, and a cheeky bargain duel. Inspired by Jon's <a href="https://jona.ca/2020/11/lego-city-piece-count-vs-price.html">Lego City piece count vs price</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="address-bar-cinema.php">Address Bar Cinema</a> <span class="date">2026-05-16</span></div>
             <div class="blurb">A velvety mini keynote studio where you turn one-line ideas into polished slides, flip through a filmstrip, and generate a cheeky pseudo-command for sharing the deck. Inspired by Jon's <a href="https://jona.ca/2008/02/quickslide-create-slides-from-your.html">QuickSlide: Create slides from your browser's address bar</a>.</div>
         </li>
