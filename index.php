@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="comic-batch-director.php">Comic Batch Director</a> <span class="date">2026-05-18</span></div>
+            <div class="blurb">A pulpy planning desk for turning any favourite book into a 30-page comic, complete with story beats, batch prompts, palette shifts, and a Nathan Mode button for extra treasure-map energy. Inspired by Jon's <a href="https://jona.ca/2026/05/making-ai-comic-adaptations-of-famous.html">Making AI comic adaptations of famous books</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="brick-bargain-radar.php">Brick Bargain Radar</a> <span class="date">2026-05-17</span></div>
             <div class="blurb">A playful brick-value lab where you sweep a price-vs-piece-count chart, flip on Nathan Mode, and settle toy-budget debates with graphs, filters, and a cheeky bargain duel. Inspired by Jon's <a href="https://jona.ca/2020/11/lego-city-piece-count-vs-price.html">Lego City piece count vs price</a>.</div>
         </li>
