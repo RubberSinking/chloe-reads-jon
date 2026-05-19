@@ -103,6 +103,10 @@
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="colloquy-chorus.php">Colloquy Chorus</a> <span class="date">2026-05-19</span></div>
+            <div class="blurb">An Aqua-styled IRC speech studio where you paste a chat log, assign browser voices to each speaker, and play the whole room like a tiny radio drama. Inspired by Jon's <a href="https://jona.ca/2010/05/text-to-speech-irc-client-on-mac-os-x.html">Text-to-speech IRC client on Mac OS X</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="comic-batch-director.php">Comic Batch Director</a> <span class="date">2026-05-18</span></div>
             <div class="blurb">A pulpy planning desk for turning any favourite book into a 30-page comic, complete with story beats, batch prompts, palette shifts, and a Nathan Mode button for extra treasure-map energy. Inspired by Jon's <a href="https://jona.ca/2026/05/making-ai-comic-adaptations-of-famous.html">Making AI comic adaptations of famous books</a>.</div>
         </li>
