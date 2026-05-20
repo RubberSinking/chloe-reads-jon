@@ -102,6 +102,11 @@
     </header>
     <hr class="divider">
     <ul id="entries">
+
+        <li>
+            <div class="entry-title"><a href="dock-remix-studio.php">Dock Remix Studio</a> <span class="date">2026-05-20</span></div>
+            <div class="blurb">A playful dock-builder where you pick apps, tune your focus-versus-variety balance, and profile the personality of your setup. Inspired by Jon's <a href="https://jona.ca/2013/05/whats-on-your-dock.html">What's on your dock?</a>.</div>
+        </li>
         <li>
             <div class="entry-title"><a href="colloquy-chorus.php">Colloquy Chorus</a> <span class="date">2026-05-19</span></div>
             <div class="blurb">An Aqua-styled IRC speech studio where you paste a chat log, assign browser voices to each speaker, and play the whole room like a tiny radio drama. Inspired by Jon's <a href="https://jona.ca/2010/05/text-to-speech-irc-client-on-mac-os-x.html">Text-to-speech IRC client on Mac OS X</a>.</div>
