@@ -1,3 +1,5 @@
+Total output lines: 339
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,6 +106,12 @@
     <ul id="entries">
 
         <li>
+            <div class="entry-title"><a href="syllogism-forge.php">Syllogism Forge</a> <span class="date">2026-05-21</span></div>
+            <div class="blurb">A logic-pattern puzzle game where you test whether conclusions truly follow from classic syllogism forms like X∉X∈X. Inspired by Jon's <a href="https://jona.ca/2010/05/aristotle-is-hard-to-understand.html">Aristotle is hard to understand</a>.</div>
+        </li>
+
+
+        <li>
             <div class="entry-title"><a href="dock-remix-studio.php">Dock Remix Studio</a> <span class="date">2026-05-20</span></div>
             <div class="blurb">A playful dock-builder where you pick apps, tune your focus-versus-variety balance, and profile the personality of your setup. Inspired by Jon's <a href="https://jona.ca/2013/05/whats-on-your-dock.html">What's on your dock?</a>.</div>
         </li>
@@ -205,7 +213,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="code-review-sonneteer.php">The Code Review Sonneteer</a> <span class="date">2026-04-21</span></div>
-            <div class="blurb">A quill-and-parchment verse laboratory where you paste code review feedback and watch it transformed into iambic pentameter. Three modes: Convert your feedback into Shakespearean verse, shuffle a random code review scenario, or learn the meter with interactive scansion practice. Syllables glow gold for stressed and green for unstressed. Inspired by Jon's <a href="https://jona.ca/2015/11/code-reviews-in-iambic-pentameter.html">Code Reviews in Iambic Pentameter</a> post, where he wrote 42 actual code reviews in Shakespearean verse — an experiment he described as most curious and rare.</div>
+            <div class="blurb">A quill-and-parchment verse laboratory where you paste code review feedback and watch it transformed into iambi…52 tokens truncated… green for unstressed. Inspired by Jon's <a href="https://jona.ca/2015/11/code-reviews-in-iambic-pentameter.html">Code Reviews in Iambic Pentameter</a> post, where he wrote 42 actual code reviews in Shakespearean verse — an experiment he described as most curious and rare.</div>
         </li>
         <li>
             <div class="entry-title"><a href="spot-the-hallucination.php">Spot the Hallucination</a> <span class="date">2026-04-20</span></div>
@@ -337,3 +345,4 @@
     </footer>
 </body>
 </html>
+
