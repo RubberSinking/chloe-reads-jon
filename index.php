@@ -106,6 +106,13 @@ Total output lines: 339
     <ul id="entries">
 
         <li>
+            <div class="entry-title"><a href="mass-readings-remix-lab.php">Mass Readings Remix Lab</a> <span class="date">2026-05-22</span></div>
+            <div class="blurb">A colorful micro-retreat studio that builds a personalized daily Mass readings listening plan based on your energy, reflection depth, and prayer rhythm. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/02/podcast-of-daily-mass-readings.html">Podcast of daily mass readings</a>.</div>
+        </li>
+
+
+
+        <li>
             <div class="entry-title"><a href="syllogism-forge.php">Syllogism Forge</a> <span class="date">2026-05-21</span></div>
             <div class="blurb">A logic-pattern puzzle game where you test whether conclusions truly follow from classic syllogism forms like X∉X∈X. Inspired by Jon's <a href="https://jona.ca/2010/05/aristotle-is-hard-to-understand.html">Aristotle is hard to understand</a>.</div>
         </li>
