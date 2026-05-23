@@ -106,6 +106,12 @@ Total output lines: 339
     <ul id="entries">
 
         <li>
+            <div class="entry-title"><a href="eucharistic-prayer-atlas.php">Eucharistic Prayer Atlas</a> <span class="date">2026-05-23</span></div>
+            <div class="blurb">A polished interactive chooser that compares Eucharistic Prayers I-IV by tone, length, and best-fit use cases, then quizzes you with real celebration scenarios. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/02/differences-between-eucharistic-prayers.html">Differences between the Eucharistic Prayers</a>.</div>
+        </li>
+
+
+        <li>
             <div class="entry-title"><a href="mass-readings-remix-lab.php">Mass Readings Remix Lab</a> <span class="date">2026-05-22</span></div>
             <div class="blurb">A colorful micro-retreat studio that builds a personalized daily Mass readings listening plan based on your energy, reflection depth, and prayer rhythm. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/02/podcast-of-daily-mass-readings.html">Podcast of daily mass readings</a>.</div>
         </li>
