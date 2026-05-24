@@ -105,6 +105,13 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
 
+
+        <li>
+            <div class="entry-title"><a href="perfectionism-loop-lab.php">Perfectionism Loop Lab</a> <span class="date">2026-05-24</span></div>
+            <div class="blurb">A tactile little dashboard where you feel the "one more tweak" loop, then break it by shipping with courage and peace. Inspired by Jon's <a href="https://jona.ca/2013/11/perfectionism-is-like-addiction.html">Perfectionism is like addiction</a>.</div>
+        </li>
+
+
         <li>
             <div class="entry-title"><a href="eucharistic-prayer-atlas.php">Eucharistic Prayer Atlas</a> <span class="date">2026-05-23</span></div>
             <div class="blurb">A polished interactive chooser that compares Eucharistic Prayers I-IV by tone, length, and best-fit use cases, then quizzes you with real celebration scenarios. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/02/differences-between-eucharistic-prayers.html">Differences between the Eucharistic Prayers</a>.</div>
