@@ -107,6 +107,13 @@ Total output lines: 339
 
 
         <li>
+            <div class="entry-title"><a href="spe-salvi-hope-compass.php">Spe Salvi Hope Compass</a> <span class="date">2026-05-25</span></div>
+            <div class="blurb">A polished interactive retreat where you tune stress, rest, prayer, and gratitude, then generate a practical next step for hope today. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/06/spe-salvi-audio.html">Spe Salvi audio</a>.</div>
+        </li>
+
+
+
+        <li>
             <div class="entry-title"><a href="perfectionism-loop-lab.php">Perfectionism Loop Lab</a> <span class="date">2026-05-24</span></div>
             <div class="blurb">A tactile little dashboard where you feel the "one more tweak" loop, then break it by shipping with courage and peace. Inspired by Jon's <a href="https://jona.ca/2013/11/perfectionism-is-like-addiction.html">Perfectionism is like addiction</a>.</div>
         </li>
