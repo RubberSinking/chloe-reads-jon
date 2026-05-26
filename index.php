@@ -104,6 +104,10 @@ Total output lines: 339
     </header>
     <hr class="divider">
     <ul id="entries">
+        <li>
+            <div class="entry-title"><a href="dewey-shelf-sprint.php">Dewey Shelf Sprint</a> <span class="date">2026-05-26</span></div>
+            <div class="blurb">A fast little classification game where you shelve quirky titles into the right Dewey range and chase a streak. Inspired by Jon's <a href="https://jona.ca/2005/10/lifehack-label-your-books-with-dewey.html">Lifehack: Label your books with Dewey numbers</a>.</div>
+        </li>
 
 
         <li>
