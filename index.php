@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="douai-ai-lectio-studio.php">Douai-AI Lectio Studio</a> <span class="date">2026-05-29</span></div>
+            <div class="blurb">A parchment-styled Scripture studio that modernizes older phrasing, highlights changes, and generates lectio prompts for reflective prayer. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">A Fresh Catholic Bible Translation: Douai-AI</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="reminder-chime-lab.php">Reminder Chime Lab</a> <span class="date">2026-05-28</span></div>
             <div class="blurb">A polished little sound workshop where you sculpt a custom reminder chime, audition rhythm presets, and export a WAV for calendar alerts. Inspired by Jon's <a href="https://jona.ca/2008/03/5beepswav-useful-replacement-sound-for.html">5beeps.wav - Useful replacement sound for calendar apps</a>.</div>
         </li>
