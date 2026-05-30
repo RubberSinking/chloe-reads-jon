@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="christian-books-compass.php">Christian Books Compass</a> <span class="date">2026-05-30</span></div>
+            <div class="blurb">A richly styled reading compass that matches your mood and energy to a thoughtful Christian book recommendation, with reflection prompts and a playful Nathan mode. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2006/05/crazy-awesome-christian-books.html">Crazy awesome Christian books</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="douai-ai-lectio-studio.php">Douai-AI Lectio Studio</a> <span class="date">2026-05-29</span></div>
             <div class="blurb">A parchment-styled Scripture studio that modernizes older phrasing, highlights changes, and generates lectio prompts for reflective prayer. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2026/01/a-fresh-catholic-bible-translation.html">A Fresh Catholic Bible Translation: Douai-AI</a>.</div>
         </li>
