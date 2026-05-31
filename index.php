@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="vulgate-motto-studio.php">Vulgate Motto Studio</a> <span class="date">2026-05-31</span></div>
+            <div class="blurb">A parchment-styled Latin motto forge that builds heraldic Scripture cards and a quick translation challenge for family play. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/07/select-latin-motto-from-vulgate.html">Select a Latin motto from the Vulgate</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="christian-books-compass.php">Christian Books Compass</a> <span class="date">2026-05-30</span></div>
             <div class="blurb">A richly styled reading compass that matches your mood and energy to a thoughtful Christian book recommendation, with reflection prompts and a playful Nathan mode. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2006/05/crazy-awesome-christian-books.html">Crazy awesome Christian books</a>.</div>
         </li>
