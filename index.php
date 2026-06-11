@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="prodigal-light-lab.php">Prodigal Light Lab</a> <span class="date">2026-06-11</span></div>
+            <div class="blurb">A candlelit gallery toy where you study the emotional geometry of Rembrandt's <em>Return of the Prodigal Son</em>, mix the scene's warmth and tension, and try a sneaky elder-brother detective round. Inspired by Jon's <a href="https://jona.ca/2012/04/rembrandts-painting-return-of-prodigal.html">Rembrandt's painting "The return of the prodigal son"</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="vulgate-motto-studio.php">Vulgate Motto Studio</a> <span class="date">2026-05-31</span></div>
             <div class="blurb">A parchment-styled Latin motto forge that builds heraldic Scripture cards and a quick translation challenge for family play. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/07/select-latin-motto-from-vulgate.html">Select a Latin motto from the Vulgate</a>.</div>
         </li>
@@ -397,4 +401,3 @@ Total output lines: 339
     </footer>
 </body>
 </html>
-
