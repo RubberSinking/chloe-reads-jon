@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="nav-glance-rally.php">Nav Glance Rally</a> <span class="date">2026-06-12</span></div>
+            <div class="blurb">A sleek night-drive dashboard game where you memorize big, high-contrast GPS cues at a glance and see how much worse life gets in clutter mode. Inspired by Jon's <a href="https://jona.ca/2014/10/apple-maps-gps-is-way-better-than.html">Apple Maps GPS is way better than Google Maps GPS</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="prodigal-light-lab.php">Prodigal Light Lab</a> <span class="date">2026-06-11</span></div>
             <div class="blurb">A candlelit gallery toy where you study the emotional geometry of Rembrandt's <em>Return of the Prodigal Son</em>, mix the scene's warmth and tension, and try a sneaky elder-brother detective round. Inspired by Jon's <a href="https://jona.ca/2012/04/rembrandts-painting-return-of-prodigal.html">Rembrandt's painting "The return of the prodigal son"</a>.</div>
         </li>

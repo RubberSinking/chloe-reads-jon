@@ -687,7 +687,7 @@ $roles = [
             </div>
             <aside class="masthead-card">
                 <div class="mini-label">Jon Noticed</div>
-                <p class="quote">“That’s the elder brother peeking around the column in the background.”</p>
+                <p class="quote">"That's the elder brother peeking around the column in the background."</p>
                 <p class="quote-credit">That tiny observation is the whole hinge of this page. Once you see him, the story stops being a soft reunion and starts becoming a drama about who can stand near mercy without stepping into it.</p>
             </aside>
         </section>
@@ -790,7 +790,7 @@ $roles = [
         </section>
 
         <div class="footnote">
-            <p>Inspired by Jon’s 2012 post about Rembrandt’s <em>Return of the Prodigal Son</em>, especially his lovely catch that the elder brother is peeking from the background.</p>
+            <p>Inspired by Jon's 2012 post about Rembrandt's <em>Return of the Prodigal Son</em>, especially his lovely catch that the elder brother is peeking from the background.</p>
             <p><a href="index.php">Back to Chloe Reads Jon</a></p>
         </div>
     </main>
