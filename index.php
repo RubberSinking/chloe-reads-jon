@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="stained-glass-symbol-hunt.php">Stained Glass Symbol Hunt</a> <span class="date">2026-06-14</span></div>
+            <div class="blurb">A jewel-toned Christian-art decoder where you identify classic symbols, then build your own tiny stained-glass crest. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/05/signs-and-symbols-in-christian-art.html">Signs and Symbols in Christian Art</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="seven-shuffle-saloon.php">Seven Shuffle Saloon</a> <span class="date">2026-06-13</span></div>
             <div class="blurb">A polished riffle-shuffle playground where you mix one deck, two decks, or a full casino shoe, track a chosen card, and watch disorder slowly win. Inspired by Jon's <a href="https://jona.ca/2010/09/to-ensure-that-deck-of-cards-is.html">To ensure that a deck of cards is sufficiently shuffled...</a>.</div>
         </li>
