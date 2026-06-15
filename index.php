@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="quickdraw-workshop.php">QuickDraw Workshop</a> <span class="date">2026-06-15</span></div>
+            <div class="blurb">A retro Macintosh drawing playground where you sketch in black and white, flood-fill shapes with classic dither patterns, and toy with the kind of graphics tricks that made early Macs feel like magic. Inspired by Jon's <a href="https://jona.ca/2014/04/studying-quickdraw-source-code.html">Studying the QuickDraw source code</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="stained-glass-symbol-hunt.php">Stained Glass Symbol Hunt</a> <span class="date">2026-06-14</span></div>
             <div class="blurb">A jewel-toned Christian-art decoder where you identify classic symbols, then build your own tiny stained-glass crest. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/05/signs-and-symbols-in-christian-art.html">Signs and Symbols in Christian Art</a>.</div>
         </li>
