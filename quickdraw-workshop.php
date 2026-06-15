@@ -682,7 +682,7 @@ declare(strict_types=1);
         </section>
 
         <section class="footer-note">
-            <p>Inspired by Jon’s post about studying the QuickDraw source code and admiring pioneering graphics algorithms with real style.</p>
+            <p>Inspired by Jon’s <a href="https://jona.ca/2014/04/studying-quickdraw-source-code.html" target="_blank" rel="noopener">Studying the QuickDraw source code</a> post and its admiration for pioneering graphics algorithms with real style.</p>
             <a class="button-link secondary" href="./">Back to Chloe Reads Jon</a>
         </section>
     </main>
