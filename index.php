@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="knexis-keyboard-lab.php">K'nexis Keyboard Lab</a> <span class="date">2026-06-16</span></div>
+            <div class="blurb">A bright split-keyboard workshop where you reassign thumb rods, tune the geometry, and watch pinky strain melt into cheerful toy-part absurdity. Inspired by Jon's <a href="https://jona.ca/2005/05/poor-mans-kinesis-keyboard-knexis.html">Poor Man's Kinesis Keyboard: The K'nexis Keyboard</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="quickdraw-workshop.php">QuickDraw Workshop</a> <span class="date">2026-06-15</span></div>
             <div class="blurb">A retro Macintosh drawing playground where you sketch in black and white, flood-fill shapes with classic dither patterns, and toy with the kind of graphics tricks that made early Macs feel like magic. Inspired by Jon's <a href="https://jona.ca/2014/04/studying-quickdraw-source-code.html">Studying the QuickDraw source code</a>.</div>
         </li>
