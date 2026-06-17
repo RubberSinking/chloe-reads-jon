@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="code-canopy-lab.php">Code Canopy Lab</a> <span class="date">2026-06-17</span></div>
+            <div class="blurb">A lantern-lit source-tree playground where little projects bloom into file trunks and function vines, so you can spot entry points and hotspots at a glance. Inspired by Jon's <a href="https://jona.ca/2007/07/language-independent-visualizer-liver.html">Language Independent Visualizer (LIVER)</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="knexis-keyboard-lab.php">K'nexis Keyboard Lab</a> <span class="date">2026-06-16</span></div>
             <div class="blurb">A bright split-keyboard workshop where you reassign thumb rods, tune the geometry, and watch pinky strain melt into cheerful toy-part absurdity. Inspired by Jon's <a href="https://jona.ca/2005/05/poor-mans-kinesis-keyboard-knexis.html">Poor Man's Kinesis Keyboard: The K'nexis Keyboard</a>.</div>
         </li>
