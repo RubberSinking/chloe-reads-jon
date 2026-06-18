@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="raymonds-regulars-club.php">Raymond's Regulars Club</a> <span class="date">2026-06-18</span></div>
+            <div class="blurb">A retro diner clubhouse where you tune booth comfort, fry crispness, pie audacity, and kid wow factor to build a place worthy of favourite-restaurant status. Inspired by Jon's <a href="https://jona.ca/2004/10/raymonds-is-one-of-my-favourite.html">post about Raymond's being one of his favourite restaurants</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="code-canopy-lab.php">Code Canopy Lab</a> <span class="date">2026-06-17</span></div>
             <div class="blurb">A lantern-lit source-tree playground where little projects bloom into file trunks and function vines, so you can spot entry points and hotspots at a glance. Inspired by Jon's <a href="https://jona.ca/2007/07/language-independent-visualizer-liver.html">Language Independent Visualizer (LIVER)</a>.</div>
         </li>
