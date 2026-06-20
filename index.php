@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="four-causes-lab.php">Four Causes Lab</a> <span class="date">2026-06-20</span></div>
+            <div class="blurb">A brass-and-starlight matching game where you sort efficient, material, formal, and final causes across Lego vans, bird nests, and tiny dashboards, then test how impediments can block an ordinary end without erasing it. Inspired by Jon's <a href="https://jona.ca/2014/08/final-causes.html">Final causes</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="code-fossil-theater.php">Code Fossil Theater</a> <span class="date">2026-06-19</span></div>
             <div class="blurb">A code-archeology playground where you scrub through a function's revisions, flip on differences-only mode, and catch the exact commit where a tiny indexing bug sneaks in. Inspired by Jon's <a href="https://jona.ca/2007/10/svn-time-lapse-view.html">SVN Time-Lapse View</a>.</div>
         </li>
