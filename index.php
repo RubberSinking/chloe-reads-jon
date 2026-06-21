@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="mouse-gesture-dojo.php">Mouse Gesture Dojo</a> <span class="date">2026-06-21</span></div>
+            <div class="blurb">A neon command-bunker playground where you draw browser mouse gestures, unlock command cards, and chase a smooth little combo streak. Inspired by Jon's <a href="https://jona.ca/2004/11/mouse-gestures-library-for-java.html">Mouse Gestures Library for Java</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="four-causes-lab.php">Four Causes Lab</a> <span class="date">2026-06-20</span></div>
             <div class="blurb">A brass-and-starlight matching game where you sort efficient, material, formal, and final causes across Lego vans, bird nests, and tiny dashboards, then test how impediments can block an ordinary end without erasing it. Inspired by Jon's <a href="https://jona.ca/2014/08/final-causes.html">Final causes</a>.</div>
         </li>
