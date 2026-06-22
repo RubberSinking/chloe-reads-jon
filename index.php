@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="consolation-constellation.php">Consolation Constellation</a> <span class="date">2026-06-22</span></div>
+            <div class="blurb">A midnight observatory where gratitude and drain become stars, gravity wells, and live pattern clues for the week ahead. Inspired by Jon's <a href="https://jona.ca/2012/10/two-life-changing-questions-to-ask.html">Two life-changing questions to ask yourself each day</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="mouse-gesture-dojo.php">Mouse Gesture Dojo</a> <span class="date">2026-06-21</span></div>
             <div class="blurb">A neon command-bunker playground where you draw browser mouse gestures, unlock command cards, and chase a smooth little combo streak. Inspired by Jon's <a href="https://jona.ca/2004/11/mouse-gestures-library-for-java.html">Mouse Gestures Library for Java</a>.</div>
         </li>
