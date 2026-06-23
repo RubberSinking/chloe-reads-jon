@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="jersey-stripe-room-studio.php">Jersey Stripe Room Studio</a> <span class="date">2026-06-23</span></div>
+            <div class="blurb">A stylish little room-design sandbox where you turn beloved stripe palettes into bold bedroom mockups, then tune the chaos until it becomes charm. Inspired by Jon's <a href="https://jona.ca/2005/11/lifehack-sports-jersey-stripes-as.html">Lifehack: Sports Jersey Stripes as Paint Design for Room</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="consolation-constellation.php">Consolation Constellation</a> <span class="date">2026-06-22</span></div>
             <div class="blurb">A midnight observatory where gratitude and drain become stars, gravity wells, and live pattern clues for the week ahead. Inspired by Jon's <a href="https://jona.ca/2012/10/two-life-changing-questions-to-ask.html">Two life-changing questions to ask yourself each day</a>.</div>
         </li>
