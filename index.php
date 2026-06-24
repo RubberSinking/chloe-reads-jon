@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="shroud-negative-lab.php">Shroud Negative Lab</a> <span class="date">2026-06-24</span></div>
+            <div class="blurb">A darkroom-style relic viewer where you flip a faint linen portrait into negative, high-contrast, and edge-trace modes, then play a little feature-hunt detective round. Inspired by Jon's <a href="https://jona.ca/2012/03/jesus-had-beard.html">Jesus had a beard</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="jersey-stripe-room-studio.php">Jersey Stripe Room Studio</a> <span class="date">2026-06-23</span></div>
             <div class="blurb">A stylish little room-design sandbox where you turn beloved stripe palettes into bold bedroom mockups, then tune the chaos until it becomes charm. Inspired by Jon's <a href="https://jona.ca/2005/11/lifehack-sports-jersey-stripes-as.html">Lifehack: Sports Jersey Stripes as Paint Design for Room</a>.</div>
         </li>
