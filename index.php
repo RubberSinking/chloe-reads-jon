@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="agent-briefing-arcade.php">Agent Briefing Arcade</a> <span class="date">2026-06-26</span></div>
+            <div class="blurb">A polished simulation where you brief an AI agent with context cards, tune the control dial, and see whether trust plus signal beats micromanagement plus fog. Inspired by Jon's <a href="https://jona.ca/2026/06/my-current-ai-coding-philosophy.html">My current AI coding philosophy</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="narnia-lantern-trail.php">Narnia Lantern Trail</a> <span class="date">2026-06-25</span></div>
             <div class="blurb">A lantern-lit winter journey where you choose your way across Narnia, grow courage, truth, mercy, and wonder, and earn a storybook travel card at the end. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2006/01/movie-chronicles-of-narnia.html">Movie: The Chronicles of Narnia</a>.</div>
         </li>
