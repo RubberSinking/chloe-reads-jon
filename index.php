@@ -105,6 +105,10 @@ Total output lines: 339
     <hr class="divider">
     <ul id="entries">
         <li>
+            <div class="entry-title"><a href="pocket-knowledge-loadout.php">Pocket Knowledge Loadout</a> <span class="date">2026-06-27</span></div>
+            <div class="blurb">A retro handheld mission planner where you pack an offline pocket brain with encyclopedias, saints, maps, and tiny delights without blowing your 1 GB budget. Inspired by Jon's <a href="https://jona.ca/2009/12/installing-wikipedia-on-your-mobile.html">Installing Wikipedia on your mobile device</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="agent-briefing-arcade.php">Agent Briefing Arcade</a> <span class="date">2026-06-26</span></div>
             <div class="blurb">A polished simulation where you brief an AI agent with context cards, tune the control dial, and see whether trust plus signal beats micromanagement plus fog. Inspired by Jon's <a href="https://jona.ca/2026/06/my-current-ai-coding-philosophy.html">My current AI coding philosophy</a>.</div>
         </li>
