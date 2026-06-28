@@ -102,8 +102,12 @@ Total output lines: 339
             <a href="https://cooltoolsforcatholics.blogspot.com" target="_blank">Cool Tools for Catholics</a>
         </div>
     </header>
-    <hr class="divider">
-    <ul id="entries">
+     <hr class="divider">
+     <ul id="entries">
+        <li>
+            <div class="entry-title"><a href="sleep-orbit-arcade.php">Sleep Orbit Arcade</a> <span class="date">2026-06-28</span></div>
+            <div class="blurb">A midnight flight-school playground where you tune bedtime, wake time, and wind-down rituals, then watch tomorrow's learning, mood, and mistake shield rise or wobble. Inspired by Jon's <a href="https://jona.ca/2004/11/good-sleep-good-learning-good-life.html">Good sleep, good learning, good life</a>.</div>
+        </li>
         <li>
             <div class="entry-title"><a href="pocket-knowledge-loadout.php">Pocket Knowledge Loadout</a> <span class="date">2026-06-27</span></div>
             <div class="blurb">A retro handheld mission planner where you pack an offline pocket brain with encyclopedias, saints, maps, and tiny delights without blowing your 1 GB budget. Inspired by Jon's <a href="https://jona.ca/2009/12/installing-wikipedia-on-your-mobile.html">Installing Wikipedia on your mobile device</a>.</div>
