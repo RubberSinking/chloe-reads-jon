@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="jubilate-deo-chorus.php">Jubilate Deo Chorus</a> <span class="date">2026-06-29</span></div>
+            <div class="blurb">A stained-glass chant playground where you echo melodic contours by ear, then generate a tiny procession card for real-life moments. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/10/jubilate-deo-pdf-of-minimum-repertoire.html">Jubilate Deo: PDF of Minimum Repertoire of Gregorian Chant</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="sleep-orbit-arcade.php">Sleep Orbit Arcade</a> <span class="date">2026-06-28</span></div>
             <div class="blurb">A midnight flight-school playground where you tune bedtime, wake time, and wind-down rituals, then watch tomorrow's learning, mood, and mistake shield rise or wobble. Inspired by Jon's <a href="https://jona.ca/2004/11/good-sleep-good-learning-good-life.html">Good sleep, good learning, good life</a>.</div>
         </li>
