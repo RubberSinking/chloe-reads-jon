@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="sunday-refill-studio.php">Sunday Refill Studio</a> <span class="date">2026-06-30</span></div>
+            <div class="blurb">A warm Sunday ritual builder where you tune your physical, emotional, intellectual, and spiritual weather, then shuffle a balanced little refill plan. Inspired by Jon's <a href="https://jona.ca/2009/10/recharging-on-sunday-physical-emotional.html">Recharging on Sunday: Physical, emotional, intellectual, spiritual</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="jubilate-deo-chorus.php">Jubilate Deo Chorus</a> <span class="date">2026-06-29</span></div>
             <div class="blurb">A stained-glass chant playground where you echo melodic contours by ear, then generate a tiny procession card for real-life moments. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/10/jubilate-deo-pdf-of-minimum-repertoire.html">Jubilate Deo: PDF of Minimum Repertoire of Gregorian Chant</a>.</div>
         </li>
