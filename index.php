@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="shortcut-speedway.php">Shortcut Speedway</a> <span class="date">2026-07-01</span></div>
+            <div class="blurb">A glossy command-key arcade where you build Mac shortcut combos, chase streaks, and send a tiny desktop racer down the lane. Inspired by Jon's <a href="https://jona.ca/2004/07/os-x-keyboard-shortcuts.html">OS X Keyboard shortcuts</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="sunday-refill-studio.php">Sunday Refill Studio</a> <span class="date">2026-06-30</span></div>
             <div class="blurb">A warm Sunday ritual builder where you tune your physical, emotional, intellectual, and spiritual weather, then shuffle a balanced little refill plan. Inspired by Jon's <a href="https://jona.ca/2009/10/recharging-on-sunday-physical-emotional.html">Recharging on Sunday: Physical, emotional, intellectual, spiritual</a>.</div>
         </li>
