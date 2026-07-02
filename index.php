@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="white-horse-quest.php">White Horse Quest</a> <span class="date">2026-07-02</span></div>
+            <div class="blurb">A manuscript-styled listening quest where you chart an eight-canto route through Chesterton's poem, forge a heraldic banner, and build a tiny pre-battle ritual. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/07/audio-for-chestertons-ballad-of-white.html">Audio for Chesterton's Ballad of the White Horse</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="shortcut-speedway.php">Shortcut Speedway</a> <span class="date">2026-07-01</span></div>
             <div class="blurb">A glossy command-key arcade where you build Mac shortcut combos, chase streaks, and send a tiny desktop racer down the lane. Inspired by Jon's <a href="https://jona.ca/2004/07/os-x-keyboard-shortcuts.html">OS X Keyboard shortcuts</a>.</div>
         </li>
