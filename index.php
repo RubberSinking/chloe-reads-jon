@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="commute-oddity-rally.php">Commute Oddity Rally</a> <span class="date">2026-07-14</span></div>
+            <div class="blurb">A playful roadside postcard builder where you tune traffic, following distance, and wonder while a tiny truck scene rolls by. Inspired by Jon's <a href="https://jona.ca/2004/09/following-truckful-of-goats.html">(Untitled)</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="white-horse-quest.php">White Horse Quest</a> <span class="date">2026-07-02</span></div>
             <div class="blurb">A manuscript-styled listening quest where you chart an eight-canto route through Chesterton's poem, forge a heraldic banner, and build a tiny pre-battle ritual. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/07/audio-for-chestertons-ballad-of-white.html">Audio for Chesterton's Ballad of the White Horse</a>.</div>
         </li>
