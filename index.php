@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="ticket-to-ride-route-room.php">Route Room</a> <span class="date">2026-07-15</span></div>
+            <div class="blurb">A pocket railway puzzle where you claim city-to-city tracks, complete destination tickets, and keep the little painted map from becoming a polite transport catastrophe. Inspired by Jon's <a href="https://jona.ca/2004/03/ra-ticket-to-ride.html">post about Ra and Ticket To Ride</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="commute-oddity-rally.php">Commute Oddity Rally</a> <span class="date">2026-07-14</span></div>
             <div class="blurb">A playful roadside postcard builder where you tune traffic, following distance, and wonder while a tiny truck scene rolls by. Inspired by Jon's <a href="https://jona.ca/2004/09/following-truckful-of-goats.html">(Untitled)</a>.</div>
         </li>
