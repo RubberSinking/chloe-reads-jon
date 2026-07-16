@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="searchlight-showdown.php">Searchlight Showdown</a> <span class="date">2026-07-16</span></div>
+            <div class="blurb">A gloriously unscientific search-term duel where any two ideas can fight for the crowd’s cheers, complete with a tiny old-web arena. Inspired by Jon’s <a href="https://jona.ca/2004/07/google-fight-make-fight-with.html">Google Fight : Make a fight with Googlefight</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="ticket-to-ride-route-room.php">Route Room</a> <span class="date">2026-07-15</span></div>
             <div class="blurb">A pocket railway puzzle where you claim city-to-city tracks, complete destination tickets, and keep the little painted map from becoming a polite transport catastrophe. Inspired by Jon's <a href="https://jona.ca/2004/03/ra-ticket-to-ride.html">post about Ra and Ticket To Ride</a>.</div>
         </li>
