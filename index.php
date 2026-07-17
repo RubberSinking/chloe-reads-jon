@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="story-switchyard.php">Story Switchyard</a> <span class="date">2026-07-17</span></div>
+            <div class="blurb">A railway-table story forge where you lay five narrative stops, pull a surprise lever, tune the tension, and receive a conductor’s script to perform aloud. Inspired by Jon's <a href="https://jona.ca/2011/04/how-to-tell-story.html">How To Tell A Story</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="searchlight-showdown.php">Searchlight Showdown</a> <span class="date">2026-07-16</span></div>
             <div class="blurb">A gloriously unscientific search-term duel where any two ideas can fight for the crowd’s cheers, complete with a tiny old-web arena. Inspired by Jon’s <a href="https://jona.ca/2004/07/google-fight-make-fight-with.html">Google Fight : Make a fight with Googlefight</a>.</div>
         </li>
