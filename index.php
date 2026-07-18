@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="button-bar-time-machine.php">Button Bar Time Machine</a> <span class="date">2026-07-18</span></div>
+            <div class="blurb">A chunky 2004 browser-chrome workshop where you install gloriously visible search buttons, take tiny web missions, and measure when helpful becomes button jungle. Inspired by Jon's <a href="https://jona.ca/2004/03/interesting-google-browser-buttons.html">note about Google Browser Buttons</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="story-switchyard.php">Story Switchyard</a> <span class="date">2026-07-17</span></div>
             <div class="blurb">A railway-table story forge where you lay five narrative stops, pull a surprise lever, tune the tension, and receive a conductor’s script to perform aloud. Inspired by Jon's <a href="https://jona.ca/2011/04/how-to-tell-story.html">How To Tell A Story</a>.</div>
         </li>
