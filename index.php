@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="shower-thought-salvage.php">Shower Thought Salvage</a> <span class="date">2026-07-19</span></div>
+            <div class="blurb">A steamy waterproof-notebook toy for catching a slippery brainwave, reducing it to memorable anchors, and giving it one dry-land next step. Inspired by Jon's <a href="https://jona.ca/2007/07/rite-in-rain-notebooks-for-shower-idea.html">Rite-In-The-Rain notebooks for shower idea capture</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="button-bar-time-machine.php">Button Bar Time Machine</a> <span class="date">2026-07-18</span></div>
             <div class="blurb">A chunky 2004 browser-chrome workshop where you install gloriously visible search buttons, take tiny web missions, and measure when helpful becomes button jungle. Inspired by Jon's <a href="https://jona.ca/2004/03/interesting-google-browser-buttons.html">note about Google Browser Buttons</a>.</div>
         </li>
