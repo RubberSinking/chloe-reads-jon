@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="context-switch-foundry.php">Context Switch Foundry</a> <span class="date">2026-07-20</span></div>
+            <div class="blurb">A typographic industrial test bench where you race three app-switching philosophies and measure the speed, misfires, and attention tax of each. Inspired by Jon's <a href="https://jona.ca/2020/02/contexts-vs-witch.html">Contexts vs Witch</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="shower-thought-salvage.php">Shower Thought Salvage</a> <span class="date">2026-07-19</span></div>
             <div class="blurb">A steamy waterproof-notebook toy for catching a slippery brainwave, reducing it to memorable anchors, and giving it one dry-land next step. Inspired by Jon's <a href="https://jona.ca/2007/07/rite-in-rain-notebooks-for-shower-idea.html">Rite-In-The-Rain notebooks for shower idea capture</a>.</div>
         </li>

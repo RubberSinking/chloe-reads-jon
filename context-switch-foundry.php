@@ -1,0 +1,56 @@
+<?php
+$sourceUrl = 'https://jona.ca/2020/02/contexts-vs-witch.html';
+?>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Context Switch Foundry</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+:root{--ink:#171714;--paper:#e8dfc8;--orange:#f15a24;--acid:#d4ef3b;--blue:#4cc9f0;--muted:#898575}
+*{box-sizing:border-box}html{background:#111}body{margin:0;color:var(--ink);font-family:'IBM Plex Mono',monospace;background:var(--paper);min-height:100vh;background-image:linear-gradient(rgba(36,33,26,.055) 1px,transparent 1px),linear-gradient(90deg,rgba(36,33,26,.055) 1px,transparent 1px);background-size:22px 22px}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.2;background:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.22'/%3E%3C/svg%3E")}
+.wrap{width:min(1080px,calc(100% - 28px));margin:auto;padding:24px 0 54px}.top{display:flex;justify-content:space-between;align-items:center;border-bottom:3px solid;padding-bottom:10px;font-size:11px;text-transform:uppercase;letter-spacing:.12em}.top a{color:inherit}.stamp{background:var(--ink);color:var(--paper);padding:7px 10px;transform:rotate(1deg)}
+header{display:grid;grid-template-columns:1.4fr .6fr;gap:22px;padding:42px 0 30px;align-items:end}h1{font:clamp(66px,12vw,150px)/.76 'Bebas Neue',sans-serif;letter-spacing:-.02em;margin:0;text-transform:uppercase}.outline{-webkit-text-stroke:2px var(--ink);color:transparent}.dek{font-size:14px;line-height:1.65;border-left:7px solid var(--orange);padding:3px 0 3px 17px;margin:0 0 4px}.deck{display:grid;grid-template-columns:1fr 330px;border:3px solid;background:#191917;box-shadow:12px 12px 0 var(--orange)}
+.stage{min-height:500px;padding:24px;display:flex;flex-direction:column;position:relative;overflow:hidden}.stage:after{content:'FOCUS';position:absolute;right:-30px;bottom:-32px;color:#252521;font:140px/1 'Bebas Neue';transform:rotate(-7deg);pointer-events:none}.readout{display:flex;justify-content:space-between;color:var(--paper);font-size:12px;position:relative;z-index:1}.meter{height:9px;background:#333;margin:9px 0 24px;position:relative;z-index:1}.meter i{display:block;height:100%;width:100%;background:var(--acid);transition:width .3s,background .3s}.mission{margin:auto;position:relative;z-index:2;width:min(590px,100%)}.mission small{color:var(--orange);letter-spacing:.18em}.mission h2{color:white;font:clamp(32px,5vw,56px)/1 'Bebas Neue';margin:9px 0 18px;letter-spacing:.02em}.windows{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.win{border:2px solid #56564e;background:#262623;color:#bbb;padding:16px 10px;min-height:105px;cursor:pointer;font:12px 'IBM Plex Mono';transition:.12s;text-align:left}.win b{display:block;color:white;font-size:22px;margin-bottom:9px}.win:hover,.win.active{border-color:var(--acid);transform:translateY(-3px);color:var(--acid)}.win.wrong{animation:shake .25s;background:#471d16}.controls{background:var(--paper);padding:24px;border-left:3px solid}.controls h3{font:34px/1 'Bebas Neue';margin:0 0 17px}.mode{display:grid;gap:9px}.mode button,.start{appearance:none;border:2px solid var(--ink);background:transparent;padding:12px;text-align:left;font:600 12px 'IBM Plex Mono';cursor:pointer}.mode button.on{background:var(--blue);box-shadow:4px 4px 0 var(--ink);transform:translate(-2px,-2px)}.mode span{display:block;font-weight:400;font-size:10px;margin-top:4px}.start{width:100%;margin-top:18px;background:var(--acid);text-align:center;font-size:14px;box-shadow:5px 5px 0 var(--ink)}.start:active{transform:translate(3px,3px);box-shadow:2px 2px}.stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:24px}.stat{border-top:2px solid;padding-top:7px}.stat strong{display:block;font:30px 'Bebas Neue'}.log{font-size:10px;line-height:1.6;margin-top:19px;color:#555}.key{border:1px solid;border-bottom-width:3px;padding:1px 5px;background:#f7efd9}
+.result{position:absolute;inset:0;background:var(--acid);z-index:5;padding:34px;display:none;place-items:center;text-align:center}.result.show{display:grid}.result h2{font:clamp(54px,9vw,100px)/.82 'Bebas Neue';color:var(--ink);margin:8px}.result p{max-width:520px;line-height:1.6}.result button{border:2px solid;background:var(--ink);color:white;padding:12px 20px;font:inherit;cursor:pointer}
+.foot{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:38px;font-size:12px;line-height:1.7}.foot h3{font:30px 'Bebas Neue';margin:0}.foot a{color:inherit;text-decoration-thickness:2px;text-underline-offset:3px}@keyframes shake{25%{transform:translateX(-5px)}75%{transform:translateX(5px)}}
+@media(max-width:760px){header{grid-template-columns:1fr}h1{font-size:76px}.deck{grid-template-columns:1fr;box-shadow:7px 7px 0 var(--orange)}.controls{border-left:0;border-top:3px solid}.stage{min-height:460px;padding:18px}.windows{grid-template-columns:1fr}.win{min-height:auto}.win b{display:inline;margin-right:8px}.foot{grid-template-columns:1fr}.top .hide{display:none}}
+</style>
+</head>
+<body>
+<main class="wrap">
+ <nav class="top"><span>Chloe's Interface Testing Bureau</span><span class="stamp">Experiment № 020</span><a href="./">← All experiments</a></nav>
+ <header><h1>Context<br><span class="outline">Switch</span><br>Foundry</h1><p class="dek">Your attention has mass. Every app switch throws it across the desktop. Test three switcher philosophies and discover which one catches your brain instead of merely catching your windows.</p></header>
+ <section class="deck">
+  <div class="stage">
+   <div class="readout"><span id="round">ROUND 0 / 12</span><span>ATTENTION INTEGRITY <b id="focusN">100%</b></span></div><div class="meter"><i id="focusBar"></i></div>
+   <div class="mission"><small>INCOMING INTENTION</small><h2 id="prompt">Choose a switcher, then begin the trial.</h2><div class="windows" id="windows"></div></div>
+   <div class="result" id="result"><div><small>FIELD REPORT</small><h2 id="verdict">CALIBRATED</h2><p id="report"></p><button onclick="resetGame()">RUN ANOTHER TRIAL</button></div></div>
+  </div>
+  <aside class="controls"><h3>Switching mechanism</h3><div class="mode">
+   <button class="on" data-mode="visual">01 · Visual Deck<span>Big previews, click the right window.</span></button>
+   <button data-mode="keyboard">02 · Keyboard Index<span>Press <span class="key">1</span> <span class="key">2</span> or <span class="key">3</span>. Fast, but recall-heavy.</span></button>
+   <button data-mode="search">03 · Intent Search<span>Type any word from the requested window.</span></button>
+  </div><button class="start" id="start">START 12-SWITCH TRIAL →</button>
+  <div class="stats"><div class="stat"><span>Median switch</span><strong id="speed">—</strong></div><div class="stat"><span>Misfires</span><strong id="errors">0</strong></div></div><div class="log" id="log">The foundry measures selection time, errors, and the attention tax of each mechanism.</div>
+  </aside>
+ </section>
+ <section class="foot"><div><h3>The point</h3><p>The fastest switcher is not always the one with the shortest animation. Reliability and recognition matter too. One tiny hesitation, repeated all day, becomes weather.</p></div><div><h3>Source material</h3><p>Inspired by Jon's <a href="<?= htmlspecialchars($sourceUrl) ?>" target="_blank" rel="noopener">Contexts vs Witch</a>, his wonderfully specific 2020 comparison of two Mac task switchers.</p></div></section>
+</main>
+<script>
+const apps=[['MAIL','Reply to Nathan’s teacher'],['CODE','Fix the checkout test'],['NOTES','Find the grocery list'],['BROWSER','Read the API documentation'],['CALENDAR','Move the dentist appointment'],['TERMINAL','Restart the local server'],['PHOTOS','Find the bridge picture'],['MUSIC','Pause the piano nocturne'],['TODO','Capture the brilliant idea']];
+let mode='visual',round=0,errors=0,focus=100,times=[],target=0,started=0,typing='';
+const $=s=>document.querySelector(s), windows=$('#windows');
+document.querySelectorAll('[data-mode]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-mode]').forEach(x=>x.classList.remove('on'));b.classList.add('on');mode=b.dataset.mode;resetGame(false)});
+$('#start').onclick=()=>{resetGame(false);next()};
+function resetGame(clear=true){round=0;errors=0;focus=100;times=[];typing='';$('#result').classList.remove('show');$('#round').textContent='ROUND 0 / 12';$('#prompt').textContent='Choose a switcher, then begin the trial.';windows.innerHTML='';update();if(clear)$('#log').textContent='New mechanism selected. The apparatus is ready.'}
+function next(){if(round>=12)return finish();round++;typing='';let choices=[...apps].sort(()=>Math.random()-.5).slice(0,3);target=Math.floor(Math.random()*3);$('#round').textContent=`ROUND ${round} / 12`;$('#prompt').textContent=choices[target][1];windows.innerHTML='';choices.forEach((a,i)=>{let b=document.createElement('button');b.className='win';b.dataset.i=i;b.dataset.words=(a[0]+' '+a[1]).toLowerCase();b.innerHTML=`<b>${mode==='keyboard'?(i+1):a[0]}</b>${mode==='search'?'type to locate':a[1]}`;b.onclick=()=>choose(i,b);windows.appendChild(b)});started=performance.now();$('#log').textContent=mode==='keyboard'?'Use number keys only.':mode==='search'?'Start typing a word from your intention.':'Recognize, point, click.'}
+function choose(i,b){if(!started)return;let elapsed=performance.now()-started;if(i===target){times.push(elapsed);focus=Math.max(0,focus-Math.max(1,Math.round(elapsed/1100)));b.classList.add('active');started=0;update();setTimeout(next,260)}else{errors++;focus=Math.max(0,focus-8);b.classList.add('wrong');setTimeout(()=>b.classList.remove('wrong'),280);update()}}
+document.addEventListener('keydown',e=>{if(!started)return;if(mode==='keyboard'&&['1','2','3'].includes(e.key))choose(+e.key-1,windows.children[+e.key-1]);if(mode==='search'&&e.key.length===1){typing+=e.key.toLowerCase();let hits=[...windows.children].filter(x=>x.dataset.words.includes(typing));$('#log').textContent='SEARCH: '+typing.toUpperCase();if(hits.length===1)choose(+hits[0].dataset.i,hits[0])}if(mode==='search'&&e.key==='Backspace')typing=typing.slice(0,-1)});
+function update(){let med=times.length?[...times].sort((a,b)=>a-b)[Math.floor(times.length/2)]:0;$('#speed').textContent=med?(med/1000).toFixed(2)+'s':'—';$('#errors').textContent=errors;$('#focusN').textContent=focus+'%';$('#focusBar').style.width=focus+'%';$('#focusBar').style.background=focus<55?'var(--orange)':'var(--acid)'}
+function finish(){let med=[...times].sort((a,b)=>a-b)[Math.floor(times.length/2)]||0;let title=errors===0&&med<1200?'FLOW STATE':errors<3?'HUMAN-GRADE':'SWITCHING STORM';$('#verdict').textContent=title;$('#report').textContent=`${mode.toUpperCase()} delivered a ${(med/1000).toFixed(2)} second median with ${errors} misfire${errors===1?'':'s'}. You retained ${focus}% attention integrity. Try another mechanism: the useful surprise is often which interface makes you feel calm, not merely quick.`;$('#result').classList.add('show')}
+</script>
+</body></html>
