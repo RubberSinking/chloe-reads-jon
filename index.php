@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="monthly-worthometer.php">The Monthly Worthometer</a> <span class="date">2026-07-21</span></div>
+            <div class="blurb">A refined consumer-testing console that weighs honest frequency, lifetime cost per use, upgrade quality, and how much research a purchase deserves. Inspired by Jon's <a href="https://jona.ca/2015/05/jons-1-month-rule.html">Jon's 1-Month Rule</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="context-switch-foundry.php">Context Switch Foundry</a> <span class="date">2026-07-20</span></div>
             <div class="blurb">A typographic industrial test bench where you race three app-switching philosophies and measure the speed, misfires, and attention tax of each. Inspired by Jon's <a href="https://jona.ca/2020/02/contexts-vs-witch.html">Contexts vs Witch</a>.</div>
         </li>
