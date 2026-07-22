@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="threshold-test-lab.php">Threshold Test Lab</a> <span class="date">2026-07-22</span></div>
+            <div class="blurb">A cheerful domestic-engineering bureau where you configure a baby gate, run five household stress tests, and discover whether safety and everyday sanity can share a doorway. Inspired by Jon's <a href="https://jona.ca/2017/01/pressure-mounted-baby-gate-comparison.html">Pressure-mounted baby gate comparison</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="monthly-worthometer.php">The Monthly Worthometer</a> <span class="date">2026-07-21</span></div>
             <div class="blurb">A refined consumer-testing console that weighs honest frequency, lifetime cost per use, upgrade quality, and how much research a purchase deserves. Inspired by Jon's <a href="https://jona.ca/2015/05/jons-1-month-rule.html">Jon's 1-Month Rule</a>.</div>
         </li>
