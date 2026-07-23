@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="recall-room.php">The Recall Room</a> <span class="date">2026-07-23</span></div>
+            <div class="blurb">A 2006 desktop-search detective game where you hunt through a tiny digital attic of mail, notes, files, photos, and web clippings to solve three half-remembered mysteries. Inspired by Jon's <a href="https://jona.ca/2006/11/trying-out-x1-desktop-search-windows.html">Trying out X1 desktop search (Windows)</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="threshold-test-lab.php">Threshold Test Lab</a> <span class="date">2026-07-22</span></div>
             <div class="blurb">A cheerful domestic-engineering bureau where you configure a baby gate, run five household stress tests, and discover whether safety and everyday sanity can share a doorway. Inspired by Jon's <a href="https://jona.ca/2017/01/pressure-mounted-baby-gate-comparison.html">Pressure-mounted baby gate comparison</a>.</div>
         </li>
