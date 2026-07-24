@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="missing-talk-studio.php">The Missing Talk Studio</a> <span class="date">2026-07-24</span></div>
+            <div class="blurb">A tactile little stage manager that turns one idea into six timed speaker cues, saves the details only you can supply, and runs the result as a distraction-free rehearsal. Inspired by Jon's <a href="https://jona.ca/2017/03/slides-from-prayer-and-scripture-talk.html">Slides from "Prayer and Scripture" talk</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="recall-room.php">The Recall Room</a> <span class="date">2026-07-23</span></div>
             <div class="blurb">A 2006 desktop-search detective game where you hunt through a tiny digital attic of mail, notes, files, photos, and web clippings to solve three half-remembered mysteries. Inspired by Jon's <a href="https://jona.ca/2006/11/trying-out-x1-desktop-search-windows.html">Trying out X1 desktop search (Windows)</a>.</div>
         </li>
