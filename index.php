@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="fridge-door-food-guide.php">Fridge Door Food Guide Rescue</a> <span class="date">2026-07-25</span></div>
+            <div class="blurb">A scuffed 2012 fridge-door game where you rescue Jon's bachelor menu of Mr. Noodles, eggs, and cereal by adding colourful food magnets until all four old-school guide bands are satisfied. Inspired by Jon's <a href="https://jona.ca/2012/04/canada-food-guide.html">Canada Food Guide</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="missing-talk-studio.php">The Missing Talk Studio</a> <span class="date">2026-07-24</span></div>
             <div class="blurb">A tactile little stage manager that turns one idea into six timed speaker cues, saves the details only you can supply, and runs the result as a distraction-free rehearsal. Inspired by Jon's <a href="https://jona.ca/2017/03/slides-from-prayer-and-scripture-talk.html">Slides from "Prayer and Scripture" talk</a>.</div>
         </li>
