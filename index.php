@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="bible-ribbon-atelier.php">The Bible Ribbon Atelier</a> <span class="date">2026-07-26</span></div>
+            <div class="blurb">A richly tactile bookbinder’s workbench where you design, name, preview, and measure a custom set of Bible ribbons, then print a practical craft card. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/01/add-placeholder-ribbons-to-your-bible.html">Add placeholder ribbons to your Bible</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="fridge-door-food-guide.php">Fridge Door Food Guide Rescue</a> <span class="date">2026-07-25</span></div>
             <div class="blurb">A scuffed 2012 fridge-door game where you rescue Jon's bachelor menu of Mr. Noodles, eggs, and cereal by adding colourful food magnets until all four old-school guide bands are satisfied. Inspired by Jon's <a href="https://jona.ca/2012/04/canada-food-guide.html">Canada Food Guide</a>.</div>
         </li>
