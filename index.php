@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="waybar-habitat.php">Waybar Habitat</a> <span class="date">2026-07-27</span></div>
+            <div class="blurb">A living Linux-bar terrarium where you arrange useful modules, rename workspaces, tune the visual climate, grow a real config, and release one educational punctuation gremlin. Inspired by Jon's <a href="https://jona.ca/2025/12/trying-out-omarchy-linux-with-claude.html">Trying out Omarchy Linux with Claude Code</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="bible-ribbon-atelier.php">The Bible Ribbon Atelier</a> <span class="date">2026-07-26</span></div>
             <div class="blurb">A richly tactile bookbinder’s workbench where you design, name, preview, and measure a custom set of Bible ribbons, then print a practical craft card. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/01/add-placeholder-ribbons-to-your-bible.html">Add placeholder ribbons to your Bible</a>.</div>
         </li>
