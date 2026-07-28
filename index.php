@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="thermostat-treaty.php">The 22° Thermostat Treaty</a> <span class="date">2026-07-28</span></div>
+            <div class="blurb">A mid-century household climate bureau where you tune temperature, humidity, clothing, and activity, register family grievances, then defend 22°C against tiny domestic weather events. Inspired by Jon's <a href="https://jona.ca/2004/07/22-aint-bad-temperature.html">“22 ain’t a bad temperature”</a> post.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="waybar-habitat.php">Waybar Habitat</a> <span class="date">2026-07-27</span></div>
             <div class="blurb">A living Linux-bar terrarium where you arrange useful modules, rename workspaces, tune the visual climate, grow a real config, and release one educational punctuation gremlin. Inspired by Jon's <a href="https://jona.ca/2025/12/trying-out-omarchy-linux-with-claude.html">Trying out Omarchy Linux with Claude Code</a>.</div>
         </li>
