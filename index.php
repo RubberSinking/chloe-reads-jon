@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="iosevka-flight-check.php">Iosevka Flight Check</a> <span class="date">2026-07-29</span></div>
+            <div class="blurb">A high-contrast terminal typography bureau where you tune Iosevka under real code, interrogate ambiguous glyphs, compare ligatures, and race through a five-round eyesight gauntlet. Inspired by Jon's <a href="https://jona.ca/2025/11/i-quite-like-iosevka-font-for-terminal.html">I quite like the Iosevka font for terminal</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="thermostat-treaty.php">The 22° Thermostat Treaty</a> <span class="date">2026-07-28</span></div>
             <div class="blurb">A mid-century household climate bureau where you tune temperature, humidity, clothing, and activity, register family grievances, then defend 22°C against tiny domestic weather events. Inspired by Jon's <a href="https://jona.ca/2004/07/22-aint-bad-temperature.html">“22 ain’t a bad temperature”</a> post.</div>
         </li>
