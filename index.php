@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="catholiccast-signal-studio.php">CatholicCast Signal Studio</a> <span class="date">2026-07-30</span></div>
+            <div class="blurb">A tactile 2005 podcast desk where you load segment cartridges, tune the analogue warmth, broadcast a tiny spoken episode, and watch its RSS packet race toward an MP3 player. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/02/catholiccast-first-catholic-podcast.html">CatholicCast: The First Catholic Podcast</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="iosevka-flight-check.php">Iosevka Flight Check</a> <span class="date">2026-07-29</span></div>
             <div class="blurb">A high-contrast terminal typography bureau where you tune Iosevka under real code, interrogate ambiguous glyphs, compare ligatures, and race through a five-round eyesight gauntlet. Inspired by Jon's <a href="https://jona.ca/2025/11/i-quite-like-iosevka-font-for-terminal.html">I quite like the Iosevka font for terminal</a>.</div>
         </li>
