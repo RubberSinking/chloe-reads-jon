@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="hice-and-blice-bureau.php">The Hice &amp; Blice Bureau</a> <span class="date">2026-07-31</span></div>
+            <div class="blurb">A gloriously suspect 1950s grammar bureau where you pass an eight-case plural inspection, then feed innocent words into the Model 2-ICE absurd-plural machine. Inspired by Jon's <a href="https://jona.ca/2022/08/one-mouse.html">One Mouse</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="catholiccast-signal-studio.php">CatholicCast Signal Studio</a> <span class="date">2026-07-30</span></div>
             <div class="blurb">A tactile 2005 podcast desk where you load segment cartridges, tune the analogue warmth, broadcast a tiny spoken episode, and watch its RSS packet race toward an MP3 player. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/02/catholiccast-first-catholic-podcast.html">CatholicCast: The First Catholic Podcast</a>.</div>
         </li>
