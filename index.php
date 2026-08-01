@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="pop3-post-office.php">The POP3 Post Office</a> <span class="date">2026-08-01</span></div>
+            <div class="blurb">A tactile 2004 mailroom where you crank through a real POP3 conversation, watch each protocol step come alive, then sort six animated letters on a mechanical conveyor. Inspired by Jon's <a href="https://jona.ca/2004/11/gmail-offers-free-pops-cnet-newscom.html">Gmail offers free POPs | CNET News.com</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hice-and-blice-bureau.php">The Hice &amp; Blice Bureau</a> <span class="date">2026-07-31</span></div>
             <div class="blurb">A gloriously suspect 1950s grammar bureau where you pass an eight-case plural inspection, then feed innocent words into the Model 2-ICE absurd-plural machine. Inspired by Jon's <a href="https://jona.ca/2022/08/one-mouse.html">One Mouse</a>.</div>
         </li>
