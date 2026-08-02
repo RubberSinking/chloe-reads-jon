@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="commit-message-press.php">The Commit Message Press</a> <span class="date">2026-08-02</span></div>
+            <div class="blurb">A tactile letterpress workshop that turns a hurried code change into a durable summary, problem, solution, and side-effects record, complete with a live context gauge and copy-ready proof sheet. Inspired by Jon's <a href="https://jona.ca/2014/02/how-i-am-writing-commit-messages-now.html">How I am writing commit messages now</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="pop3-post-office.php">The POP3 Post Office</a> <span class="date">2026-08-01</span></div>
             <div class="blurb">A tactile 2004 mailroom where you crank through a real POP3 conversation, watch each protocol step come alive, then sort six animated letters on a mechanical conveyor. Inspired by Jon's <a href="https://jona.ca/2004/11/gmail-offers-free-pops-cnet-newscom.html">Gmail offers free POPs | CNET News.com</a>.</div>
         </li>
