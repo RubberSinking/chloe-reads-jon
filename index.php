@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="widget-popularity-lab.php">Widget Popularity Lab</a> <span class="date">2026-08-03</span></div>
+            <div class="blurb">A glossy 2006 desktop where you sort a widget directory by downloads or ratings, install tiny curiosities, save a sticky note, and decide which dashboard inhabitants earn their pixels. Inspired by Jon's <a href="https://jona.ca/2006/01/most-downloaded-konfabulator-widgets.html">The Most Downloaded Konfabulator Widgets</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="commit-message-press.php">The Commit Message Press</a> <span class="date">2026-08-02</span></div>
             <div class="blurb">A tactile letterpress workshop that turns a hurried code change into a durable summary, problem, solution, and side-effects record, complete with a live context gauge and copy-ready proof sheet. Inspired by Jon's <a href="https://jona.ca/2014/02/how-i-am-writing-commit-messages-now.html">How I am writing commit messages now</a>.</div>
         </li>
