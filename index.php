@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="desert-island-library.php">The Ten-Year Shelf</a> <span class="date">2026-08-04</span></div>
+            <div class="blurb">Pack exactly ten books, balance a library for story, faith, wisdom, humour, and practical survival, then test your choices against ten years of island storms and silence. Inspired by Jon's <a href="https://jona.ca/2010/01/my-desert-island-books.html">My Desert Island Books</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="widget-popularity-lab.php">Widget Popularity Lab</a> <span class="date">2026-08-03</span></div>
             <div class="blurb">A glossy 2006 desktop where you sort a widget directory by downloads or ratings, install tiny curiosities, save a sticky note, and decide which dashboard inhabitants earn their pixels. Inspired by Jon's <a href="https://jona.ca/2006/01/most-downloaded-konfabulator-widgets.html">The Most Downloaded Konfabulator Widgets</a>.</div>
         </li>
