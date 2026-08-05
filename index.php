@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="pocket-mic-field-lab.php">Pocket Mic Field Lab</a> <span class="date">2026-08-05</span></div>
+            <div class="blurb">Run a real two-take microphone experiment with live waveforms, signal measurements, playback, and a blind listening challenge to see whether the tiny mic on an earbud cable earns its keep. Inspired by Jon's <a href="https://jona.ca/2011/10/iphone-earbuds-have-built-in-microphone.html">iPhone earbuds have a built-in microphone</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="desert-island-library.php">The Ten-Year Shelf</a> <span class="date">2026-08-04</span></div>
             <div class="blurb">Pack exactly ten books, balance a library for story, faith, wisdom, humour, and practical survival, then test your choices against ten years of island storms and silence. Inspired by Jon's <a href="https://jona.ca/2010/01/my-desert-island-books.html">My Desert Island Books</a>.</div>
         </li>
