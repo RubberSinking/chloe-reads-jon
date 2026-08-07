@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="hymn-tune-switchboard.php">The Pocket Hymn Switchboard</a> <span class="date">2026-08-07</span></div>
+            <div class="blurb">Switch classic hymn texts among compatible tunes, hear each melody on a tiny synthesised organ, and test the metre of a verse you write yourself. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/07/730-traditional-hymns-on-single.html">730 traditional hymns on a single webpage</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="word-weather-bureau.php">The Word Weather Bureau</a> <span class="date">2026-08-06</span></div>
             <div class="blurb">Paste any story, journal entry, or speech into a tactile newspaper-era bureau to chart its strongest words, reshape the cloud, inspect source sentences, and save the finished print. Inspired by Jon's <a href="https://jona.ca/2008/06/wordle-turn-your-words-into-colorful.html">Wordle: Turn your words into a colorful cloud</a>.</div>
         </li>
