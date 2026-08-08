@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="civic-cabinet-table.php">The Civic Cabinet Table</a> <span class="date">2026-08-08</span></div>
+            <div class="blurb">Allocate scarce attention across five public priorities, steer through three civic emergencies, and receive a handsome little profile of your governing instinct. Inspired by Jon's <a href="https://jona.ca/2017/04/bc-provincial-election-resources.html">BC Provincial Election resources</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hymn-tune-switchboard.php">The Pocket Hymn Switchboard</a> <span class="date">2026-08-07</span></div>
             <div class="blurb">Switch classic hymn texts among compatible tunes, hear each melody on a tiny synthesised organ, and test the metre of a verse you write yourself. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/07/730-traditional-hymns-on-single.html">730 traditional hymns on a single webpage</a>.</div>
         </li>
