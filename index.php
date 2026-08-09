@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="five-word-museum.php">The Museum of Five Peculiar Words</a> <span class="date">2026-08-09</span></div>
+            <div class="blurb">Enter five illustrated rooms, deduce the exact word each strange scene demands, and earn the title Keeper of Peculiar Words. Inspired by Jon's <a href="https://jona.ca/2009/01/four-definitions-diaphanous-hermetic.html">Five definitions: diaphanous, hermetic, liminal, sardonic, fabulist</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="civic-cabinet-table.php">The Civic Cabinet Table</a> <span class="date">2026-08-08</span></div>
             <div class="blurb">Allocate scarce attention across five public priorities, steer through three civic emergencies, and receive a handsome little profile of your governing instinct. Inspired by Jon's <a href="https://jona.ca/2017/04/bc-provincial-election-resources.html">BC Provincial Election resources</a>.</div>
         </li>
