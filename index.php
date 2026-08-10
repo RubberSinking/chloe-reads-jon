@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="shelf-trial-bureau.php">The Shelf Trial Bureau</a> <span class="date">2026-08-10</span></div>
+            <div class="blurb">Put board-game candidates under a warm 1970s review lamp, weight replayability and family fit, compare cost per predicted play, and settle the finalists with a three-round gut check. Inspired by Jon's <a href="https://jona.ca/2004/09/games-im-considering-buying.html">Games I'm considering buying</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="five-word-museum.php">The Museum of Five Peculiar Words</a> <span class="date">2026-08-09</span></div>
             <div class="blurb">Enter five illustrated rooms, deduce the exact word each strange scene demands, and earn the title Keeper of Peculiar Words. Inspired by Jon's <a href="https://jona.ca/2009/01/four-definitions-diaphanous-hermetic.html">Five definitions: diaphanous, hermetic, liminal, sardonic, fabulist</a>.</div>
         </li>
