@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="equivalence-cartographer.php">Equivalence Cartographer</a> <span class="date">2026-08-11</span></div>
+            <div class="blurb">Pair an existing feature’s implementation trail with its new sibling, catch a plausible false positive, then scan your own code for missing twins. Inspired by Jon's <a href="https://jona.ca/2014/05/programming-by-equivalence.html">Programming by Equivalence</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="shelf-trial-bureau.php">The Shelf Trial Bureau</a> <span class="date">2026-08-10</span></div>
             <div class="blurb">Put board-game candidates under a warm 1970s review lamp, weight replayability and family fit, compare cost per predicted play, and settle the finalists with a three-round gut check. Inspired by Jon's <a href="https://jona.ca/2004/09/games-im-considering-buying.html">Games I'm considering buying</a>.</div>
         </li>
