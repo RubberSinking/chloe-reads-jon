@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="input-mode-observatory.php">The Input Mode Observatory</a> <span class="date">2026-08-13</span></div>
+            <div class="blurb">Run a handsome two-part memory experiment to discover whether ideas stick better when you read them or hear them, complete with matched recall questions and a personal input signature. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/01/33-christian-classics-mp3-audio-books.html">33 Christian Classics - MP3 Audio Books (free)</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="walled-garden-rescue.php">Walled Garden Rescue</a> <span class="date">2026-08-12</span></div>
             <div class="blurb">Rescue six useful little contributions from a fading platform, choosing whether each belongs on an owned blog, in an open conversation, or in a private note while balancing reach and human trust. Inspired by Jon's <a href="https://jona.ca/2005/04/blog-is-social-network.html">The Blog Is The Social Network</a>.</div>
         </li>
