@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="golden-thread-cabinet.php">The Golden Thread Cabinet</a> <span class="date">2026-08-14</span></div>
+            <div class="blurb">Choose two engraved sacred symbols, draw out the luminous thread between them, and gradually restore an original illuminated scene through ten contemplative pairings. Inspired by Jon's <a href="https://jona.ca/2013/12/beautiful-correspondences-in-christian.html">Beautiful correspondences in the Christian religion</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="input-mode-observatory.php">The Input Mode Observatory</a> <span class="date">2026-08-13</span></div>
             <div class="blurb">Run a handsome two-part memory experiment to discover whether ideas stick better when you read them or hear them, complete with matched recall questions and a personal input signature. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/01/33-christian-classics-mp3-audio-books.html">33 Christian Classics - MP3 Audio Books (free)</a>.</div>
         </li>
