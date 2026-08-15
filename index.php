@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="crunch-composer.php">The Crunch Composer</a> <span class="date">2026-08-15</span></div>
+            <div class="blurb">Tap apple slices and almonds into a twelve-beat edible rhythm, hear each crisp little percussion note, and receive an extremely scientific tasting profile for your composition. Inspired by Jon's <a href="https://jona.ca/2009/10/almonds-apples-yum.html">Almonds + Apples = Yum</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="golden-thread-cabinet.php">The Golden Thread Cabinet</a> <span class="date">2026-08-14</span></div>
             <div class="blurb">Choose two engraved sacred symbols, draw out the luminous thread between them, and gradually restore an original illuminated scene through ten contemplative pairings. Inspired by Jon's <a href="https://jona.ca/2013/12/beautiful-correspondences-in-christian.html">Beautiful correspondences in the Christian religion</a>.</div>
         </li>
