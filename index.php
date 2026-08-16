@@ -105,6 +105,10 @@ Total output lines: 339
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="pocket-briefcase-workshop.php">Pocket Briefcase Workshop</a> <span class="date">2026-08-16</span></div>
+            <div class="blurb">Measure a wallet, generate a printable tiny-pad cut guide, complete a four-station duct-tape assembly, and race a vanishing idea in a ten-second capture test. Inspired by Jon's <a href="https://jona.ca/2009/11/diy-international-pocket-briefcase-aka.html">DIY International Pocket Briefcase aka David Allen NoteTaker Wallet</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="crunch-composer.php">The Crunch Composer</a> <span class="date">2026-08-15</span></div>
             <div class="blurb">Tap apple slices and almonds into a twelve-beat edible rhythm, hear each crisp little percussion note, and receive an extremely scientific tasting profile for your composition. Inspired by Jon's <a href="https://jona.ca/2009/10/almonds-apples-yum.html">Almonds + Apples = Yum</a>.</div>
         </li>
