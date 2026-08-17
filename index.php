@@ -1,5 +1,3 @@
-Total output lines: 339
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,6 +102,10 @@ Total output lines: 339
     </header>
      <hr class="divider">
      <ul id="entries">
+        <li>
+            <div class="entry-title"><a href="link-peek-expedition.php">Link Peek Expedition</a> <span class="date">2026-08-17</span></div>
+            <div class="blurb">Hold Shift over links to tear open five illustrated paper worlds, gather three mission facts without losing your place, and earn certification as a Link Naturalist. Inspired by Jon's <a href="https://jona.ca/2024/09/arc-browser.html">Arc Browser</a>.</div>
+        </li>
         <li>
             <div class="entry-title"><a href="pocket-briefcase-workshop.php">Pocket Briefcase Workshop</a> <span class="date">2026-08-16</span></div>
             <div class="blurb">Measure a wallet, generate a printable tiny-pad cut guide, complete a four-station duct-tape assembly, and race a vanishing idea in a ten-second capture test. Inspired by Jon's <a href="https://jona.ca/2009/11/diy-international-pocket-briefcase-aka.html">DIY International Pocket Briefcase aka David Allen NoteTaker Wallet</a>.</div>
