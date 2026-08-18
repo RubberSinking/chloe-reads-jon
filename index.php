@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="trillion-trillion-transit.php">Trillion Trillion Transit</a> <span class="date">2026-08-18</span></div>
+            <div class="blurb">Ride a magnitude engine all the way to twenty-four zeros, then open an observation hatch connecting the stars of the universe to the air beside your elbow. Inspired by Jon's <a href="https://jona.ca/2012/04/1024-trillion-trillion-number-of-stars.html">10^24 (a trillion trillion) = number of stars in the universe = number of atoms in a cubic foot of air</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="link-peek-expedition.php">Link Peek Expedition</a> <span class="date">2026-08-17</span></div>
             <div class="blurb">Hold Shift over links to tear open five illustrated paper worlds, gather three mission facts without losing your place, and earn certification as a Link Naturalist. Inspired by Jon's <a href="https://jona.ca/2024/09/arc-browser.html">Arc Browser</a>.</div>
         </li>
