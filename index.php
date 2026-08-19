@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="soft-assertion-control-room.php">Soft Assertion Control Room</a> <span class="date">2026-08-19</span></div>
+            <div class="blurb">Take command of five broken software assumptions, probe the telemetry, and decide whether to abort, contain, or pull the red lever and continue. Inspired by Jon's <a href="https://jona.ca/2004/12/soft-assertions.html">Soft Assertions</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="trillion-trillion-transit.php">Trillion Trillion Transit</a> <span class="date">2026-08-18</span></div>
             <div class="blurb">Ride a magnitude engine all the way to twenty-four zeros, then open an observation hatch connecting the stars of the universe to the air beside your elbow. Inspired by Jon's <a href="https://jona.ca/2012/04/1024-trillion-trillion-number-of-stars.html">10^24 (a trillion trillion) = number of stars in the universe = number of atoms in a cubic foot of air</a>.</div>
         </li>
