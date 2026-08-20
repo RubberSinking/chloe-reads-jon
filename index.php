@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="easter-choir-cue-desk.php">Easter Choir Cue Desk</a> <span class="date">2026-08-20</span></div>
+            <div class="blurb">Take the baton through eight liturgical moments, cue the psalmist, cantor, choir, or assembly, and hear each clean entrance resolve into music. Inspired by Jon's <a href="https://jona.ca/2004/03/easter-choir-notes-raf-different-psalm.html">Easter choir notes</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="soft-assertion-control-room.php">Soft Assertion Control Room</a> <span class="date">2026-08-19</span></div>
             <div class="blurb">Take command of five broken software assumptions, probe the telemetry, and decide whether to abort, contain, or pull the red lever and continue. Inspired by Jon's <a href="https://jona.ca/2004/12/soft-assertions.html">Soft Assertions</a>.</div>
         </li>
