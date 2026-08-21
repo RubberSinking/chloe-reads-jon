@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="council-of-influences.php">The Council of Influences</a> <span class="date">2026-08-21</span></div>
+            <div class="blurb">Seat any three of Jon's formative influences around a real question, compare their distinct idea-lenses, and leave with one practical common thread. Inspired by Jon's <a href="https://jona.ca/2020/03/favourite-authors-and-influences.html">Favourite authors and influences</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="easter-choir-cue-desk.php">Easter Choir Cue Desk</a> <span class="date">2026-08-20</span></div>
             <div class="blurb">Take the baton through eight liturgical moments, cue the psalmist, cantor, choir, or assembly, and hear each clean entrance resolve into music. Inspired by Jon's <a href="https://jona.ca/2004/03/easter-choir-notes-raf-different-psalm.html">Easter choir notes</a>.</div>
         </li>
