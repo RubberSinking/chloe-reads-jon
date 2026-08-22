@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="gentle-interrupter.php">The Gentle Interrupter</a> <span class="date">2026-08-22</span></div>
+            <div class="blurb">Type through a live flow-aware break experiment that quietly watches for a natural pause, protects your train of thought, and only then opens a restorative breathing break. Inspired by Jon's <a href="https://jona.ca/2007/01/software-im-trying-out-darkroom-and.html">Software I'm trying out: DarkRoom and RSIGuard</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="council-of-influences.php">The Council of Influences</a> <span class="date">2026-08-21</span></div>
             <div class="blurb">Seat any three of Jon's formative influences around a real question, compare their distinct idea-lenses, and leave with one practical common thread. Inspired by Jon's <a href="https://jona.ca/2020/03/favourite-authors-and-influences.html">Favourite authors and influences</a>.</div>
         </li>
