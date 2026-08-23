@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="window-conservatory.php">The Window Conservatory</a> <span class="date">2026-08-23</span></div>
+            <div class="blurb">Watch idle app windows fold into sleeping paper creatures, wake them from a recoverable shelf, then risk the same experiment in dangerously final close mode. Inspired by Jon's <a href="https://jona.ca/2006/04/automatically-hide-windows-after-10.html">Automatically hide windows after 10 minutes with WatchCat</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="gentle-interrupter.php">The Gentle Interrupter</a> <span class="date">2026-08-22</span></div>
             <div class="blurb">Type through a live flow-aware break experiment that quietly watches for a natural pause, protects your train of thought, and only then opens a restorative breathing break. Inspired by Jon's <a href="https://jona.ca/2007/01/software-im-trying-out-darkroom-and.html">Software I'm trying out: DarkRoom and RSIGuard</a>.</div>
         </li>
