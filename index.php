@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="returning-river.php">The Returning River</a> <span class="date">2026-08-24</span></div>
+            <div class="blurb">Guide two paper boats through four seasons of distance, make small choices about reconnection and release, then let the river compose a message for an old friend. Inspired by Jon's <a href="https://jona.ca/2004/07/conversation-with-danny.html">A conversation with Danny</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="window-conservatory.php">The Window Conservatory</a> <span class="date">2026-08-23</span></div>
             <div class="blurb">Watch idle app windows fold into sleeping paper creatures, wake them from a recoverable shelf, then risk the same experiment in dangerously final close mode. Inspired by Jon's <a href="https://jona.ca/2006/04/automatically-hide-windows-after-10.html">Automatically hide windows after 10 minutes with WatchCat</a>.</div>
         </li>
