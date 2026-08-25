@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="flannery-paradox-cabinet.php">Flannery’s Paradox Cabinet</a> <span class="date">2026-08-25</span></div>
+            <div class="blurb">Tune three brass dials until criticism and fidelity, study and prayer, idealism and mercy can remain true at once, then receive a field note from the cabinet. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/08/flannery-oconnor-quotes.html">Flannery O’Connor quotes</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="returning-river.php">The Returning River</a> <span class="date">2026-08-24</span></div>
             <div class="blurb">Guide two paper boats through four seasons of distance, make small choices about reconnection and release, then let the river compose a message for an old friend. Inspired by Jon's <a href="https://jona.ca/2004/07/conversation-with-danny.html">A conversation with Danny</a>.</div>
         </li>
