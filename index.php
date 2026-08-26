@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="clipboard-archaeology.php">Clipboard Archaeology</a> <span class="date">2026-08-26</span></div>
+            <div class="blurb">Excavate a cluttered clipboard archive with instant incremental search, recover four clues from a vanished launch kit, and watch the finished project click back together. Inspired by Jon's <a href="https://jona.ca/2006/02/ditto-windows-clipboard-extender-with.html">Ditto — Windows clipboard extender with incremental search</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="flannery-paradox-cabinet.php">Flannery’s Paradox Cabinet</a> <span class="date">2026-08-25</span></div>
             <div class="blurb">Tune three brass dials until criticism and fidelity, study and prayer, idealism and mercy can remain true at once, then receive a field note from the cabinet. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/08/flannery-oconnor-quotes.html">Flannery O’Connor quotes</a>.</div>
         </li>
