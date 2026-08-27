@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="tooth-tuning-fork.php">The Tooth Tuning Fork</a> <span class="date">2026-08-27</span></div>
+            <div class="blurb">Record two gentle tooth taps, compare their hidden pitches, then follow a playable note trail from your own built-in reference to middle C. Inspired by Jon's <a href="https://jona.ca/2016/01/dental-pitch-way-to-obtain-perfect.html">Dental Pitch: A Way to Obtain Perfect Pitch Using Your Teeth</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="clipboard-archaeology.php">Clipboard Archaeology</a> <span class="date">2026-08-26</span></div>
             <div class="blurb">Excavate a cluttered clipboard archive with instant incremental search, recover four clues from a vanished launch kit, and watch the finished project click back together. Inspired by Jon's <a href="https://jona.ca/2006/02/ditto-windows-clipboard-extender-with.html">Ditto — Windows clipboard extender with incremental search</a>.</div>
         </li>
