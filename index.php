@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="binary-bloom.php">Binary Bloom</a> <span class="date">2026-08-28</span></div>
+            <div class="blurb">Grow a luminous binary tree from one trunk to 131,072 leaves, watch doubling quietly explode across seventeen levels, then choose one unique path through the canopy. Inspired by Jon's <a href="https://jona.ca/2009/05/binary-tree-of-depth-17.html">Binary tree of depth 17</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="tooth-tuning-fork.php">The Tooth Tuning Fork</a> <span class="date">2026-08-27</span></div>
             <div class="blurb">Record two gentle tooth taps, compare their hidden pitches, then follow a playable note trail from your own built-in reference to middle C. Inspired by Jon's <a href="https://jona.ca/2016/01/dental-pitch-way-to-obtain-perfect.html">Dental Pitch: A Way to Obtain Perfect Pitch Using Your Teeth</a>.</div>
         </li>
