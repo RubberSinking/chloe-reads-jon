@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="interior-castle-lantern.php">Interior Castle Lantern</a> <span class="date">2026-08-29</span></div>
+            <div class="blurb">Carry a lantern through seven illustrated thresholds of St. Teresa of Ávila’s Interior Castle, meeting a metaphor and a quiet tactile practice in every mansion before bringing one fruit back into ordinary life. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/11/summary-of-7-teresian-mansions-of.html">Summary of the 7 Teresian Mansions of Prayer</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="binary-bloom.php">Binary Bloom</a> <span class="date">2026-08-28</span></div>
             <div class="blurb">Grow a luminous binary tree from one trunk to 131,072 leaves, watch doubling quietly explode across seventeen levels, then choose one unique path through the canopy. Inspired by Jon's <a href="https://jona.ca/2009/05/binary-tree-of-depth-17.html">Binary tree of depth 17</a>.</div>
         </li>
