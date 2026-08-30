@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="domestic-regret-portal.php">The Domestic Regret Portal</a> <span class="date">2026-08-30</span></div>
+            <div class="blurb">Send ten suspiciously ordinary purchases through a glowing household time portal, separate Jon’s real catalogue bargains from decoys, and repair the receipt continuum. Inspired by Jon's <a href="https://jona.ca/2024/10/things-i-bought-that-i-wish-i-knew-i.html">Things I bought that I wish I knew I could have gotten at Ikea for cheaper</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="interior-castle-lantern.php">Interior Castle Lantern</a> <span class="date">2026-08-29</span></div>
             <div class="blurb">Carry a lantern through seven illustrated thresholds of St. Teresa of Ávila’s Interior Castle, meeting a metaphor and a quiet tactile practice in every mansion before bringing one fruit back into ordinary life. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/11/summary-of-7-teresian-mansions-of.html">Summary of the 7 Teresian Mansions of Prayer</a>.</div>
         </li>
