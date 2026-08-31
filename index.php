@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="three-cloud-relay.php">The Three-Cloud Relay</a> <span class="date">2026-08-31</span></div>
+            <div class="blurb">Route one Markdown note through a pocket editor, iCloud, a Mac bridge, and Google Drive in five increasingly devious sync puzzles, without spawning a single conflict copy. Inspired by Jon's <a href="https://jona.ca/2025/05/how-to-edit-markdown-files-on-google.html">How to edit markdown files on Google Drive on iOS and Mac</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="domestic-regret-portal.php">The Domestic Regret Portal</a> <span class="date">2026-08-30</span></div>
             <div class="blurb">Send ten suspiciously ordinary purchases through a glowing household time portal, separate Jon’s real catalogue bargains from decoys, and repair the receipt continuum. Inspired by Jon's <a href="https://jona.ca/2024/10/things-i-bought-that-i-wish-i-knew-i.html">Things I bought that I wish I knew I could have gotten at Ikea for cheaper</a>.</div>
         </li>
