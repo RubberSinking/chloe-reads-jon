@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="mac-merit-trials.php">The Three Merit Trials</a> <span class="date">2026-09-01</span></div>
+            <div class="blurb">Put a good computer through three tactile tests: catch a cyan wake signal, assemble Unix command pipelines, and tune a composition until its parts stop arguing. Inspired by Jon's <a href="https://jona.ca/2010/05/3-reasons-i-like-mac.html">3 Reasons I Like The Mac</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="three-cloud-relay.php">The Three-Cloud Relay</a> <span class="date">2026-08-31</span></div>
             <div class="blurb">Route one Markdown note through a pocket editor, iCloud, a Mac bridge, and Google Drive in five increasingly devious sync puzzles, without spawning a single conflict copy. Inspired by Jon's <a href="https://jona.ca/2025/05/how-to-edit-markdown-files-on-google.html">How to edit markdown files on Google Drive on iOS and Mac</a>.</div>
         </li>
