@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="forest-bookmark-press.php">Cedar &amp; Quill Bookmark Press</a> <span class="date">2026-09-02</span></div>
+            <div class="blurb">Compose a printable storybook bookmark by choosing a forest guide, lantern palette, inscription, tassel, and cut shape, all wrapped around an original cedar-library illustration. Inspired by Jon's <a href="https://jona.ca/2008/03/nice-bookmarks-you-can-print-out.html">Nice bookmarks you can print out</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="mac-merit-trials.php">The Three Merit Trials</a> <span class="date">2026-09-01</span></div>
             <div class="blurb">Put a good computer through three tactile tests: catch a cyan wake signal, assemble Unix command pipelines, and tune a composition until its parts stop arguing. Inspired by Jon's <a href="https://jona.ca/2010/05/3-reasons-i-like-mac.html">3 Reasons I Like The Mac</a>.</div>
         </li>
