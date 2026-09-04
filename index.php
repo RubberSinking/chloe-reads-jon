@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="poem-current.php">The Poem Current</a> <span class="date">2026-09-04</span></div>
+            <div class="blurb">Send one plain thought through a luminous undersea translation cable, protect a single anchor word, and watch the beautiful near-misses arrive as a tiny poem. Inspired by Jon's <a href="https://jona.ca/2004/03/poet-recommended-to-me-by-ji-hwan-to.html">note about a poet recommended by Ji-Hwan</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="three-lamps.php">The Three Lamps</a> <span class="date">2026-09-03</span></div>
             <div class="blurb">Walk from dawn to night through six ordinary family-life scenes, decide whether each moment most needs faith, hope, or love, and watch three illustrated lamps bring the house to life. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2012/05/routine-for-morning-and-evening-prayers.html">Routine for Morning and Evening Prayers from the Baltimore Catechism</a>.</div>
         </li>
