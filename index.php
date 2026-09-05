@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="tomorrows-bouquet.php">Tomorrow's Bouquet</a> <span class="date">2026-09-05</span></div>
+            <div class="blurb">Grow a three-stem repair from one honest sentence, one impossible thing released, and one concrete next good, while an original blue-hour illustration slowly returns to colour. Inspired by Jon's <a href="https://jona.ca/2012/01/on-forgetting-anniversary.html">On forgetting an anniversary</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="poem-current.php">The Poem Current</a> <span class="date">2026-09-04</span></div>
             <div class="blurb">Send one plain thought through a luminous undersea translation cable, protect a single anchor word, and watch the beautiful near-misses arrive as a tiny poem. Inspired by Jon's <a href="https://jona.ca/2004/03/poet-recommended-to-me-by-ji-hwan-to.html">note about a poet recommended by Ji-Hwan</a>.</div>
         </li>
