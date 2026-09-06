@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="hearthkeeper.php">Hearthkeeper</a> <span class="date">2026-09-06</span></div>
+            <div class="blurb">Tend love, prayer, sacrifice, and forgiveness through six ordinary family scenes while an original cut-paper house slowly fills with light. Inspired by Jon's <a href="https://jona.ca/2014/12/fr-larrys-homily.html">Fr. Larry's homily</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="tomorrows-bouquet.php">Tomorrow's Bouquet</a> <span class="date">2026-09-05</span></div>
             <div class="blurb">Grow a three-stem repair from one honest sentence, one impossible thing released, and one concrete next good, while an original blue-hour illustration slowly returns to colour. Inspired by Jon's <a href="https://jona.ca/2012/01/on-forgetting-anniversary.html">On forgetting an anniversary</a>.</div>
         </li>
