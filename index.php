@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="groovy-code-club.php">Groovy Code Club</a> <span class="date">2026-09-07</span></div>
+            <div class="blurb">Remix five stiff Java snippets into expressive Groovy, lighting up an original screenprinted code-club illustration one track at a time. Inspired by Jon's <a href="https://jona.ca/2004/08/altlangjre-feeling-groovy.html">alt.lang.jre: Feeling Groovy</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hearthkeeper.php">Hearthkeeper</a> <span class="date">2026-09-06</span></div>
             <div class="blurb">Tend love, prayer, sacrifice, and forgiveness through six ordinary family scenes while an original cut-paper house slowly fills with light. Inspired by Jon's <a href="https://jona.ca/2014/12/fr-larrys-homily.html">Fr. Larry's homily</a>.</div>
         </li>
