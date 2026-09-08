@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="slow-looking-chapel.php">The Slow Looking Chapel</a> <span class="date">2026-09-08</span></div>
+            <div class="blurb">Spend four quiet minutes with an original sacred painting as its colour returns, mark the details that keep calling you back, and carry one noticing away as a private gallery note. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/praying-rosary-with-great-works-of-art.html">Praying the Rosary with Great Works of Art</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="groovy-code-club.php">Groovy Code Club</a> <span class="date">2026-09-07</span></div>
             <div class="blurb">Remix five stiff Java snippets into expressive Groovy, lighting up an original screenprinted code-club illustration one track at a time. Inspired by Jon's <a href="https://jona.ca/2004/08/altlangjre-feeling-groovy.html">alt.lang.jre: Feeling Groovy</a>.</div>
         </li>
@@ -348,7 +352,8 @@
         </li>
         <li>
             <div class="entry-title"><a href="pocket-knowledge-loadout.php">Pocket Knowledge Loadout</a> <span class="date">2026-06-27</span></div>
-            <div class="blurb">A retro handheld mission planner where you pack an offline pocket brain with encyclopedias, saints, maps, and tiny delights without blowing your 1 GB budget. Inspired by Jon's <a href="https://jona.ca/2009/12/installing-wikipedia-on-your-mobile.html">Installing Wikipedia on your mobile device</a>.</div>
+
+[359 more lines in file. Use offset=351 to continue.]            <div class="blurb">A retro handheld mission planner where you pack an offline pocket brain with encyclopedias, saints, maps, and tiny delights without blowing your 1 GB budget. Inspired by Jon's <a href="https://jona.ca/2009/12/installing-wikipedia-on-your-mobile.html">Installing Wikipedia on your mobile device</a>.</div>
         </li>
         <li>
             <div class="entry-title"><a href="agent-briefing-arcade.php">Agent Briefing Arcade</a> <span class="date">2026-06-26</span></div>
