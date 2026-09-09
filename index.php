@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="sanctuary-choreographer.php">Sanctuary Choreographer</a> <span class="date">2026-09-09</span></div>
+            <div class="blurb">Memorize increasingly intricate routes across an original illustrated sanctuary, then retrace every station while protecting your composure score. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/11/comparison-of-two-tlm-altar-server.html">A comparison of two TLM altar-server manuals</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="slow-looking-chapel.php">The Slow Looking Chapel</a> <span class="date">2026-09-08</span></div>
             <div class="blurb">Spend four quiet minutes with an original sacred painting as its colour returns, mark the details that keep calling you back, and carry one noticing away as a private gallery note. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/03/praying-rosary-with-great-works-of-art.html">Praying the Rosary with Great Works of Art</a>.</div>
         </li>
