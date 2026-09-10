@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="orange-sign-society.php">The Orange Sign Society</a> <span class="date">2026-09-10</span></div>
+            <div class="blurb">Paint a gloriously oversized meetup sign, export it as a poster, deal genuinely good conversation starters, and keep a tiny coffee-cup attendance ledger. Inspired by Jon's <a href="https://jona.ca/2005/02/ok-i-have-posted-photo-for-victoria.html">OK I have posted a photo for the Victoria Webloggers</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="sanctuary-choreographer.php">Sanctuary Choreographer</a> <span class="date">2026-09-09</span></div>
             <div class="blurb">Memorize increasingly intricate routes across an original illustrated sanctuary, then retrace every station while protecting your composure score. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/11/comparison-of-two-tlm-altar-server.html">A comparison of two TLM altar-server manuals</a>.</div>
         </li>
