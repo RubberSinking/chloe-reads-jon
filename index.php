@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="little-rule-workshop.php">The Little Rule Workshop</a> <span class="date">2026-09-11</span></div>
+            <div class="blurb">Fasten five tiny prayer practices to the ordinary hooks in a real day, then stress-test your rhythm against spilled cereal, surprise phone calls, and twelve-percent batteries. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2024/12/faith-meets-innovation-using-ai-for.html">Faith Meets Innovation: Using AI for Spiritual Direction</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="orange-sign-society.php">The Orange Sign Society</a> <span class="date">2026-09-10</span></div>
             <div class="blurb">Paint a gloriously oversized meetup sign, export it as a poster, deal genuinely good conversation starters, and keep a tiny coffee-cup attendance ledger. Inspired by Jon's <a href="https://jona.ca/2005/02/ok-i-have-posted-photo-for-victoria.html">OK I have posted a photo for the Victoria Webloggers</a>.</div>
         </li>
@@ -360,8 +364,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="pocket-knowledge-loadout.php">Pocket Knowledge Loadout</a> <span class="date">2026-06-27</span></div>
-
-[359 more lines in file. Use offset=351 to continue.]            <div class="blurb">A retro handheld mission planner where you pack an offline pocket brain with encyclopedias, saints, maps, and tiny delights without blowing your 1 GB budget. Inspired by Jon's <a href="https://jona.ca/2009/12/installing-wikipedia-on-your-mobile.html">Installing Wikipedia on your mobile device</a>.</div>
+            <div class="blurb">A retro handheld mission planner where you pack an offline pocket brain with encyclopedias, saints, maps, and tiny delights without blowing your 1 GB budget. Inspired by Jon's <a href="https://jona.ca/2009/12/installing-wikipedia-on-your-mobile.html">Installing Wikipedia on your mobile device</a>.</div>
         </li>
         <li>
             <div class="entry-title"><a href="agent-briefing-arcade.php">Agent Briefing Arcade</a> <span class="date">2026-06-26</span></div>
