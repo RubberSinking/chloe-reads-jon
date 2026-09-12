@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="reply-tempering-room.php">The Reply Tempering Room</a> <span class="date">2026-09-12</span></div>
+            <div class="blurb">Temper five unruly comments into replies with clarity, backbone, and goodwill while live heat meters judge whether your point survives your tone. Inspired by Jon's <a href="https://jona.ca/2011/06/how-to-carry-on-debate-in-comment.html">How to Carry on a Debate in a Comment Thread: A Case Study</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="little-rule-workshop.php">The Little Rule Workshop</a> <span class="date">2026-09-11</span></div>
             <div class="blurb">Fasten five tiny prayer practices to the ordinary hooks in a real day, then stress-test your rhythm against spilled cereal, surprise phone calls, and twelve-percent batteries. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2024/12/faith-meets-innovation-using-ai-for.html">Faith Meets Innovation: Using AI for Spiritual Direction</a>.</div>
         </li>
@@ -492,7 +496,8 @@
         <li>
             <div class="entry-title"><a href="dock-remix-studio.php">Dock Remix Studio</a> <span class="date">2026-05-20</span></div>
             <div class="blurb">A playful dock-builder where you pick apps, tune your focus-versus-variety balance, and profile the personality of your setup. Inspired by Jon's <a href="https://jona.ca/2013/05/whats-on-your-dock.html">What's on your dock?</a>.</div>
-        </li>
+
+[231 more lines in file. Use offset=495 to continue.]        </li>
         <li>
             <div class="entry-title"><a href="colloquy-chorus.php">Colloquy Chorus</a> <span class="date">2026-05-19</span></div>
             <div class="blurb">An Aqua-styled IRC speech studio where you paste a chat log, assign browser voices to each speaker, and play the whole room like a tiny radio drama. Inspired by Jon's <a href="https://jona.ca/2010/05/text-to-speech-irc-client-on-mac-os-x.html">Text-to-speech IRC client on Mac OS X</a>.</div>
