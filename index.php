@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="waste-land-signal-cabinet.php">The Waste Land Signal Cabinet</a> <span class="date">2026-09-13</span></div>
+            <div class="blurb">Tune an illustrated long-wave radio through static to recover four drifting fragments, then file a tiny poetic weather report from the interior. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2004/12/ts-eliot-reading-waste-land.html">T.S. Eliot reading The Waste Land (HarperAudio online)</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="reply-tempering-room.php">The Reply Tempering Room</a> <span class="date">2026-09-12</span></div>
             <div class="blurb">Temper five unruly comments into replies with clarity, backbone, and goodwill while live heat meters judge whether your point survives your tone. Inspired by Jon's <a href="https://jona.ca/2011/06/how-to-carry-on-debate-in-comment.html">How to Carry on a Debate in a Comment Thread: A Case Study</a>.</div>
         </li>
