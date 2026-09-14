@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="one-page-press.php">The One-Page Press</a> <span class="date">2026-09-14</span></div>
+            <div class="blurb">Run a tactile little composing room: cut article furniture, tune type and margins, and make an unruly proof fit one handsome printable sheet without gutting its meaning. Inspired by Jon's <a href="https://jona.ca/2010/02/i-heart-printwhatyoulike-bookmarklet.html">I heart the PrintWhatYouLike bookmarklet</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="waste-land-signal-cabinet.php">The Waste Land Signal Cabinet</a> <span class="date">2026-09-13</span></div>
             <div class="blurb">Tune an illustrated long-wave radio through static to recover four drifting fragments, then file a tiny poetic weather report from the interior. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2004/12/ts-eliot-reading-waste-land.html">T.S. Eliot reading The Waste Land (HarperAudio online)</a>.</div>
         </li>
