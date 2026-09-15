@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="joy-department.php">The Joy Department</a> <span class="date">2026-09-15</span></div>
+            <div class="blurb">Take over a bright little art-direction desk: choose complementary colours, move an original collage around a 3×3 grid, tune the headline, and pitch the result to a cheerfully opinionated client. Inspired by Jon's <a href="https://jona.ca/2008/12/my-creative-bro-designer-dave-aquino.html">My creative bro: designer Dave Aquino</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="one-page-press.php">The One-Page Press</a> <span class="date">2026-09-14</span></div>
             <div class="blurb">Run a tactile little composing room: cut article furniture, tune type and margins, and make an unruly proof fit one handsome printable sheet without gutting its meaning. Inspired by Jon's <a href="https://jona.ca/2010/02/i-heart-printwhatyoulike-bookmarklet.html">I heart the PrintWhatYouLike bookmarklet</a>.</div>
         </li>
