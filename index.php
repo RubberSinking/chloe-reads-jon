@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="book-bargain-desk.php">The Book Bargain Desk</a> <span class="date">2026-09-16</span></div>
+            <div class="blurb">Compare used-book offers by landed cost and condition, then let the desk stamp its best-value pick. Inspired by Jon's <a href="https://jona.ca/2013/05/bookfinder.html">BookFinder</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="joy-department.php">The Joy Department</a> <span class="date">2026-09-15</span></div>
             <div class="blurb">Take over a bright little art-direction desk: choose complementary colours, move an original collage around a 3×3 grid, tune the headline, and pitch the result to a cheerfully opinionated client. Inspired by Jon's <a href="https://jona.ca/2008/12/my-creative-bro-designer-dave-aquino.html">My creative bro: designer Dave Aquino</a>.</div>
         </li>
