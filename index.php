@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="setlist-signal-deck.php">Setlist Signal Deck</a> <span class="date">2026-09-17</span></div>
+            <div class="blurb">Turn cryptic guitar shorthand into an editable arrangement tape, stamp performance cues onto song sections, tap a tempo, and rehearse the whole map with a working metronome. Inspired by Jon's <a href="https://jona.ca/2004/09/awake-guit-ps-2-eighth-notes-247-531.html">untitled guitar rehearsal notes</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="book-bargain-desk.php">The Book Bargain Desk</a> <span class="date">2026-09-16</span></div>
             <div class="blurb">Compare used-book offers by landed cost and condition, then let the desk stamp its best-value pick. Inspired by Jon's <a href="https://jona.ca/2013/05/bookfinder.html">BookFinder</a>.</div>
         </li>
@@ -398,7 +402,8 @@
             <div class="entry-title"><a href="shroud-negative-lab.php">Shroud Negative Lab</a> <span class="date">2026-06-24</span></div>
             <div class="blurb">A darkroom-style relic viewer where you flip a faint linen portrait into negative, high-contrast, and edge-trace modes, then play a little feature-hunt detective round. Inspired by Jon's <a href="https://jona.ca/2012/03/jesus-had-beard.html">Jesus had a beard</a>.</div>
         </li>
-        <li>
+
+[346 more lines in file. Use offset=401 to continue.]        <li>
             <div class="entry-title"><a href="jersey-stripe-room-studio.php">Jersey Stripe Room Studio</a> <span class="date">2026-06-23</span></div>
             <div class="blurb">A stylish little room-design sandbox where you turn beloved stripe palettes into bold bedroom mockups, then tune the chaos until it becomes charm. Inspired by Jon's <a href="https://jona.ca/2005/11/lifehack-sports-jersey-stripes-as.html">Lifehack: Sports Jersey Stripes as Paint Design for Room</a>.</div>
         </li>
