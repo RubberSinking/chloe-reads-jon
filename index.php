@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="twin-atlas-detective.php">Twin Atlas Detective</a> <span class="date">2026-09-18</span></div>
+            <div class="blurb">Pan and zoom two synchronized illustrated maps, hunt six cartographic discrepancies, and briefly unleash the chaos of unlinked viewports. Inspired by Jon's <a href="https://jona.ca/2005/11/google-maps-and-yahoo-maps-side-by.html">Google Maps and Yahoo Maps, side-by-side</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="setlist-signal-deck.php">Setlist Signal Deck</a> <span class="date">2026-09-17</span></div>
             <div class="blurb">Turn cryptic guitar shorthand into an editable arrangement tape, stamp performance cues onto song sections, tap a tempo, and rehearse the whole map with a working metronome. Inspired by Jon's <a href="https://jona.ca/2004/09/awake-guit-ps-2-eighth-notes-247-531.html">untitled guitar rehearsal notes</a>.</div>
         </li>
@@ -403,7 +407,7 @@
             <div class="blurb">A darkroom-style relic viewer where you flip a faint linen portrait into negative, high-contrast, and edge-trace modes, then play a little feature-hunt detective round. Inspired by Jon's <a href="https://jona.ca/2012/03/jesus-had-beard.html">Jesus had a beard</a>.</div>
         </li>
 
-[346 more lines in file. Use offset=401 to continue.]        <li>
+        <li>
             <div class="entry-title"><a href="jersey-stripe-room-studio.php">Jersey Stripe Room Studio</a> <span class="date">2026-06-23</span></div>
             <div class="blurb">A stylish little room-design sandbox where you turn beloved stripe palettes into bold bedroom mockups, then tune the chaos until it becomes charm. Inspired by Jon's <a href="https://jona.ca/2005/11/lifehack-sports-jersey-stripes-as.html">Lifehack: Sports Jersey Stripes as Paint Design for Room</a>.</div>
         </li>
@@ -518,7 +522,7 @@
             <div class="entry-title"><a href="dock-remix-studio.php">Dock Remix Studio</a> <span class="date">2026-05-20</span></div>
             <div class="blurb">A playful dock-builder where you pick apps, tune your focus-versus-variety balance, and profile the personality of your setup. Inspired by Jon's <a href="https://jona.ca/2013/05/whats-on-your-dock.html">What's on your dock?</a>.</div>
 
-[231 more lines in file. Use offset=495 to continue.]        </li>
+        </li>
         <li>
             <div class="entry-title"><a href="colloquy-chorus.php">Colloquy Chorus</a> <span class="date">2026-05-19</span></div>
             <div class="blurb">An Aqua-styled IRC speech studio where you paste a chat log, assign browser voices to each speaker, and play the whole room like a tiny radio drama. Inspired by Jon's <a href="https://jona.ca/2010/05/text-to-speech-irc-client-on-mac-os-x.html">Text-to-speech IRC client on Mac OS X</a>.</div>
