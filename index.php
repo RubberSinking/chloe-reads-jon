@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="startup-symphony.php">Startup Symphony</a> <span class="date">2026-09-19</span></div>
+            <div class="blurb">Build a lean startup rack from eight delightfully specific utilities, balance usefulness against boot time and collisions, then conduct the animated boot sequence. Inspired by Jon's <a href="https://jona.ca/2007/04/windows-useful-utilities-from-my.html">Useful utilities from my startup programs</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="twin-atlas-detective.php">Twin Atlas Detective</a> <span class="date">2026-09-18</span></div>
             <div class="blurb">Pan and zoom two synchronized illustrated maps, hunt six cartographic discrepancies, and briefly unleash the chaos of unlinked viewports. Inspired by Jon's <a href="https://jona.ca/2005/11/google-maps-and-yahoo-maps-side-by.html">Google Maps and Yahoo Maps, side-by-side</a>.</div>
         </li>
