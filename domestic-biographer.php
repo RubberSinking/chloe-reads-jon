@@ -27,7 +27,7 @@ h1 span{display:block;color:var(--red);font-style:italic;transform:translateX(.4
 .btn:hover{transform:translate(2px,2px);box-shadow:2px 2px 0 var(--ink)}.btn.alt{background:var(--cream);color:var(--ink)}
 .hero-art{position:relative;transform:rotate(1.4deg);filter:drop-shadow(0 22px 20px rgba(57,37,22,.18))}
 .hero-art:before{content:"A life, hiding in plain sight";position:absolute;z-index:2;left:-18px;top:22px;background:var(--mustard);border:1px solid var(--ink);padding:9px 12px;font-family:'Courier New';font-size:.68rem;text-transform:uppercase;transform:rotate(-5deg)}
-.hero-art img{width:100%;display:block;border:2px solid var(--ink);background:#d9cdb8;clip-path:polygon(1% 0,100% 1%,99% 99%,0 100%)}
+.hero-art img{width:100%;height:auto;display:block;border:2px solid var(--ink);background:#d9cdb8;clip-path:polygon(1% 0,100% 1%,99% 99%,0 100%)}
 .caption{font-family:'Courier New';font-size:.67rem;line-height:1.5;margin:10px 12px 0;text-transform:uppercase}.rule{border:0;border-top:1px solid var(--ink);margin:0}
 .intro{display:grid;grid-template-columns:130px 1fr;gap:32px;padding:38px 0 26px;align-items:start}.step-no{font-family:'Iowan Old Style','Palatino Linotype',Palatino;font-size:5rem;font-weight:900;color:var(--mustard);line-height:.8}
 .intro h2,.result h2{font-family:'Iowan Old Style','Palatino Linotype',Palatino;font-size:clamp(2rem,5vw,4.2rem);letter-spacing:-.045em;line-height:.98;margin:0 0 10px}.intro p{max-width:700px;line-height:1.7;margin:0}
