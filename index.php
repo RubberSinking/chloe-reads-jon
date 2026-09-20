@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="domestic-biographer.php">The Domestic Biographer</a> <span class="date">2026-09-20</span></div>
+            <div class="blurb">Choose six ordinary clues, from breakfast to bedside ritual, and let an illustrated Sunday-supplement desk write your miniature life-in-objects profile. Inspired by Jon's <a href="https://jona.ca/2008/06/way-we-live-now-domains-jonathan-aquino.html">The Way We Live Now: Domains: Jonathan Aquino</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="startup-symphony.php">Startup Symphony</a> <span class="date">2026-09-19</span></div>
             <div class="blurb">Build a lean startup rack from eight delightfully specific utilities, balance usefulness against boot time and collisions, then conduct the animated boot sequence. Inspired by Jon's <a href="https://jona.ca/2007/04/windows-useful-utilities-from-my.html">Useful utilities from my startup programs</a>.</div>
         </li>
