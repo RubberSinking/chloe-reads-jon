@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="contour-cartographer.php">Contour Cartographer</a> <span class="date">2026-09-21</span></div>
+            <div class="blurb">Trace five equal-elevation lines across an original painted landscape and watch a flat survey sheet rise into a mountain profile. Inspired by Jon's <a href="https://jona.ca/2004/11/more-serious-application-of-beanshell.html">post about digitizing contour layers</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="domestic-biographer.php">The Domestic Biographer</a> <span class="date">2026-09-20</span></div>
             <div class="blurb">Choose six ordinary clues, from breakfast to bedside ritual, and let an illustrated Sunday-supplement desk write your miniature life-in-objects profile. Inspired by Jon's <a href="https://jona.ca/2008/06/way-we-live-now-domains-jonathan-aquino.html">The Way We Live Now: Domains: Jonathan Aquino</a>.</div>
         </li>
