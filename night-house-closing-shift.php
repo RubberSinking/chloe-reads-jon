@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#101a32">
+<title>The Night House Closing Shift</title>
+<style>
+:root{--night:#101a32;--night2:#172747;--paper:#f3ead7;--ink:#202b38;--amber:#f6b84b;--coral:#e97155;--mint:#7ebca8;--line:rgba(243,234,215,.18)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--night);color:var(--paper);font-family:'Avenir Next','Century Gothic',sans-serif;min-height:100vh;overflow-x:hidden}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.16;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.25'/%3E%3C/svg%3E")}
+.stars{position:fixed;inset:0;pointer-events:none;background-image:radial-gradient(circle at 15% 18%,#fff 0 1px,transparent 1.5px),radial-gradient(circle at 74% 11%,#fff 0 1px,transparent 1.5px),radial-gradient(circle at 88% 36%,#fff 0 1px,transparent 1.5px),radial-gradient(circle at 45% 7%,#f6b84b 0 1px,transparent 1.5px);background-size:230px 190px,290px 220px,340px 270px,410px 330px;opacity:.3}
+.shell{width:min(1120px,100%);margin:auto;padding:28px clamp(18px,5vw,64px) 64px;position:relative}
+nav{display:flex;justify-content:space-between;align-items:center;margin-bottom:42px;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase}nav a{color:var(--paper);text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:3px}
+.status-dot{display:flex;align-items:center;gap:9px;color:#cbd2d9}.status-dot i{width:9px;height:9px;border-radius:50%;background:var(--coral);box-shadow:0 0 0 5px rgba(233,113,85,.15)}
+header{display:grid;grid-template-columns:1.1fr .9fr;gap:45px;align-items:end;margin-bottom:32px}.eyebrow{color:var(--amber);font-size:.77rem;font-weight:800;letter-spacing:.22em;text-transform:uppercase;margin-bottom:12px}
+h1{font-family:'Iowan Old Style','Palatino Linotype','Book Antiqua',serif;font-size:clamp(3.3rem,8vw,7.6rem);line-height:.82;letter-spacing:-.055em;margin:0;max-width:780px}h1 span{display:block;color:var(--amber);font-style:italic;margin-left:clamp(0px,7vw,86px)}
+.intro{max-width:370px;color:#cbd2d9;line-height:1.7;font-size:1.02rem;margin:0 0 8px}.intro strong{color:var(--paper)}
+.house-frame{position:relative;border:1px solid var(--line);border-radius:36px 36px 12px 12px;padding:9px;background:#0c1428;box-shadow:0 30px 90px rgba(0,0,0,.35);overflow:hidden}.house-frame img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:28px 28px 7px 7px;filter:saturate(.92) contrast(1.03)}
+.house-frame:after{content:"THE HOUSE IS STILL AWAKE";position:absolute;right:22px;bottom:18px;background:var(--paper);color:var(--ink);font-weight:800;font-size:.65rem;letter-spacing:.13em;padding:8px 11px;transform:rotate(-2deg);box-shadow:3px 4px 0 var(--coral)}
+.dashboard{display:grid;grid-template-columns:210px 1fr;gap:18px;margin-top:20px}.moon-meter{background:var(--paper);color:var(--ink);border-radius:18px;padding:20px;position:relative;overflow:hidden;min-height:205px}.moon-meter:before{content:"";position:absolute;width:120px;height:120px;border-radius:50%;background:var(--amber);right:-44px;top:-42px}
+.meter-label{font-size:.68rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#626970}.score{font-family:'Iowan Old Style','Palatino Linotype','Book Antiqua',serif;font-size:4rem;line-height:1;margin:25px 0 6px}.score small{font:800 .8rem 'Avenir Next','Century Gothic';color:#6f7780}.bar{height:7px;background:#d8d0bf;border-radius:10px;overflow:hidden;margin:18px 0 10px}.bar b{display:block;width:0;height:100%;background:var(--coral);transition:width .45s ease}.meter-copy{font-size:.78rem;line-height:1.45;color:#65707a}
+.rooms{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.room{position:relative;background:var(--night2);border:1px solid var(--line);border-radius:18px;padding:18px;min-height:205px;transition:transform .25s,border-color .25s}.room.active{border-color:var(--amber);transform:translateY(-4px)}.room.complete{background:#163b3c}
+.room-no{font-family:'Iowan Old Style','Palatino Linotype','Book Antiqua',serif;color:var(--amber);font-size:1.8rem;line-height:1}.room h2{font-family:'Iowan Old Style','Palatino Linotype','Book Antiqua',serif;font-size:1.4rem;margin:7px 0 3px}.room p{font-size:.75rem;color:#aeb8c6;margin:0 0 15px}
+.task{display:flex;align-items:center;gap:9px;width:100%;border:0;border-top:1px solid var(--line);background:none;color:var(--paper);padding:11px 2px;text-align:left;font:600 .8rem 'Avenir Next','Century Gothic';cursor:pointer;transition:color .2s}.task:before{content:"";width:15px;height:15px;border:1px solid #74809a;border-radius:50%;flex:none}.task:hover{color:var(--amber)}.task.done{text-decoration:line-through;color:#83928f}.task.done:before{background:var(--mint);border-color:var(--mint);box-shadow:inset 0 0 0 3px #163b3c}.task:disabled{cursor:not-allowed;opacity:.45}
+.room-stamp{position:absolute;right:12px;top:13px;color:var(--mint);font-weight:800;font-size:.62rem;letter-spacing:.11em;transform:rotate(6deg);opacity:0}.complete .room-stamp{opacity:1}
+.control-strip{margin-top:18px;display:flex;gap:12px;align-items:center;justify-content:space-between;border:1px solid var(--line);border-radius:16px;padding:13px 15px;background:rgba(0,0,0,.12)}.control-strip button{border:0;background:var(--coral);color:#fff;padding:12px 17px;border-radius:99px;font:800 .75rem 'Avenir Next','Century Gothic';letter-spacing:.06em;cursor:pointer;box-shadow:0 5px 0 #913e34;transition:transform .15s}.control-strip button:active{transform:translateY(4px);box-shadow:0 1px 0 #913e34}.whisper{font-family:'Iowan Old Style','Palatino Linotype','Book Antiqua',serif;font-style:italic;color:#b9c3d2;font-size:.95rem}
+.closing{display:none;margin-top:28px;background:var(--amber);color:var(--ink);border-radius:22px;padding:clamp(24px,5vw,48px);position:relative;overflow:hidden}.closing.show{display:grid;grid-template-columns:1fr auto;gap:25px;animation:rise .7s cubic-bezier(.2,.8,.2,1)}.closing h2{font:800 clamp(2.1rem,5vw,4.5rem)/.9 'Iowan Old Style','Palatino Linotype','Book Antiqua',serif;margin:0 0 13px}.closing p{max-width:580px;line-height:1.6;margin:0}.seal{width:120px;height:120px;border:2px solid var(--ink);border-radius:50%;display:grid;place-items:center;text-align:center;font-size:.7rem;font-weight:800;letter-spacing:.12em;transform:rotate(7deg)}
+footer{margin-top:46px;display:flex;justify-content:space-between;gap:20px;color:#8f9caf;font-size:.78rem;line-height:1.5}footer a{color:var(--amber)}
+.toast{position:fixed;left:50%;bottom:22px;transform:translate(-50%,120px);background:var(--paper);color:var(--ink);padding:12px 18px;border-radius:99px;font-size:.8rem;font-weight:800;z-index:5;box-shadow:0 12px 30px #0008;transition:transform .35s}.toast.show{transform:translate(-50%,0)}
+@keyframes rise{from{opacity:0;transform:translateY(30px) rotate(.5deg)}to{opacity:1;transform:none}}
+@media(max-width:800px){header{grid-template-columns:1fr;gap:20px}.intro{max-width:590px}.dashboard{grid-template-columns:1fr}.moon-meter{min-height:150px}.score{margin:17px 0 4px}.rooms{grid-template-columns:1fr}.room{min-height:0}.closing.show{grid-template-columns:1fr}.seal{width:95px;height:95px}footer{flex-direction:column}.house-frame:after{font-size:.52rem;right:14px;bottom:14px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="stars"></div>
+<main class="shell">
+<nav><a href="./">← Chloe Reads Jon</a><span class="status-dot"><i></i><span id="clock">Closing shift open</span></span></nav>
+<header><div><div class="eyebrow">A three-room evening ritual</div><h1>The Night House <span>Closing Shift</span></h1></div><p class="intro">Tomorrow starts quietly, the night before. Walk through Jon’s original three-part routine: <strong>restore the house, greet tomorrow, then return to yourself.</strong></p></header>
+<figure class="house-frame"><img src="night-house-closing-shift.webp" alt="Cut-paper house at blue hour, with a tidy kitchen, planning desk, and peaceful bedroom nook"></figure>
+<section class="dashboard" aria-label="Interactive closing shift">
+<aside class="moon-meter"><div class="meter-label">House readiness</div><div class="score"><span id="score">0</span><small>%</small></div><div class="bar"><b id="bar"></b></div><div class="meter-copy" id="meterCopy">Begin in the kitchen. One small action opens the next.</div></aside>
+<div class="rooms">
+<article class="room active" data-room="0"><span class="room-stamp">ROOM CLOSED ✓</span><div class="room-no">I</div><h2>Clear the decks</h2><p>Leave the house kinder than you found it.</p><button class="task">Clear one hot-spot</button><button class="task">Wash the lunchbox</button><button class="task">Set one thing in its home</button></article>
+<article class="room" data-room="1"><span class="room-stamp">ROOM CLOSED ✓</span><div class="room-no">II</div><h2>Meet tomorrow</h2><p>Nothing elaborate. Just remove the surprises.</p><button class="task" disabled>Scan yesterday → tomorrow</button><button class="task" disabled>Choose tomorrow’s first move</button><button class="task" disabled>Charge one useful tool</button></article>
+<article class="room" data-room="2"><span class="room-stamp">ROOM CLOSED ✓</span><div class="room-no">III</div><h2>Come home to yourself</h2><p>Body, spirit, and a little mercy.</p><button class="task" disabled>Make a small merienda</button><button class="task" disabled>Read one line of Scripture</button><button class="task" disabled>Pray one decade, slowly</button></article>
+</div></section>
+<div class="control-strip"><span class="whisper" id="whisper">“First, close the loops you can touch.”</span><button id="reset">Reopen house</button></div>
+<section class="closing" id="closing"><div><h2>The house can sleep now.</h2><p>You did not conquer tomorrow. You simply made it easier to meet. The kitchen is quiet, the first move is waiting, and the day has ended somewhere deeper than a screen.</p></div><div class="seal">NIGHT<br>SHIFT<br>CLOSED</div></section>
+<footer><span>Built as a small interactive ritual, not a productivity contest.</span><span>Inspired by Jon’s <a href="https://jona.ca/2004/11/bro-heres-my-before-bed-routine-if-you.html">Before Bed Routine</a>.</span></footer>
+</main><div class="toast" role="status" aria-live="polite" id="toast"></div>
+<script>
+const rooms=[...document.querySelectorAll('.room')],tasks=[...document.querySelectorAll('.task')];
+const phrases=['“First, close the loops you can touch.”','“Tomorrow only needs a doorway, not a full map.”','“The last room is not a chore. It is a return.”'];
+const notices=['One surface exhales.','Lunchbox ready for another adventure.','A loose thing has landed.','Tomorrow has edges now.','The morning knows where to begin.','A small machine dreams in electrons.','A modest feast counts.','One good sentence is enough.','No need to hurry what is holy.'];
+function toast(msg){const el=document.getElementById('toast');el.textContent=msg;el.classList.add('show');clearTimeout(window.toastTimer);window.toastTimer=setTimeout(()=>el.classList.remove('show'),1900)}
+function update(){const done=tasks.filter(t=>t.classList.contains('done')).length,pct=Math.round(done/tasks.length*100);document.getElementById('score').textContent=pct;document.getElementById('bar').style.width=pct+'%';
+rooms.forEach((room,i)=>{const rt=[...room.querySelectorAll('.task')],complete=rt.every(t=>t.classList.contains('done'));room.classList.toggle('complete',complete);room.classList.toggle('active',!complete&&(i===0||rooms[i-1].classList.contains('complete')));if(i>0){const open=rooms[i-1].classList.contains('complete');rt.forEach(t=>t.disabled=!open)}});
+const active=rooms.findIndex(r=>r.classList.contains('active'));document.getElementById('whisper').textContent=phrases[Math.max(0,active)];
+const copy=['Begin in the kitchen. One small action opens the next.','Good. The room is becoming lighter.','The first room is nearly quiet.','The first room is closed. Look briefly toward morning.','Halfway between today and tomorrow.','The practical loops are nearly quiet.','Now the gentlest room.','Almost there. No sprinting.','One last bead of light.','Everything necessary is enough.'][done];document.getElementById('meterCopy').textContent=copy;
+if(done===9){document.getElementById('closing').classList.add('show');document.getElementById('clock').textContent='House at rest';setTimeout(()=>document.getElementById('closing').scrollIntoView({behavior:'smooth',block:'center'}),250)}}
+tasks.forEach((task,i)=>task.addEventListener('click',()=>{if(task.disabled)return;task.classList.toggle('done');toast(task.classList.contains('done')?notices[i]:'Loop reopened.');update()}));
+document.getElementById('reset').addEventListener('click',()=>{tasks.forEach(t=>t.classList.remove('done'));document.getElementById('closing').classList.remove('show');document.getElementById('clock').textContent='Closing shift open';update();window.scrollTo({top:0,behavior:'smooth'});toast('The house is open again.')});update();
+</script>
+</body>
+</html>

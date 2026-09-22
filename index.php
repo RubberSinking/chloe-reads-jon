@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="night-house-closing-shift.php">The Night House Closing Shift</a> <span class="date">2026-09-22</span></div>
+            <div class="blurb">Close the evening through three moonlit rooms, restoring the house, greeting tomorrow, and returning gently to yourself as an original cut-paper home settles into sleep. Inspired by Jon's <a href="https://jona.ca/2004/11/bro-heres-my-before-bed-routine-if-you.html">Before Bed Routine</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="contour-cartographer.php">Contour Cartographer</a> <span class="date">2026-09-21</span></div>
             <div class="blurb">Trace five equal-elevation lines across an original painted landscape and watch a flat survey sheet rise into a mountain profile. Inspired by Jon's <a href="https://jona.ca/2004/11/more-serious-application-of-beanshell.html">post about digitizing contour layers</a>.</div>
         </li>
@@ -398,7 +402,8 @@
             <div class="entry-title"><a href="jubilate-deo-chorus.php">Jubilate Deo Chorus</a> <span class="date">2026-06-29</span></div>
             <div class="blurb">A stained-glass chant playground where you echo melodic contours by ear, then generate a tiny procession card for real-life moments. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2010/10/jubilate-deo-pdf-of-minimum-repertoire.html">Jubilate Deo: PDF of Minimum Repertoire of Gregorian Chant</a>.</div>
         </li>
-        <li>
+
+[367 more lines in file. Use offset=401 to continue.]        <li>
             <div class="entry-title"><a href="sleep-orbit-arcade.php">Sleep Orbit Arcade</a> <span class="date">2026-06-28</span></div>
             <div class="blurb">A midnight flight-school playground where you tune bedtime, wake time, and wind-down rituals, then watch tomorrow's learning, mood, and mistake shield rise or wobble. Inspired by Jon's <a href="https://jona.ca/2004/11/good-sleep-good-learning-good-life.html">Good sleep, good learning, good life</a>.</div>
         </li>
