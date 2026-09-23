@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="fold-sever-bureau.php">The Fold &amp; Sever Bureau</a> <span class="date">2026-09-23</span></div>
+            <div class="blurb">Fold a confidential sheet, choose one strategic cut, split the fragments between waste streams, and watch the reconstruction burden rise inside a playful mid-century privacy lab. Inspired by Jon's <a href="https://jona.ca/2011/12/how-to-shred-document-by-hand.html">How to shred a document by hand</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="night-house-closing-shift.php">The Night House Closing Shift</a> <span class="date">2026-09-22</span></div>
             <div class="blurb">Close the evening through three moonlit rooms, restoring the house, greeting tomorrow, and returning gently to yourself as an original cut-paper home settles into sleep. Inspired by Jon's <a href="https://jona.ca/2004/11/bro-heres-my-before-bed-routine-if-you.html">Before Bed Routine</a>.</div>
         </li>
