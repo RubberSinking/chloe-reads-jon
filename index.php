@@ -103,6 +103,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="hundred-year-echo.php">The Hundred-Year Echo</a> <span class="date">2026-09-24</span></div>
+            <div class="blurb">Sort six ordinary activities onto four shelves of time, watch an original future-archive illustration regain its colour, and seal one good thing into a note for 2126. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/01/rhythm-of-life-by-matthew-kelly.html">The Rhythm of Life by Matthew Kelly</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="fold-sever-bureau.php">The Fold &amp; Sever Bureau</a> <span class="date">2026-09-23</span></div>
             <div class="blurb">Fold a confidential sheet, choose one strategic cut, split the fragments between waste streams, and watch the reconstruction burden rise inside a playful mid-century privacy lab. Inspired by Jon's <a href="https://jona.ca/2011/12/how-to-shred-document-by-hand.html">How to shred a document by hand</a>.</div>
         </li>
@@ -198,7 +202,8 @@
             <div class="entry-title"><a href="three-cloud-relay.php">The Three-Cloud Relay</a> <span class="date">2026-08-31</span></div>
             <div class="blurb">Route one Markdown note through a pocket editor, iCloud, a Mac bridge, and Google Drive in five increasingly devious sync puzzles, without spawning a single conflict copy. Inspired by Jon's <a href="https://jona.ca/2025/05/how-to-edit-markdown-files-on-google.html">How to edit markdown files on Google Drive on iOS and Mac</a>.</div>
         </li>
-        <li>
+
+[576 more lines in file. Use offset=201 to continue.]        <li>
             <div class="entry-title"><a href="domestic-regret-portal.php">The Domestic Regret Portal</a> <span class="date">2026-08-30</span></div>
             <div class="blurb">Send ten suspiciously ordinary purchases through a glowing household time portal, separate Jon’s real catalogue bargains from decoys, and repair the receipt continuum. Inspired by Jon's <a href="https://jona.ca/2024/10/things-i-bought-that-i-wish-i-knew-i.html">Things I bought that I wish I knew I could have gotten at Ikea for cheaper</a>.</div>
         </li>
@@ -398,7 +403,8 @@
             <div class="entry-title"><a href="shortcut-speedway.php">Shortcut Speedway</a> <span class="date">2026-07-01</span></div>
             <div class="blurb">A glossy command-key arcade where you build Mac shortcut combos, chase streaks, and send a tiny desktop racer down the lane. Inspired by Jon's <a href="https://jona.ca/2004/07/os-x-keyboard-shortcuts.html">OS X Keyboard shortcuts</a>.</div>
         </li>
-        <li>
+
+[376 more lines in file. Use offset=401 to continue.]        <li>
             <div class="entry-title"><a href="sunday-refill-studio.php">Sunday Refill Studio</a> <span class="date">2026-06-30</span></div>
             <div class="blurb">A warm Sunday ritual builder where you tune your physical, emotional, intellectual, and spiritual weather, then shuffle a balanced little refill plan. Inspired by Jon's <a href="https://jona.ca/2009/10/recharging-on-sunday-physical-emotional.html">Recharging on Sunday: Physical, emotional, intellectual, spiritual</a>.</div>
         </li>
@@ -598,7 +604,8 @@
         </li>
         <li>
             <div class="entry-title"><a href="memory-diet-studio.php">Memory Diet Studio</a> <span class="date">2026-05-06</span></div>
-            <div class="blurb">A glossy interactive desk tuner where you assemble a five-app setup, watch its RAM footprint and focus scores change live, and see whether your stack becomes a featherweight monk or a glorious RAM goblin. Inspired by Jon's <a href="https://jona.ca/2025/08/switching-to-lighter-aps.html">Switching to lighter apps (and cool things about the Orion browser)</a>.</div>
+
+[176 more lines in file. Use offset=601 to continue.]            <div class="blurb">A glossy interactive desk tuner where you assemble a five-app setup, watch its RAM footprint and focus scores change live, and see whether your stack becomes a featherweight monk or a glorious RAM goblin. Inspired by Jon's <a href="https://jona.ca/2025/08/switching-to-lighter-aps.html">Switching to lighter apps (and cool things about the Orion browser)</a>.</div>
         </li>
         <li>
             <div class="entry-title"><a href="jerusalem-bible-scriptorium.php">Jerusalem Bible Scriptorium</a> <span class="date">2026-05-05</span></div>
