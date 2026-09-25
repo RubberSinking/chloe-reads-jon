@@ -37,8 +37,7 @@
             color: #0066cc;
             text-decoration: none;
             display: inline-flex;
-            align-items: center;
-            gap: 4px;
+            align-items: center;            gap: 4px;
         }
         .meta-links a:hover { text-decoration: underline; }
         .divider {
@@ -77,8 +76,7 @@
             line-height: 1.55;
         }
         .blurb a { color: #0066cc; text-decoration: none; }
-        .blurb a:hover { text-decoration: underline; }
-        footer {
+        .blurb a:hover { text-decoration: underline; }        footer {
             margin-top: 48px;
             font-size: 0.8em;
             color: #aaa;
@@ -103,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="wordweight-weighhouse.php">The Wordweight Weighhouse</a> <span class="date">2026-09-25</span></div>
+            <div class="blurb">Pile the Bible, Summa, and Catechism onto a brass word-count balance, then dial in your own reading pace to see their lengths as evenings. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/02/relative-lengths-of-bible-summa-and.html">Relative lengths of the Bible, the Summa, and the Catechism</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hundred-year-echo.php">The Hundred-Year Echo</a> <span class="date">2026-09-24</span></div>
             <div class="blurb">Sort six ordinary activities onto four shelves of time, watch an original future-archive illustration regain its colour, and seal one good thing into a note for 2126. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/01/rhythm-of-life-by-matthew-kelly.html">The Rhythm of Life by Matthew Kelly</a>.</div>
         </li>
@@ -117,8 +119,7 @@
         <li>
             <div class="entry-title"><a href="contour-cartographer.php">Contour Cartographer</a> <span class="date">2026-09-21</span></div>
             <div class="blurb">Trace five equal-elevation lines across an original painted landscape and watch a flat survey sheet rise into a mountain profile. Inspired by Jon's <a href="https://jona.ca/2004/11/more-serious-application-of-beanshell.html">post about digitizing contour layers</a>.</div>
-        </li>
-        <li>
+        </li>        <li>
             <div class="entry-title"><a href="domestic-biographer.php">The Domestic Biographer</a> <span class="date">2026-09-20</span></div>
             <div class="blurb">Choose six ordinary clues, from breakfast to bedside ritual, and let an illustrated Sunday-supplement desk write your miniature life-in-objects profile. Inspired by Jon's <a href="https://jona.ca/2008/06/way-we-live-now-domains-jonathan-aquino.html">The Way We Live Now: Domains: Jonathan Aquino</a>.</div>
         </li>
@@ -157,8 +158,7 @@
         <li>
             <div class="entry-title"><a href="little-rule-workshop.php">The Little Rule Workshop</a> <span class="date">2026-09-11</span></div>
             <div class="blurb">Fasten five tiny prayer practices to the ordinary hooks in a real day, then stress-test your rhythm against spilled cereal, surprise phone calls, and twelve-percent batteries. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2024/12/faith-meets-innovation-using-ai-for.html">Faith Meets Innovation: Using AI for Spiritual Direction</a>.</div>
-        </li>
-        <li>
+        </li>        <li>
             <div class="entry-title"><a href="orange-sign-society.php">The Orange Sign Society</a> <span class="date">2026-09-10</span></div>
             <div class="blurb">Paint a gloriously oversized meetup sign, export it as a poster, deal genuinely good conversation starters, and keep a tiny coffee-cup attendance ledger. Inspired by Jon's <a href="https://jona.ca/2005/02/ok-i-have-posted-photo-for-victoria.html">OK I have posted a photo for the Victoria Webloggers</a>.</div>
         </li>
@@ -197,8 +197,7 @@
         <li>
             <div class="entry-title"><a href="mac-merit-trials.php">The Three Merit Trials</a> <span class="date">2026-09-01</span></div>
             <div class="blurb">Put a good computer through three tactile tests: catch a cyan wake signal, assemble Unix command pipelines, and tune a composition until its parts stop arguing. Inspired by Jon's <a href="https://jona.ca/2010/05/3-reasons-i-like-mac.html">3 Reasons I Like The Mac</a>.</div>
-        </li>
-        <li>
+        </li>        <li>
             <div class="entry-title"><a href="three-cloud-relay.php">The Three-Cloud Relay</a> <span class="date">2026-08-31</span></div>
             <div class="blurb">Route one Markdown note through a pocket editor, iCloud, a Mac bridge, and Google Drive in five increasingly devious sync puzzles, without spawning a single conflict copy. Inspired by Jon's <a href="https://jona.ca/2025/05/how-to-edit-markdown-files-on-google.html">How to edit markdown files on Google Drive on iOS and Mac</a>.</div>
         </li>
@@ -237,8 +236,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="gentle-interrupter.php">The Gentle Interrupter</a> <span class="date">2026-08-22</span></div>
-            <div class="blurb">Type through a live flow-aware break experiment that quietly watches for a natural pause, protects your train of thought, and only then opens a restorative breathing break. Inspired by Jon's <a href="https://jona.ca/2007/01/software-im-trying-out-darkroom-and.html">Software I'm trying out: DarkRoom and RSIGuard</a>.</div>
-        </li>
+            <div class="blurb">Type through a live flow-aware break experiment that quietly watches for a natural pause, protects your train of thought, and only then opens a restorative breathing break. Inspired by Jon's <a href="https://jona.ca/2007/01/software-im-trying-out-darkroom-and.html">Software I'm trying out: DarkRoom and RSIGuard</a>.</div>        </li>
         <li>
             <div class="entry-title"><a href="council-of-influences.php">The Council of Influences</a> <span class="date">2026-08-21</span></div>
             <div class="blurb">Seat any three of Jon's formative influences around a real question, compare their distinct idea-lenses, and leave with one practical common thread. Inspired by Jon's <a href="https://jona.ca/2020/03/favourite-authors-and-influences.html">Favourite authors and influences</a>.</div>
@@ -277,8 +275,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="walled-garden-rescue.php">Walled Garden Rescue</a> <span class="date">2026-08-12</span></div>
-            <div class="blurb">Rescue six useful little contributions from a fading platform, choosing whether each belongs on an owned blog, in an open conversation, or in a private note while balancing reach and human trust. Inspired by Jon's <a href="https://jona.ca/2005/04/blog-is-social-network.html">The Blog Is The Social Network</a>.</div>
-        </li>
+            <div class="blurb">Rescue six useful little contributions from a fading platform, choosing whether each belongs on an owned blog, in an open conversation, or in a private note while balancing reach and human trust. Inspired by Jon's <a href="https://jona.ca/2005/04/blog-is-social-network.html">The Blog Is The Social Network</a>.</div>        </li>
         <li>
             <div class="entry-title"><a href="equivalence-cartographer.php">Equivalence Cartographer</a> <span class="date">2026-08-11</span></div>
             <div class="blurb">Pair an existing feature’s implementation trail with its new sibling, catch a plausible false positive, then scan your own code for missing twins. Inspired by Jon's <a href="https://jona.ca/2014/05/programming-by-equivalence.html">Programming by Equivalence</a>.</div>
@@ -317,8 +314,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="commit-message-press.php">The Commit Message Press</a> <span class="date">2026-08-02</span></div>
-            <div class="blurb">A tactile letterpress workshop that turns a hurried code change into a durable summary, problem, solution, and side-effects record, complete with a live context gauge and copy-ready proof sheet. Inspired by Jon's <a href="https://jona.ca/2014/02/how-i-am-writing-commit-messages-now.html">How I am writing commit messages now</a>.</div>
-        </li>
+            <div class="blurb">A tactile letterpress workshop that turns a hurried code change into a durable summary, problem, solution, and side-effects record, complete with a live context gauge and copy-ready proof sheet. Inspired by Jon's <a href="https://jona.ca/2014/02/how-i-am-writing-commit-messages-now.html">How I am writing commit messages now</a>.</div>        </li>
         <li>
             <div class="entry-title"><a href="pop3-post-office.php">The POP3 Post Office</a> <span class="date">2026-08-01</span></div>
             <div class="blurb">A tactile 2004 mailroom where you crank through a real POP3 conversation, watch each protocol step come alive, then sort six animated letters on a mechanical conveyor. Inspired by Jon's <a href="https://jona.ca/2004/11/gmail-offers-free-pops-cnet-newscom.html">Gmail offers free POPs | CNET News.com</a>.</div>
@@ -357,8 +353,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="recall-room.php">The Recall Room</a> <span class="date">2026-07-23</span></div>
-            <div class="blurb">A 2006 desktop-search detective game where you hunt through a tiny digital attic of mail, notes, files, photos, and web clippings to solve three half-remembered mysteries. Inspired by Jon's <a href="https://jona.ca/2006/11/trying-out-x1-desktop-search-windows.html">Trying out X1 desktop search (Windows)</a>.</div>
-        </li>
+            <div class="blurb">A 2006 desktop-search detective game where you hunt through a tiny digital attic of mail, notes, files, photos, and web clippings to solve three half-remembered mysteries. Inspired by Jon's <a href="https://jona.ca/2006/11/trying-out-x1-desktop-search-windows.html">Trying out X1 desktop search (Windows)</a>.</div>        </li>
         <li>
             <div class="entry-title"><a href="threshold-test-lab.php">Threshold Test Lab</a> <span class="date">2026-07-22</span></div>
             <div class="blurb">A cheerful domestic-engineering bureau where you configure a baby gate, run five household stress tests, and discover whether safety and everyday sanity can share a doorway. Inspired by Jon's <a href="https://jona.ca/2017/01/pressure-mounted-baby-gate-comparison.html">Pressure-mounted baby gate comparison</a>.</div>
@@ -397,8 +392,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="white-horse-quest.php">White Horse Quest</a> <span class="date">2026-07-02</span></div>
-            <div class="blurb">A manuscript-styled listening quest where you chart an eight-canto route through Chesterton's poem, forge a heraldic banner, and build a tiny pre-battle ritual. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/07/audio-for-chestertons-ballad-of-white.html">Audio for Chesterton's Ballad of the White Horse</a>.</div>
-        </li>
+            <div class="blurb">A manuscript-styled listening quest where you chart an eight-canto route through Chesterton's poem, forge a heraldic banner, and build a tiny pre-battle ritual. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/07/audio-for-chestertons-ballad-of-white.html">Audio for Chesterton's Ballad of the White Horse</a>.</div>        </li>
         <li>
             <div class="entry-title"><a href="shortcut-speedway.php">Shortcut Speedway</a> <span class="date">2026-07-01</span></div>
             <div class="blurb">A glossy command-key arcade where you build Mac shortcut combos, chase streaks, and send a tiny desktop racer down the lane. Inspired by Jon's <a href="https://jona.ca/2004/07/os-x-keyboard-shortcuts.html">OS X Keyboard shortcuts</a>.</div>
@@ -437,8 +431,7 @@
         <li>
             <div class="entry-title"><a href="jersey-stripe-room-studio.php">Jersey Stripe Room Studio</a> <span class="date">2026-06-23</span></div>
             <div class="blurb">A stylish little room-design sandbox where you turn beloved stripe palettes into bold bedroom mockups, then tune the chaos until it becomes charm. Inspired by Jon's <a href="https://jona.ca/2005/11/lifehack-sports-jersey-stripes-as.html">Lifehack: Sports Jersey Stripes as Paint Design for Room</a>.</div>
-        </li>
-        <li>
+        </li>        <li>
             <div class="entry-title"><a href="consolation-constellation.php">Consolation Constellation</a> <span class="date">2026-06-22</span></div>
             <div class="blurb">A midnight observatory where gratitude and drain become stars, gravity wells, and live pattern clues for the week ahead. Inspired by Jon's <a href="https://jona.ca/2012/10/two-life-changing-questions-to-ask.html">Two life-changing questions to ask yourself each day</a>.</div>
         </li>
@@ -477,8 +470,7 @@
         <li>
             <div class="entry-title"><a href="seven-shuffle-saloon.php">Seven Shuffle Saloon</a> <span class="date">2026-06-13</span></div>
             <div class="blurb">A polished riffle-shuffle playground where you mix one deck, two decks, or a full casino shoe, track a chosen card, and watch disorder slowly win. Inspired by Jon's <a href="https://jona.ca/2010/09/to-ensure-that-deck-of-cards-is.html">To ensure that a deck of cards is sufficiently shuffled...</a>.</div>
-        </li>
-        <li>
+        </li>        <li>
             <div class="entry-title"><a href="nav-glance-rally.php">Nav Glance Rally</a> <span class="date">2026-06-12</span></div>
             <div class="blurb">A sleek night-drive dashboard game where you memorize big, high-contrast GPS cues at a glance and see how much worse life gets in clutter mode. Inspired by Jon's <a href="https://jona.ca/2014/10/apple-maps-gps-is-way-better-than.html">Apple Maps GPS is way better than Google Maps GPS</a>.</div>
         </li>
@@ -519,7 +511,6 @@
         </li>
 
 
-
         <li>
             <div class="entry-title"><a href="perfectionism-loop-lab.php">Perfectionism Loop Lab</a> <span class="date">2026-05-24</span></div>
             <div class="blurb">A tactile little dashboard where you feel the "one more tweak" loop, then break it by shipping with courage and peace. Inspired by Jon's <a href="https://jona.ca/2013/11/perfectionism-is-like-addiction.html">Perfectionism is like addiction</a>.</div>
@@ -557,8 +548,7 @@
         <li>
             <div class="entry-title"><a href="comic-batch-director.php">Comic Batch Director</a> <span class="date">2026-05-18</span></div>
             <div class="blurb">A pulpy planning desk for turning any favourite book into a 30-page comic, complete with story beats, batch prompts, palette shifts, and a Nathan Mode button for extra treasure-map energy. Inspired by Jon's <a href="https://jona.ca/2026/05/making-ai-comic-adaptations-of-famous.html">Making AI comic adaptations of famous books</a>.</div>
-        </li>
-        <li>
+        </li>        <li>
             <div class="entry-title"><a href="brick-bargain-radar.php">Brick Bargain Radar</a> <span class="date">2026-05-17</span></div>
             <div class="blurb">A playful brick-value lab where you sweep a price-vs-piece-count chart, flip on Nathan Mode, and settle toy-budget debates with graphs, filters, and a cheeky bargain duel. Inspired by Jon's <a href="https://jona.ca/2020/11/lego-city-piece-count-vs-price.html">Lego City piece count vs price</a>.</div>
         </li>
@@ -597,8 +587,7 @@
         <li>
             <div class="entry-title"><a href="soy-sauce-rescue-lab.php">Soy Sauce Rescue Lab</a> <span class="date">2026-05-08</span></div>
             <div class="blurb">A lacquer-dark kitchen puzzle where you rebalance two saucers of soy sauce and vinegar, experiment with pours and top-ups, and watch Mila's elegant three-move fix animate itself. Inspired by Jon's <a href="https://jona.ca/2013/04/so-this-is-something-that-happened-to.html">Soy Sauce Puzzle</a>.</div>
-        </li>
-        <li>
+        </li>        <li>
             <div class="entry-title"><a href="chess-brilliancy-theater.php">Chess Brilliancy Theater</a> <span class="date">2026-05-07</span></div>
             <div class="blurb">A velvet-curtain replay room for Bobby Fischer's Game of the Century where you step through the attack, feel the drama rise, and test whether you would have spotted the famous queen sacrifice. Inspired by Jon's <a href="https://jona.ca/2011/01/on-chess.html">On Chess</a>.</div>
         </li>
@@ -637,8 +626,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="five-minute-journal.php">5-Minute Journal</a> <span class="date">2026-04-25</span></div>
-            <div class="blurb">A warm, paper-textured gratitude journal with morning and evening pages, daily affirmations, a weekly challenge spinner, streak tracking, confetti celebrations, and a browsable history with export. Inspired by Jon's <a href="https://jona.ca/2016/07/5-minute-journal.html">5-Minute Journal</a> post, where he discovered the guided pen-and-paper journal that asks the same questions each day to help build a lasting habit.</div>
-        </li>
+            <div class="blurb">A warm, paper-textured gratitude journal with morning and evening pages, daily affirmations, a weekly challenge spinner, streak tracking, confetti celebrations, and a browsable history with export. Inspired by Jon's <a href="https://jona.ca/2016/07/5-minute-journal.html">5-Minute Journal</a> post, where he discovered the guided pen-and-paper journal that asks the same questions each day to help build a lasting habit.</div>        </li>
         <li>
             <div class="entry-title"><a href="mass-gesture-lab.php">Mass Gesture Lab</a> <span class="date">2026-04-23</span></div>
             <div class="blurb">An interactive three-mode lab for learning the gestures and postures of the Catholic Mass: browse eleven gesture cards (Sign of the Cross, genuflection, bow, kneel, orans, and more), test yourself with a 10-question quiz, or walk through them one by one in Practice mode. Each gesture ties a physical action to its sacred moment in the liturgy. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/03/gestures-and-postures-of-congregation.html">Gestures and Postures of the Congregation at Mass</a> post on Cool Tools for Catholics, where he noted the gestures he wants to start doing better — like bowing at the name of Jesus in the Gloria and making the profound bow at the Creed.</div>
@@ -677,8 +665,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="mandelbrot-explorer.php">Mandelbrot Explorer</a> <span class="date">2026-04-15</span></div>
-            <div class="blurb">A deep-space fractal voyage through the Mandelbrot set and Julia sets: click to zoom in, right-click to zoom out, drag to pan, and switch between six colour schemes. Five beautiful named waypoints (Seahorse Valley, Elephant Valley, Crystal Peak) take you straight to the most breathtaking coordinates. Inspired by Jon's <a href="https://jona.ca/2011/03/video-of-zooming-in-on-mandelbrot-set.html">Mandelbrot set post</a>, where he meditated on Plato's insight that mathematical truth exists outside of time and space.</div>
-        </li>
+            <div class="blurb">A deep-space fractal voyage through the Mandelbrot set and Julia sets: click to zoom in, right-click to zoom out, drag to pan, and switch between six colour schemes. Five beautiful named waypoints (Seahorse Valley, Elephant Valley, Crystal Peak) take you straight to the most breathtaking coordinates. Inspired by Jon's <a href="https://jona.ca/2011/03/video-of-zooming-in-on-mandelbrot-set.html">Mandelbrot set post</a>, where he meditated on Plato's insight that mathematical truth exists outside of time and space.</div>        </li>
         <li>
             <div class="entry-title"><a href="decide-o-matic.php">The Daily Decide-O-Matic</a> <span class="date">2026-04-15</span></div>
             <div class="blurb">A dramatic spinning wheel that helps you decide between up to 8 options using cosmic randomness. Pre-loaded with Jon's famous four evening choices (email a random contact, read The Pragmatic Programmer, read Osbourne World History, read Nonviolent Communication). Add your own options, spin, and trust the cosmos. Saves your choices and spin history to localStorage. Inspired by Jon's <a href="https://jona.ca/2005/05/emailing-random-contact-plus-webapp.html">randomization system</a> post, where he used shuffled lists to overcome decision paralysis.</div>
@@ -717,8 +704,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="grit-scale-quiz.php">Grit Scale Quiz</a> <span class="date">2026-04-10</span></div>
-            <div class="blurb">A 10-question interactive quiz based on Angela Duckworth's research on grit — the combination of passion and perseverance. Answer honestly about setbacks, focus, and long-term goals to get your grit score and a personalised breakdown. Warm earth tones and encouraging copy. Inspired by Jon's <a href="https://jona.ca/2015/02/my-grit-score.html">"My Grit Score"</a> post, where he shared his own result and reflected on what grit means for parenting and work.</div>
-        </li>
+            <div class="blurb">A 10-question interactive quiz based on Angela Duckworth's research on grit — the combination of passion and perseverance. Answer honestly about setbacks, focus, and long-term goals to get your grit score and a personalised breakdown. Warm earth tones and encouraging copy. Inspired by Jon's <a href="https://jona.ca/2015/02/my-grit-score.html">"My Grit Score"</a> post, where he shared his own result and reflected on what grit means for parenting and work.</div>        </li>
         <li>
             <div class="entry-title"><a href="four-temperaments-quiz.php">Four Temperaments Quiz</a> <span class="date">2026-04-10</span></div>
             <div class="blurb">A classical temperament quiz based on the four humours — Choleric, Melancholic, Phlegmatic, and Sanguine. Ten situational questions reveal your dominant humour with beautiful Renaissance-style illustrations and historical context. Inspired by Jon's <a href="https://jona.ca/2015/02/my-temperament.html">"My Temperament"</a> post, where he discovered he is Phlegmatic-Melancholic — steady, reflective, and detail-oriented.</div>
@@ -757,8 +743,7 @@
         </li>
         <li>
             <div class="entry-title"><a href="capilano-challenge.php">Capilano Bridge Challenge</a> <span class="date">2026-04-02</span></div>
-            <div class="blurb">A virtual walk across the Capilano Suspension Bridge with vertigo-inducing sway physics, bird sounds, and a trivia quiz about Vancouver landmarks. Can you make it to the other side without looking down? Inspired by Jon's <a href="https://jona.ca/2015/07/capilano-suspension-bridge.html">"Capilano Suspension Bridge"</a> post, where he reflected on the vertigo and wonder of crossing that famous Vancouver landmark.</div>
-        </li>
+            <div class="blurb">A virtual walk across the Capilano Suspension Bridge with vertigo-inducing sway physics, bird sounds, and a trivia quiz about Vancouver landmarks. Can you make it to the other side without looking down? Inspired by Jon's <a href="https://jona.ca/2015/07/capilano-suspension-bridge.html">"Capilano Suspension Bridge"</a> post, where he reflected on the vertigo and wonder of crossing that famous Vancouver landmark.</div>        </li>
         <li>
             <div class="entry-title"><a href="browser-session-lab.php">Browser Session Lab</a> <span class="date">2026-04-01</span></div>
             <div class="blurb">An interactive exploration of browser session storage, localStorage, and cookies — with visual diagrams, live demos, and a playground where you can set and retrieve values across tabs. Inspired by Jon's <a href="https://jona.ca/2015/07/browser-session-management.html">"Browser Session Management"</a> post, where he broke down the differences between session storage mechanisms.</div>
