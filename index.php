@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="little-bridge.php">The Little Bridge</a> <span class="date">2026-09-26</span></div>
+            <div class="blurb">A tiny neighbourhood kindness experiment: stretch a pretend $35 and one hour across four everyday needs, then see the ripples of each choice. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2004/12/modest-needs.html">Modest Needs</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="wordweight-weighhouse.php">The Wordweight Weighhouse</a> <span class="date">2026-09-25</span></div>
             <div class="blurb">Pile the Bible, Summa, and Catechism onto a brass word-count balance, then dial in your own reading pace to see their lengths as evenings. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/02/relative-lengths-of-bible-summa-and.html">Relative lengths of the Bible, the Summa, and the Catechism</a>.</div>
         </li>
