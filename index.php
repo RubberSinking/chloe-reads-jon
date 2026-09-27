@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="unhelpful-manual-bureau.php">The Unhelpful Manual Bureau</a> <span class="date">2026-09-27</span></div>
+            <div class="blurb">Decode five delightfully baffling operating manuals for impossible appliances, with hints, verdict stamps, and a final Bureau rank. Inspired by Jon's <a href="https://jona.ca/2004/09/hall-of-technical-documentation.html">Hall of Technical Documentation Weirdness</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="little-bridge.php">The Little Bridge</a> <span class="date">2026-09-26</span></div>
             <div class="blurb">A tiny neighbourhood kindness experiment: stretch a pretend $35 and one hour across four everyday needs, then see the ripples of each choice. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2004/12/modest-needs.html">Modest Needs</a>.</div>
         </li>
@@ -468,8 +472,7 @@
             <div class="blurb">A retro Macintosh drawing playground where you sketch in black and white, flood-fill shapes with classic dither patterns, and toy with the kind of graphics tricks that made early Macs feel like magic. Inspired by Jon's <a href="https://jona.ca/2014/04/studying-quickdraw-source-code.html">Studying the QuickDraw source code</a>.</div>
         </li>
         <li>
-            <div class="entry-title"><a href="stained-glass-symbol-hunt.php">Stained Glass Symbol Hunt</a> <span class="date">2026-06-14</span></div>
-            <div class="blurb">A jewel-toned Christian-art decoder where you identify classic symbols, then build your own tiny stained-glass crest. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/05/signs-and-symbols-in-christian-art.html">Signs and Symbols in Christian Art</a>.</div>
+            <div class="entry-title"><a href="stained-glass-symbol-hunt.php">Stained Glass Symbol Hunt</a> <span class="date">2026-06-14</span></div>            <div class="blurb">A jewel-toned Christian-art decoder where you identify classic symbols, then build your own tiny stained-glass crest. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/05/signs-and-symbols-in-christian-art.html">Signs and Symbols in Christian Art</a>.</div>
         </li>
         <li>
             <div class="entry-title"><a href="seven-shuffle-saloon.php">Seven Shuffle Saloon</a> <span class="date">2026-06-13</span></div>
