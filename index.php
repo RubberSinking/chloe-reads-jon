@@ -101,6 +101,14 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="two-good-things.php">Two Good Things</a> <span class="date">2026-09-28</span></div>
+            <div class="blurb">A family-sized preference tournament: put weekend adventures or your own ideas head-to-head, then watch an Elo-ranked league table emerge. Inspired by Jon's <a href="https://jona.ca/2013/06/elo-preference-ranker.html">Elo Preference Ranker</a>.</div>
+        </li>
+        <li>
+            <div class="entry-title"><a href="split-the-method.php">Split the Method</a> <span class="date">2026-09-28</span></div>
+            <div class="blurb">Untangle three double-duty functions by routing eighteen lines into their proper responsibilities, with live circuits and test feedback. Inspired by Jon's <a href="https://jona.ca/2016/01/code-smell-schizophrenic-method.html">Code smell: Schizophrenic method</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="unhelpful-manual-bureau.php">The Unhelpful Manual Bureau</a> <span class="date">2026-09-27</span></div>
             <div class="blurb">Decode five delightfully baffling operating manuals for impossible appliances, with hints, verdict stamps, and a final Bureau rank. Inspired by Jon's <a href="https://jona.ca/2004/09/hall-of-technical-documentation.html">Hall of Technical Documentation Weirdness</a>.</div>
         </li>
