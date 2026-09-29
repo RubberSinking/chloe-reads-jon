@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="five-nights-one-saint.php">Five Nights, One Saint</a> <span class="date">2026-09-29</span></div>
+            <div class="blurb">A five-night bedtime listening companion for Jon and Nathan: choose St. Damien or St. Louis IX, collect stars, and save one-line reflections privately in your browser. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2025/12/the-saints-podcast.html">The Saints Podcast</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="two-good-things.php">Two Good Things</a> <span class="date">2026-09-28</span></div>
             <div class="blurb">A family-sized preference tournament: put weekend adventures or your own ideas head-to-head, then watch an Elo-ranked league table emerge. Inspired by Jon's <a href="https://jona.ca/2013/06/elo-preference-ranker.html">Elo Preference Ranker</a>.</div>
         </li>
