@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="sentence-observatory.php">The Sentence Observatory</a> <span class="date">2026-10-01</span></div>
+            <div class="blurb">Follow four illuminated orbits through a knotty theological sentence, then break apart and privately save one difficult sentence of your own. Inspired by Jon's <a href="https://jona.ca/2015/05/hard-sentences-in-introduction-to.html">Hard sentences in “Introduction to Christianity”</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="stamp-safari.php">Stamp Safari</a> <span class="date">2026-09-30</span></div>
             <div class="blurb">A storybook stamp hunt for Jon and Nathan: solve five picture clues, make joyful noises, and save the decorated meadow as a postcard. Inspired by Jon's <a href="https://jona.ca/2006/02/tuxpaint-too-much-fun.html">TuxPaint -- too much fun</a>.</div>
         </li>
