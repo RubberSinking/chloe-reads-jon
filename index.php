@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="reel-rescue-bench.php">Reel Rescue Bench</a> <span class="date">2026-10-02</span></div>
+            <div class="blurb">Drag a before-and-after Super 8 transfer, dial back scratches and fading on an original film still, then estimate the footage, runtime, and example transfer cost hiding in a shoebox of reels. Inspired by Jon's <a href="https://jona.ca/2016/01/super8dvd-price-comparison-surrey-bc.html">Super8⇒DVD Price Comparison, Surrey BC area</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="sentence-observatory.php">The Sentence Observatory</a> <span class="date">2026-10-01</span></div>
             <div class="blurb">Follow four illuminated orbits through a knotty theological sentence, then break apart and privately save one difficult sentence of your own. Inspired by Jon's <a href="https://jona.ca/2015/05/hard-sentences-in-introduction-to.html">Hard sentences in “Introduction to Christianity”</a>.</div>
         </li>
