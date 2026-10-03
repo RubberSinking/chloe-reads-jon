@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="otherworld-reading-room.php">The Otherworld Reading Room</a> <span class="date">2026-10-03</span></div>
+            <div class="blurb">File nine mysterious objects into three imagined worlds by discovering what each culture values, then write a sentence from a world of your own. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/04/science-fictionfantasy-authors-of.html">Science Fiction/Fantasy Authors of Various Faiths</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="reel-rescue-bench.php">Reel Rescue Bench</a> <span class="date">2026-10-02</span></div>
             <div class="blurb">Drag a before-and-after Super 8 transfer, dial back scratches and fading on an original film still, then estimate the footage, runtime, and example transfer cost hiding in a shoebox of reels. Inspired by Jon's <a href="https://jona.ca/2016/01/super8dvd-price-comparison-surrey-bc.html">Super8⇒DVD Price Comparison, Surrey BC area</a>.</div>
         </li>
