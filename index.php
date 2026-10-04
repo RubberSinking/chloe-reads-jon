@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="combination-conservatory.php">The Combination Conservatory</a> <span class="date">2026-10-04</span></div>
+            <div class="blurb">Grow cryptographically random passwords in a brass-and-botany vault, explore their enormous search spaces, and try four score-free randomness challenges. Inspired by Jon's <a href="https://jona.ca/2006/04/open-source-password-managers.html">Open-source password managers</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="otherworld-reading-room.php">The Otherworld Reading Room</a> <span class="date">2026-10-03</span></div>
             <div class="blurb">File nine mysterious objects into three imagined worlds by discovering what each culture values, then write a sentence from a world of your own. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2005/04/science-fictionfantasy-authors-of.html">Science Fiction/Fantasy Authors of Various Faiths</a>.</div>
         </li>
