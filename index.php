@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="hestra-staple-works.php">Hestra Staple Works</a> <span class="date">2026-10-05</span></div>
+            <div class="blurb">Run six paper jobs through a vintage Swedish stapler: load the right legs, square the stack, and deliver a satisfying thunk. Inspired by Jon's <a href="https://jona.ca/2008/06/perfect-stapler.html">The Perfect Stapler</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="combination-conservatory.php">The Combination Conservatory</a> <span class="date">2026-10-04</span></div>
             <div class="blurb">Grow cryptographically random passwords in a brass-and-botany vault, explore their enormous search spaces, and try four score-free randomness challenges. Inspired by Jon's <a href="https://jona.ca/2006/04/open-source-password-managers.html">Open-source password managers</a>.</div>
         </li>
