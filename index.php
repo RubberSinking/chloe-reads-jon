@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="folded-library.php">The Folded Library</a> <span class="date">2026-10-06</span></div>
+            <div class="blurb">Solve five hands-on booklet page-order puzzles, then plan a real pocket book with automatic blank pages and a printable sheet map. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/07/caritas-in-veritate-in-booklet-form.html">Caritas in Veritate in booklet form</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="hestra-staple-works.php">Hestra Staple Works</a> <span class="date">2026-10-05</span></div>
             <div class="blurb">Run six paper jobs through a vintage Swedish stapler: load the right legs, square the stack, and deliver a satisfying thunk. Inspired by Jon's <a href="https://jona.ca/2008/06/perfect-stapler.html">The Perfect Stapler</a>.</div>
         </li>
