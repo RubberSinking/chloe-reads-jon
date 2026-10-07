@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="parenthesis-submarine.php">The Parenthesis Submarine</a> <span class="date">2026-10-07</span></div>
+            <div class="blurb">Salvage six bracket-broken sea messages, trace their hidden depths over an original painted ocean, and test your own nested voyages against a real recursive PHP regex. Inspired by Jon's <a href="https://jona.ca/2007/12/php-regular-expressions-recursion-named.html">PHP Regular Expressions: Recursion, Named Capture</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="folded-library.php">The Folded Library</a> <span class="date">2026-10-06</span></div>
             <div class="blurb">Solve five hands-on booklet page-order puzzles, then plan a real pocket book with automatic blank pages and a printable sheet map. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/07/caritas-in-veritate-in-booklet-form.html">Caritas in Veritate in booklet form</a>.</div>
         </li>
