@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="kangaroo-kindness-club.php">Kangaroo’s Kindness Club</a> <span class="date">2026-10-09</span></div>
+            <div class="blurb">Keep a cheeky kangaroo aloft by guessing human-needs vocabulary, then load your own words and clues for a family challenge. Inspired by Jon's <a href="https://jona.ca/2006/10/customizable-word-game-for-building.html">Customizable word game for building a domain-specific vocabulary</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="signal-orchard.php">Signal Orchard</a> <span class="date">2026-10-08</span></div>
             <div class="blurb">Gather fictional RSS stories through an original illustrated orange grove, spot repeats with changed headlines, and discover when identical titles hide different stories. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/06/best-catholic-rss-feed-new-advent.html">Best Catholic RSS Feed: New Advent</a>.</div>
         </li>
