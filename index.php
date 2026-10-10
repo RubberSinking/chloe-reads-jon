@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="breakfast-synchronizer.php">The Breakfast Synchronizer</a> <span class="date">2026-10-10</span></div>
+            <div class="blurb">Bring toast, eggs, and melted cheese to the table together in three cosy, score-free kitchen timing puzzles. Inspired by Jon's <a href="https://jona.ca/2004/08/another-of-moms-wonderful-breakfasts.html">post about another of his mom’s wonderful breakfasts</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="kangaroo-kindness-club.php">Kangaroo’s Kindness Club</a> <span class="date">2026-10-09</span></div>
             <div class="blurb">Keep a cheeky kangaroo aloft by guessing human-needs vocabulary, then load your own words and clues for a family challenge. Inspired by Jon's <a href="https://jona.ca/2006/10/customizable-word-game-for-building.html">Customizable word game for building a domain-specific vocabulary</a>.</div>
         </li>
