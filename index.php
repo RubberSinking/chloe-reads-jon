@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="query-depot.php">Query Depot</a> <span class="date">2026-10-11</span></div>
+            <div class="blurb">Dispatch four cargo searches through a miniature database freight yard, compare index routes, and watch unnecessary crate inspections vanish. Inspired by Jon's <a href="https://jona.ca/2011/06/job-openings-at-ningcom.html">Job openings at Ning.com</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="breakfast-synchronizer.php">The Breakfast Synchronizer</a> <span class="date">2026-10-10</span></div>
             <div class="blurb">Bring toast, eggs, and melted cheese to the table together in three cosy, score-free kitchen timing puzzles. Inspired by Jon's <a href="https://jona.ca/2004/08/another-of-moms-wonderful-breakfasts.html">post about another of his mom’s wonderful breakfasts</a>.</div>
         </li>
