@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="mendel-pea-parlour.php">Mendel’s Pea Parlour</a> <span class="date">2026-10-12</span></div>
+            <div class="blurb">Predict flower colours, cross pea plants, and inspect their hidden gene copies in an illustrated Victorian seed lab, then watch small harvests challenge the textbook ratios. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/10/catholic-thinkers-in-science.html">Catholic thinkers in science</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="query-depot.php">Query Depot</a> <span class="date">2026-10-11</span></div>
             <div class="blurb">Dispatch four cargo searches through a miniature database freight yard, compare index routes, and watch unnecessary crate inspections vanish. Inspired by Jon's <a href="https://jona.ca/2011/06/job-openings-at-ningcom.html">Job openings at Ning.com</a>.</div>
         </li>
