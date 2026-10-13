@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="inbox-time-machine.php">Inbox Time Machine</a> <span class="date">2026-10-13</span></div>
+            <div class="blurb">Rescue a rocket-club invitation from four Outlook 2007 compatibility traps, switching between browser and legacy previews as each repair lands. Inspired by Jon's <a href="https://jona.ca/2011/03/outlook-html-email-online-validator.html">Outlook HTML Email Online Validator</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="mendel-pea-parlour.php">Mendel’s Pea Parlour</a> <span class="date">2026-10-12</span></div>
             <div class="blurb">Predict flower colours, cross pea plants, and inspect their hidden gene copies in an illustrated Victorian seed lab, then watch small harvests challenge the textbook ratios. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2009/10/catholic-thinkers-in-science.html">Catholic thinkers in science</a>.</div>
         </li>
