@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="letterspace-sign-shop.php">Letterspace Sign Shop</a> <span class="date">2026-10-14</span></div>
+            <div class="blurb">Balance five hand-lettered shop signs one letter pair at a time, with apprentice tracing, a gently opinionated foreman, and an original painted workshop. Inspired by Jon's <a href="https://jona.ca/2004/09/letterhead-fonts-rare-and-unique.html">Letterhead Fonts: Rare and Unique Typefaces for Artists</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="inbox-time-machine.php">Inbox Time Machine</a> <span class="date">2026-10-13</span></div>
             <div class="blurb">Rescue a rocket-club invitation from four Outlook 2007 compatibility traps, switching between browser and legacy previews as each repair lands. Inspired by Jon's <a href="https://jona.ca/2011/03/outlook-html-email-online-validator.html">Outlook HTML Email Online Validator</a>.</div>
         </li>
