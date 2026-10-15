@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="pocket-moon-foundry.php">Pocket Moon Foundry</a> <span class="date">2026-10-15</span></div>
+            <div class="blurb">Mint an imaginary lunar atlas with repeatable crater surveys, mineral tints, encroaching night, five peculiar landing sites, and a self-contained downloadable print. Inspired by Jon's <a href="https://jona.ca/2006/03/free-place-to-host-php-scripts-ning.html">Free place to host PHP scripts: Ning</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="letterspace-sign-shop.php">Letterspace Sign Shop</a> <span class="date">2026-10-14</span></div>
             <div class="blurb">Balance five hand-lettered shop signs one letter pair at a time, with apprentice tracing, a gently opinionated foreman, and an original painted workshop. Inspired by Jon's <a href="https://jona.ca/2004/09/letterhead-fonts-rare-and-unique.html">Letterhead Fonts: Rare and Unique Typefaces for Artists</a>.</div>
         </li>
