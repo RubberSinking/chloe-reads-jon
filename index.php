@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="papal-postroom.php">The Papal Postroom</a> <span class="date">2026-10-16</span></div>
+            <div class="blurb">Open eight fictional letters on an illustrated Vatican sorting desk and route everyday questions to sixteen John Paul II documents, with gentle hints and a reference drawer. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/07/significant-john-paul-ii-documents.html">Significant John Paul II Documents</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="pocket-moon-foundry.php">Pocket Moon Foundry</a> <span class="date">2026-10-15</span></div>
             <div class="blurb">Mint an imaginary lunar atlas with repeatable crater surveys, mineral tints, encroaching night, five peculiar landing sites, and a self-contained downloadable print. Inspired by Jon's <a href="https://jona.ca/2006/03/free-place-to-host-php-scripts-ning.html">Free place to host PHP scripts: Ning</a>.</div>
         </li>
