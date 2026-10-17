@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="beyond-the-postcard.php">Beyond the Postcard</a> <span class="date">2026-10-17</span></div>
+            <div class="blurb">Explore five details in an original painted window, follow a shift from heavenly scenery to communion with God, and take home a personal text keepsake. Inspired by Jon's <a href="https://jona.ca/2013/06/on-heaven.html">On Heaven</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="papal-postroom.php">The Papal Postroom</a> <span class="date">2026-10-16</span></div>
             <div class="blurb">Open eight fictional letters on an illustrated Vatican sorting desk and route everyday questions to sixteen John Paul II documents, with gentle hints and a reference drawer. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2008/07/significant-john-paul-ii-documents.html">Significant John Paul II Documents</a>.</div>
         </li>
