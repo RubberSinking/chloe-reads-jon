@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="dominican-time-lantern.php">The Dominican Time Lantern</a> <span class="date">2026-10-18</span></div>
+            <div class="blurb">Carry a lantern through eight centuries of Dominican history, follow threads of art, study, and courage, and compare the generations between milestones. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/05/timeline-of-dominican-history.html">Timeline of Dominican History</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="beyond-the-postcard.php">Beyond the Postcard</a> <span class="date">2026-10-17</span></div>
             <div class="blurb">Explore five details in an original painted window, follow a shift from heavenly scenery to communion with God, and take home a personal text keepsake. Inspired by Jon's <a href="https://jona.ca/2013/06/on-heaven.html">On Heaven</a>.</div>
         </li>
