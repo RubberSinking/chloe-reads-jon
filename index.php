@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="still-a-universe.php">Still, a Universe</a> <span class="date">2026-10-19</span></div>
+            <div class="blurb">Set five everyday resources aside, discover which possibilities remain, and explore a small inner world of memory, imagination, prayer, and simply being. Inspired by Jon's <a href="https://jona.ca/2009/09/single-irreducible-purpose-of-existence.html">Single Irreducible Purpose of Existence</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="dominican-time-lantern.php">The Dominican Time Lantern</a> <span class="date">2026-10-18</span></div>
             <div class="blurb">Carry a lantern through eight centuries of Dominican history, follow threads of art, study, and courage, and compare the generations between milestones. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/05/timeline-of-dominican-history.html">Timeline of Dominican History</a>.</div>
         </li>
