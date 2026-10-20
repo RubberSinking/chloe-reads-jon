@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="memory-lifeboat.php">Memory Lifeboat</a> <span class="date">2026-10-20</span></div>
+            <div class="blurb">Give three illustrated photo albums a fighting chance against tea spills, theft, mistaken deletions, and cloud outages in a nine-credit backup survival game. Inspired by Jon's <a href="https://jona.ca/2014/12/photo-storage-strategy.html">Photo Storage Strategy</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="still-a-universe.php">Still, a Universe</a> <span class="date">2026-10-19</span></div>
             <div class="blurb">Set five everyday resources aside, discover which possibilities remain, and explore a small inner world of memory, imagination, prayer, and simply being. Inspired by Jon's <a href="https://jona.ca/2009/09/single-irreducible-purpose-of-existence.html">Single Irreducible Purpose of Existence</a>.</div>
         </li>
