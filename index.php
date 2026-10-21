@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="let-sleeping-pugs-lie.php">Let Sleeping Pugs Lie</a> <span class="date">2026-10-21</span></div>
+            <div class="blurb">Fetch a blanket through three creaky-room stealth puzzles, timing your steps to a pug’s snores while its illustrated expression tracks your every squeak. Inspired by Jon's <a href="https://jona.ca/2010/09/cute-pic-of-day-sleepy-pug.html">Cute pic of the day: Sleepy pug</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="memory-lifeboat.php">Memory Lifeboat</a> <span class="date">2026-10-20</span></div>
             <div class="blurb">Give three illustrated photo albums a fighting chance against tea spills, theft, mistaken deletions, and cloud outages in a nine-credit backup survival game. Inspired by Jon's <a href="https://jona.ca/2014/12/photo-storage-strategy.html">Photo Storage Strategy</a>.</div>
         </li>
