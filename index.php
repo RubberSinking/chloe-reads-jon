@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="beneath-the-estimate.php">Beneath the Estimate</a> <span class="date">2026-10-22</span></div>
+            <div class="blurb">Dive through an illustrated iceberg to uncover hidden work in three playful scope expeditions, then write a prose-first estimate with live effort ranges and a downloadable field note. Inspired by Jon's <a href="https://jona.ca/2010/04/literate-estimation.html">Literate Estimation</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="let-sleeping-pugs-lie.php">Let Sleeping Pugs Lie</a> <span class="date">2026-10-21</span></div>
             <div class="blurb">Fetch a blanket through three creaky-room stealth puzzles, timing your steps to a pug’s snores while its illustrated expression tracks your every squeak. Inspired by Jon's <a href="https://jona.ca/2010/09/cute-pic-of-day-sleepy-pug.html">Cute pic of the day: Sleepy pug</a>.</div>
         </li>
