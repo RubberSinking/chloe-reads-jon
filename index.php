@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="cat-supper-club.php">Cat Supper Club</a> <span class="date">2026-10-23</span></div>
+            <div class="blurb">Seat four opinionated cats through five cosy deduction puzzles, with gentle hints, a dinner bell, and an original illustrated cast. Inspired by Jon's <a href="https://jona.ca/2004/11/jons-nightly-cat-feeding-ritual.html">Jon’s nightly cat-feeding ritual</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="beneath-the-estimate.php">Beneath the Estimate</a> <span class="date">2026-10-22</span></div>
             <div class="blurb">Dive through an illustrated iceberg to uncover hidden work in three playful scope expeditions, then write a prose-first estimate with live effort ranges and a downloadable field note. Inspired by Jon's <a href="https://jona.ca/2010/04/literate-estimation.html">Literate Estimation</a>.</div>
         </li>
