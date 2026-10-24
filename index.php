@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="sole-studio.php">Sole Studio</a> <span class="date">2026-10-24</span></div>
+            <div class="blurb">Design an imaginary sneaker panel by panel, borrow three original painted colour studies, and export a one-of-one design card. Inspired by Jon's <a href="https://jona.ca/2004/07/design-your-own-nike-shoe.html">Design your own Nike shoe</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="cat-supper-club.php">Cat Supper Club</a> <span class="date">2026-10-23</span></div>
             <div class="blurb">Seat four opinionated cats through five cosy deduction puzzles, with gentle hints, a dinner bell, and an original illustrated cast. Inspired by Jon's <a href="https://jona.ca/2004/11/jons-nightly-cat-feeding-ritual.html">Jon’s nightly cat-feeding ritual</a>.</div>
         </li>
