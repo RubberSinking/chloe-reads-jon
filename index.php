@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="tiny-trend-detective.php">The Tiny Trend Detective</a> <span class="date">2026-10-25</span></div>
+            <div class="blurb">Solve six miniature chart mysteries at an illustrated detective desk, catch a misleading scale, and sketch a six-point sparkline to save as an SVG. Inspired by Jon's <a href="https://jona.ca/2005/03/i-love-sparklines-on-this-page.html">note about sparklines</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="sole-studio.php">Sole Studio</a> <span class="date">2026-10-24</span></div>
             <div class="blurb">Design an imaginary sneaker panel by panel, borrow three original painted colour studies, and export a one-of-one design card. Inspired by Jon's <a href="https://jona.ca/2004/07/design-your-own-nike-shoe.html">Design your own Nike shoe</a>.</div>
         </li>
