@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="great-flush-works.php">The Great Flush Works</a> <span class="date">2026-10-26</span></div>
+            <div class="blurb">Rotate brass fittings through five pipe-routing puzzles, follow the blue water to its porcelain destination, and earn a gloriously unnecessary plumbing title. Inspired by Jon's <a href="https://jona.ca/2010/04/how-to-choose-toilet.html">Choosing a toilet</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="tiny-trend-detective.php">The Tiny Trend Detective</a> <span class="date">2026-10-25</span></div>
             <div class="blurb">Solve six miniature chart mysteries at an illustrated detective desk, catch a misleading scale, and sketch a six-point sparkline to save as an SVG. Inspired by Jon's <a href="https://jona.ca/2005/03/i-love-sparklines-on-this-page.html">note about sparklines</a>.</div>
         </li>
