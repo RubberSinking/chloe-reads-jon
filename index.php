@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="midnight-malt-counter.php">The Midnight Malt Counter</a> <span class="date">2026-10-27</span></div>
+            <div class="blurb">Reconstruct five secret six-scoop drinks from customers' clues at a cosy late-night counter, then invent a house blend and save its tasting card. Inspired by Jon's <a href="https://jona.ca/2010/10/horlicks-drink.html">Horlicks drink</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="great-flush-works.php">The Great Flush Works</a> <span class="date">2026-10-26</span></div>
             <div class="blurb">Rotate brass fittings through five pipe-routing puzzles, follow the blue water to its porcelain destination, and earn a gloriously unnecessary plumbing title. Inspired by Jon's <a href="https://jona.ca/2010/04/how-to-choose-toilet.html">Choosing a toilet</a>.</div>
         </li>
