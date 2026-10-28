@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="nine-squares-one-smile.php">Nine Squares, One Smile</a> <span class="date">2026-10-28</span></div>
+            <div class="blurb">Turn an original fox print into miniature posters with nine editable squares, bold shapes, creative briefs, and a downloadable print. Inspired by Jon's <a href="https://jona.ca/2008/12/my-creative-bro-designer-dave-aquino.html">My creative bro: designer Dave Aquino</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="midnight-malt-counter.php">The Midnight Malt Counter</a> <span class="date">2026-10-27</span></div>
             <div class="blurb">Reconstruct five secret six-scoop drinks from customers' clues at a cosy late-night counter, then invent a house blend and save its tasting card. Inspired by Jon's <a href="https://jona.ca/2010/10/horlicks-drink.html">Horlicks drink</a>.</div>
         </li>
