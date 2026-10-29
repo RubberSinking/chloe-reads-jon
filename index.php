@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="tiny-waterworks.php">The Tiny Waterworks</a> <span class="date">2026-10-29</span></div>
+            <div class="blurb">Warm a miniature molecular playground from ice to vapour, tug whole water molecules around, and solve four kettle-sized chemistry mysteries. Inspired by Jon's <a href="https://jona.ca/2004/04/excellent-graphic-showing-difference.html">note on covalent and hydrogen bonding</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="nine-squares-one-smile.php">Nine Squares, One Smile</a> <span class="date">2026-10-28</span></div>
             <div class="blurb">Turn an original fox print into miniature posters with nine editable squares, bold shapes, creative briefs, and a downloadable print. Inspired by Jon's <a href="https://jona.ca/2008/12/my-creative-bro-designer-dave-aquino.html">My creative bro: designer Dave Aquino</a>.</div>
         </li>
