@@ -101,6 +101,11 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="welcome-desk.php">The Welcome Desk</a> <span class="date">2026-10-30</span></div>
+            <div class="blurb">Redesign a tiny railway station's welcome desk, then follow four fictional passengers through your interface. Can everyone board without wrong windows or retyping? Inspired by Jon's <a href="https://jona.ca/2005/03/example-of-excellent-usability.html">An Example of Excellent Usability: Wikipedia's &quot;Create Account / Log In&quot; Page</a>.</div>
+        </li>
+
+        <li>
             <div class="entry-title"><a href="tiny-waterworks.php">The Tiny Waterworks</a> <span class="date">2026-10-29</span></div>
             <div class="blurb">Warm a miniature molecular playground from ice to vapour, tug whole water molecules around, and solve four kettle-sized chemistry mysteries. Inspired by Jon's <a href="https://jona.ca/2004/04/excellent-graphic-showing-difference.html">note on covalent and hydrogen bonding</a>.</div>
         </li>
