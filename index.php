@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="seawall-keep-up.php">Seawall Keep-Up Club</a> <span class="date">2026-10-31</span></div>
+            <div class="blurb">Keep a little footbag airborne in an original illustrated seaside park, switch feet for tricks, and catch hoops at your own pace. Inspired by Jon's <a href="https://jona.ca/2004/04/ideas-for-stuff-to-do-when-my-brother.html">ideas for things to do when his brother visits</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="welcome-desk.php">The Welcome Desk</a> <span class="date">2026-10-30</span></div>
             <div class="blurb">Redesign a tiny railway station's welcome desk, then follow four fictional passengers through your interface. Can everyone board without wrong windows or retyping? Inspired by Jon's <a href="https://jona.ca/2005/03/example-of-excellent-usability.html">An Example of Excellent Usability: Wikipedia's &quot;Create Account / Log In&quot; Page</a>.</div>
         </li>
