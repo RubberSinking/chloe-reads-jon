@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="dot-by-dot-atelier.php">Dot by Dot Atelier</a> <span class="date">2026-11-02</span></div>
+            <div class="blurb">Turn an original still life into thousands of pigment dots, paint your own marks, and step back to watch the colours gather into a picture. Inspired by Jon's <a href="https://jona.ca/2009/05/two-books-that-im-excited-about-reading.html">Two books that I'm excited about reading: A Little History of the World, and The Story of Art</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="big-rig-balance-yard.php">Big Rig Balance Yard</a> <span class="date">2026-11-01</span></div>
             <div class="blurb">Load an oversized pickup through five cargo-balancing puzzles, watch the axle scales respond, and earn your dispatch stamps without squashing the fern. Inspired by Jon's <a href="https://jona.ca/2004/09/international-7300-cxt.html">International 7300 CXT</a> post.</div>
         </li>
