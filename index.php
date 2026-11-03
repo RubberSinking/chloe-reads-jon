@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="cashflow-harbour.php">Cashflow Harbour</a> <span class="date">2026-11-03</span></div>
+            <div class="blurb">Sail through sixty days of paydays and bills, shift their timing, and find the low tide hiding inside an ordinary month at an original painted waterfront. Inspired by Jon's <a href="https://jona.ca/2006/12/cashflowrb.html">cashflow.rb</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="dot-by-dot-atelier.php">Dot by Dot Atelier</a> <span class="date">2026-11-02</span></div>
             <div class="blurb">Turn an original still life into thousands of pigment dots, paint your own marks, and step back to watch the colours gather into a picture. Inspired by Jon's <a href="https://jona.ca/2009/05/two-books-that-im-excited-about-reading.html">Two books that I'm excited about reading: A Little History of the World, and The Story of Art</a>.</div>
         </li>
