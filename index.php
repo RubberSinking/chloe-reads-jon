@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="rooftop-courier.php">Rooftop Courier</a> <span class="date">2026-11-04</span></div>
+            <div class="blurb">Carry five letters across a miniature rooftop city, place scarce stone blocks to make staircases, and find your way to the highest house. Inspired by Jon's <a href="https://jona.ca/2004/09/boardgamegeek-collection-for-greg.html">BoardgameGeek Collection for Greg Schloesser</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="cashflow-harbour.php">Cashflow Harbour</a> <span class="date">2026-11-03</span></div>
             <div class="blurb">Sail through sixty days of paydays and bills, shift their timing, and find the low tide hiding inside an ordinary month at an original painted waterfront. Inspired by Jon's <a href="https://jona.ca/2006/12/cashflowrb.html">cashflow.rb</a>.</div>
         </li>
