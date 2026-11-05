@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="ogden-frame-club.php">Ogden Point Frame Club</a> <span class="date">2026-11-05</span></div>
+            <div class="blurb">Borrow a seaside viewfinder, reframe an original Ogden Point scene through four photography challenges, and collect your best shots on a downloadable contact sheet. Inspired by Jon's <a href="https://jona.ca/2004/07/ji-hwan-giving-me-some-photography.html">note about photography tips at Ogden Point</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="rooftop-courier.php">Rooftop Courier</a> <span class="date">2026-11-04</span></div>
             <div class="blurb">Carry five letters across a miniature rooftop city, place scarce stone blocks to make staircases, and find your way to the highest house. Inspired by Jon's <a href="https://jona.ca/2004/09/boardgamegeek-collection-for-greg.html">BoardgameGeek Collection for Greg Schloesser</a>.</div>
         </li>
