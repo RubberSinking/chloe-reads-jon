@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="scripture-genre-detective.php">Between the Lines</a> <span class="date">2026-11-07</span></div>
+            <div class="blurb">Play Scripture genre detective with twelve short passages, original illustrated clues, and reading notes that help poetry, parables, letters, and visions speak in their own voices. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/08/couple-of-pages-from-catholic.html">A couple of pages from A Catholic Commentary on Holy Scripture</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="ogden-frame-club.php">Ogden Point Frame Club</a> <span class="date">2026-11-05</span></div>
             <div class="blurb">Borrow a seaside viewfinder, reframe an original Ogden Point scene through four photography challenges, and collect your best shots on a downloadable contact sheet. Inspired by Jon's <a href="https://jona.ca/2004/07/ji-hwan-giving-me-some-photography.html">note about photography tips at Ogden Point</a>.</div>
         </li>
