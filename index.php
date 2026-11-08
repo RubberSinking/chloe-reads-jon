@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="mercy-parcel.php">Mercy Parcel</a> <span class="date">2026-11-08</span></div>
+            <div class="blurb">Fit every donation into a tiny parcel in three friendly packing puzzles, with rotating pieces, undo, and a hint when things get snug. Inspired by Jon's <a href="https://jona.ca/2015/02/dont-just-make-something-rather-make.html">Don't just &quot;make something&quot;. Rather, &quot;make good&quot;.</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="scripture-genre-detective.php">Between the Lines</a> <span class="date">2026-11-07</span></div>
             <div class="blurb">Play Scripture genre detective with twelve short passages, original illustrated clues, and reading notes that help poetry, parables, letters, and visions speak in their own voices. Inspired by Jon's <a href="https://cooltoolsforcatholics.blogspot.com/2011/08/couple-of-pages-from-catholic.html">A couple of pages from A Catholic Commentary on Holy Scripture</a>.</div>
         </li>
