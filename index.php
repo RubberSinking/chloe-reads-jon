@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="driveway-detail.php">Driveway Detail</a> <span class="date">2026-11-09</span></div>
+            <div class="blurb">Wash, rinse, and towel-dry an illustrated hatchback, pick its tire shine, then admire the before-and-after or save a keepsake. Inspired by Jon's <a href="https://jona.ca/2004/08/daves-proud-of-his-civic.html">post about Dave being proud of his Civic</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="mercy-parcel.php">Mercy Parcel</a> <span class="date">2026-11-08</span></div>
             <div class="blurb">Fit every donation into a tiny parcel in three friendly packing puzzles, with rotating pieces, undo, and a hint when things get snug. Inspired by Jon's <a href="https://jona.ca/2015/02/dont-just-make-something-rather-make.html">Don't just &quot;make something&quot;. Rather, &quot;make good&quot;.</a>.</div>
         </li>
