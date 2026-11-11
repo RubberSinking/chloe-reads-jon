@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="two-pane-treasure-run.php">Two-Pane Treasure Run</a> <span class="date">2026-11-11</span></div>
+            <div class="blurb">Follow visual clues through a fictional two-pane file browser, inspect six miniature discoveries, and pack three perfect dispatches without falling for the wrong-version trap. Inspired by Jon's <a href="https://jona.ca/2007/03/alternative-windows-file-explorer.html">An alternative Windows file explorer: 2xExplorer</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="last-light-logoff.php">Last Light Logoff</a> <span class="date">2026-11-10</span></div>
             <div class="blurb">Send a tiny felt computer office home through three gentle shutdown puzzles: save the work, untangle waiting programs, and release the handles that refuse to leave. Inspired by Jon's <a href="https://jona.ca/2006/10/speeding-up-windows-xp-shutdown.html">Speeding up Windows XP shutdown</a>.</div>
         </li>
