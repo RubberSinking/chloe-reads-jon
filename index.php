@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="street-level-stories.php">Street-Level Stories</a> <span class="date">2026-11-12</span></div>
+            <div class="blurb">Piece together an extraordinary afternoon from three ordinary witnesses, put five moments in order, and choose who deserves your front-page headline. Inspired by Jon's <a href="https://jona.ca/2004/10/marvels-by-busiek-ross-just-finished.html">note about finishing Marvels</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="two-pane-treasure-run.php">Two-Pane Treasure Run</a> <span class="date">2026-11-11</span></div>
             <div class="blurb">Follow visual clues through a fictional two-pane file browser, inspect six miniature discoveries, and pack three perfect dispatches without falling for the wrong-version trap. Inspired by Jon's <a href="https://jona.ca/2007/03/alternative-windows-file-explorer.html">An alternative Windows file explorer: 2xExplorer</a>.</div>
         </li>
