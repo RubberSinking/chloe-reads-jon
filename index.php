@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="pixel-proof.php">Pixel Proof</a> <span class="date">2026-11-13</span></div>
+            <div class="blurb">Rescue three print-shop exports by balancing image detail, compression, and safe margins, then slide between the original and your proof or save your favourite version. Inspired by Jon's <a href="https://jona.ca/2004/05/word-to-pdf-notes.html">Word-to-PDF notes</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="street-level-stories.php">Street-Level Stories</a> <span class="date">2026-11-12</span></div>
             <div class="blurb">Piece together an extraordinary afternoon from three ordinary witnesses, put five moments in order, and choose who deserves your front-page headline. Inspired by Jon's <a href="https://jona.ca/2004/10/marvels-by-busiek-ross-just-finished.html">note about finishing Marvels</a>.</div>
         </li>
