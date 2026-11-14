@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="glassmouse-glide.php">GlassMouse Glide</a> <span class="date">2026-11-14</span></div>
+            <div class="blurb">Nudge a transparent CD-case mouse through three slippery docking puzzles, with undo, shortest-route hints, and a friendly challenge for Jon and Nathan. Inspired by Jon's <a href="https://jona.ca/2007/03/glassmouse-do-it-yourself-paper-thin.html">GlassMouse: the do-it-yourself paper-thin mouse</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="pixel-proof.php">Pixel Proof</a> <span class="date">2026-11-13</span></div>
             <div class="blurb">Rescue three print-shop exports by balancing image detail, compression, and safe margins, then slide between the original and your proof or save your favourite version. Inspired by Jon's <a href="https://jona.ca/2004/05/word-to-pdf-notes.html">Word-to-PDF notes</a>.</div>
         </li>
