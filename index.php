@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="coverage-critters.php">Coverage Critters</a> <span class="date">2026-11-15</span></div>
+            <div class="blurb">Help a fox and a suspicious raccoon test a parcel depot, light up every sorting route, and catch a bug hiding behind perfect coverage. Inspired by Jon's <a href="https://jona.ca/2004/09/emma-free-java-code-coverage-tool.html">EMMA: a free Java code coverage tool</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="glassmouse-glide.php">GlassMouse Glide</a> <span class="date">2026-11-14</span></div>
             <div class="blurb">Nudge a transparent CD-case mouse through three slippery docking puzzles, with undo, shortest-route hints, and a friendly challenge for Jon and Nathan. Inspired by Jon's <a href="https://jona.ca/2007/03/glassmouse-do-it-yourself-paper-thin.html">GlassMouse: the do-it-yourself paper-thin mouse</a>.</div>
         </li>
