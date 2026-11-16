@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="zulu-post.php">Zulu Post</a> <span class="date">2026-11-16</span></div>
+            <div class="blurb">Fly six letters across the world by setting a shared UTC clock, untangling surprise tomorrows and quarter-hour offsets, and earning a postal stamp for every on-time arrival. Inspired by Jon's <a href="https://jona.ca/2009/05/tip-set-secondary-clock-to-gmt.html">Tip: Set secondary clock to GMT</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="coverage-critters.php">Coverage Critters</a> <span class="date">2026-11-15</span></div>
             <div class="blurb">Help a fox and a suspicious raccoon test a parcel depot, light up every sorting route, and catch a bug hiding behind perfect coverage. Inspired by Jon's <a href="https://jona.ca/2004/09/emma-free-java-code-coverage-tool.html">EMMA: a free Java code coverage tool</a>.</div>
         </li>
