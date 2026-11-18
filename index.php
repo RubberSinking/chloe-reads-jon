@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="fair-slice.php">Fair Slice</a> <span class="date">2026-11-18</span></div>
+            <div class="blurb">Rotate equal-sized pizza slices through six meatball-sharing puzzles, keeping every topping whole and every diner happy. Inspired by Jon's <a href="https://jona.ca/2005/01/jons-soon-to-be-famous-meatball-pizza.html">soon-to-be-famous Meatball Pizza</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="the-warm-seat.php">The Warm Seat</a> <span class="date">2026-11-17</span></div>
             <div class="blurb">Move and aim a little heater through six room-layout puzzles, dodge unhelpful bookcases, and find a warm spot for every chair. Inspired by Jon's <a href="https://jona.ca/2025/02/kelvin-boldr-review-overhyped-and.html">Kelvin Boldr Review: Overhyped and Underwhelming</a>.</div>
         </li>
