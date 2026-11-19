@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="small-speech-big-moment.php">Small Speech, Big Moment</a> <span class="date">2026-11-19</span></div>
+            <div class="blurb">Give a lunar playground its opening speech through five playful rhetorical edits, then read, rewrite, or save your finished address. Inspired by Jon's <a href="https://jona.ca/2008/04/videos-of-great-speeches-i-have-dream.html">Videos of Great Speeches: I Have A Dream; JFK's Inaugural Address</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="fair-slice.php">Fair Slice</a> <span class="date">2026-11-18</span></div>
             <div class="blurb">Rotate equal-sized pizza slices through six meatball-sharing puzzles, keeping every topping whole and every diner happy. Inspired by Jon's <a href="https://jona.ca/2005/01/jons-soon-to-be-famous-meatball-pizza.html">soon-to-be-famous Meatball Pizza</a>.</div>
         </li>
