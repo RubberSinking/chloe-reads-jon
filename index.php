@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="bookmark-burrow.php">Bookmark Burrow</a> <span class="date">2026-11-20</span></div>
+            <div class="blurb">Rummage through nine illustrated bookmarks to solve six woodland neighbours’ vague requests, using pictures, searchable tags, and a few forgiving clues. Inspired by Jon's <a href="https://jona.ca/2024/11/pinboard-vs-notion.html">Pinboard vs Notion</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="small-speech-big-moment.php">Small Speech, Big Moment</a> <span class="date">2026-11-19</span></div>
             <div class="blurb">Give a lunar playground its opening speech through five playful rhetorical edits, then read, rewrite, or save your finished address. Inspired by Jon's <a href="https://jona.ca/2008/04/videos-of-great-speeches-i-have-dream.html">Videos of Great Speeches: I Have A Dream; JFK's Inaugural Address</a>.</div>
         </li>
