@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="pocket-spirograph.php">The Pocket Spirograph</a> <span class="date">2026-11-21</span></div>
+            <div class="blurb">Roll a little gear into intricate ink loops, layer four colours, and save your own spirograph drawing. Inspired by Jon's <a href="https://jona.ca/2009/06/got-bunch-of-pens.html">Got a bunch of pens</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="bookmark-burrow.php">Bookmark Burrow</a> <span class="date">2026-11-20</span></div>
             <div class="blurb">Rummage through nine illustrated bookmarks to solve six woodland neighbours’ vague requests, using pictures, searchable tags, and a few forgiving clues. Inspired by Jon's <a href="https://jona.ca/2024/11/pinboard-vs-notion.html">Pinboard vs Notion</a>.</div>
         </li>
