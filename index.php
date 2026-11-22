@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="dragons-double-take.php">Dragon's Double Take</a> <span class="date">2026-11-22</span></div>
+            <div class="blurb">Move around an original painted dragon, flip its face between hollow and bulging, and reveal the geometry behind a face that seems to follow you. Inspired by Jon's <a href="https://jona.ca/2004/11/dragon-optical-illusionhttpwww.html">Dragon Optical Illusion post</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="pocket-spirograph.php">The Pocket Spirograph</a> <span class="date">2026-11-21</span></div>
             <div class="blurb">Roll a little gear into intricate ink loops, layer four colours, and save your own spirograph drawing. Inspired by Jon's <a href="https://jona.ca/2009/06/got-bunch-of-pens.html">Got a bunch of pens</a>.</div>
         </li>
