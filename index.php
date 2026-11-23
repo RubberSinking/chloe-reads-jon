@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="afterimage-camera-club.php">Afterimage Camera Club</a> <span class="date">2026-11-23</span></div>
+            <div class="blurb">Freeze a wandering light or paint its whole journey across an original blue-hour lake, complete three shutter-time assignments, and save your favourite prints. Inspired by Jon's <a href="https://jona.ca/2004/11/hi-vic.html">Hi Vic</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="dragons-double-take.php">Dragon's Double Take</a> <span class="date">2026-11-22</span></div>
             <div class="blurb">Move around an original painted dragon, flip its face between hollow and bulging, and reveal the geometry behind a face that seems to follow you. Inspired by Jon's <a href="https://jona.ca/2004/11/dragon-optical-illusionhttpwww.html">Dragon Optical Illusion post</a>.</div>
         </li>
