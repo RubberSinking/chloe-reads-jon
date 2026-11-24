@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="almost-a-circle.php">Almost a Circle</a> <span class="date">2026-11-24</span></div>
+            <div class="blurb">Bend a fixed-length boundary through four roundness experiments, discover the cost of corners and dents, and save your favourite specimen. Inspired by Jon's <a href="https://jona.ca/2009/04/notes-on-aristotles-categories.html">Notes on Aristotle's &quot;Categories&quot;</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="afterimage-camera-club.php">Afterimage Camera Club</a> <span class="date">2026-11-23</span></div>
             <div class="blurb">Freeze a wandering light or paint its whole journey across an original blue-hour lake, complete three shutter-time assignments, and save your favourite prints. Inspired by Jon's <a href="https://jona.ca/2004/11/hi-vic.html">Hi Vic</a>.</div>
         </li>
