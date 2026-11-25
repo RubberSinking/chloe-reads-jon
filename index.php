@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="margin-mischief.php">Margin Mischief</a> <span class="date">2026-11-25</span></div>
+            <div class="blurb">Match nine mischievous editor’s notes to three tiny stories, watch the corrections appear in context, and save the repaired tales. Inspired by Jon's <a href="https://jona.ca/2004/07/i-know-who-you-could-probably-license.html">I know who you could probably license WebNote to</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="almost-a-circle.php">Almost a Circle</a> <span class="date">2026-11-24</span></div>
             <div class="blurb">Bend a fixed-length boundary through four roundness experiments, discover the cost of corners and dents, and save your favourite specimen. Inspired by Jon's <a href="https://jona.ca/2009/04/notes-on-aristotles-categories.html">Notes on Aristotle's &quot;Categories&quot;</a>.</div>
         </li>
