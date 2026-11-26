@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="blind-pen-derby.php">Blind Pen Derby</a> <span class="date">2026-11-26</span></div>
+            <div class="blurb">Test three mystery pens on a little ink track, vote with your hand, then reveal their fictional quirks and save your trial sheet. Inspired by Jon's <a href="https://jona.ca/2009/06/in-search-of-decent-pen-mom-test.html">In search of a decent pen: The Mom Test</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="margin-mischief.php">Margin Mischief</a> <span class="date">2026-11-25</span></div>
             <div class="blurb">Match nine mischievous editor’s notes to three tiny stories, watch the corrections appear in context, and save the repaired tales. Inspired by Jon's <a href="https://jona.ca/2004/07/i-know-who-you-could-probably-license.html">I know who you could probably license WebNote to</a>.</div>
         </li>
