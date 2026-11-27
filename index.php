@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="diner-of-small-disasters.php">Diner of Small Disasters</a> <span class="date">2026-11-27</span></div>
+            <div class="blurb">Take ten orders for everyday social catastrophes, match each to its Seinfeld expression, and save your shift's guest check. Inspired by Jon's <a href="https://jona.ca/2004/11/seinfeld-dictionary.html">Seinfeld dictionary</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="blind-pen-derby.php">Blind Pen Derby</a> <span class="date">2026-11-26</span></div>
             <div class="blurb">Test three mystery pens on a little ink track, vote with your hand, then reveal their fictional quirks and save your trial sheet. Inspired by Jon's <a href="https://jona.ca/2009/06/in-search-of-decent-pen-mom-test.html">In search of a decent pen: The Mom Test</a>.</div>
         </li>
