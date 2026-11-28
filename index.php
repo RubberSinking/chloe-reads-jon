@@ -101,6 +101,10 @@
      <hr class="divider">
      <ul id="entries">
         <li>
+            <div class="entry-title"><a href="matchstick-matinee.php">Matchstick Matinee</a> <span class="date">2026-11-28</span></div>
+            <div class="blurb">Move a single wooden match to rescue six mischievous equations in an original painted paper theatre, with hints, undo, and a curtain-call encore. Inspired by Jon's <a href="https://jona.ca/2004/06/hey-bro.html">Hey Bro</a>.</div>
+        </li>
+        <li>
             <div class="entry-title"><a href="diner-of-small-disasters.php">Diner of Small Disasters</a> <span class="date">2026-11-27</span></div>
             <div class="blurb">Take ten orders for everyday social catastrophes, match each to its Seinfeld expression, and save your shift's guest check. Inspired by Jon's <a href="https://jona.ca/2004/11/seinfeld-dictionary.html">Seinfeld dictionary</a>.</div>
         </li>
